@@ -17,648 +17,19 @@
       ]
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=343495",
-          "author": "Chris Coyier",
-          "description": "Astro is a brand new framework for building websites. To me, the big thing is that it allows you to build a site like you’re using a JavaScript framework (and you are), but the output is a zero-JavaScript static site. …\nThe post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-look-at-building-with-astro/",
-          "publishedOn": "2021-07-07T21:06:35.000Z",
-          "wordCount": 2391,
-          "title": "A Look at Building with Astro"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343388",
-          "author": "Robin Rendle",
-          "description": "There are a lot of great defaults when it comes to browsers and the web. Think about all the accessibility features that are baked into HTML so that you don’t have to do weird stuff, like this example from Manuel…\nThe post The Web’s Worst Default appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-webs-worst-default/",
-          "publishedOn": "2021-07-07T14:30:34.000Z",
-          "wordCount": 1322,
-          "title": "The Web’s Worst Default"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343438",
-          "author": "Chris Coyier",
-          "description": "I appreciate the clarity of this trick that Mikael Ainalem posted over on Reddit:\nIt’s a one-liner that toggles the class on the <body> so you can mock up different states and toggle between them on click.\n<body onclick=\"this.classList.toggle(\"active\");\"\nCould …\nThe post Body Toggle appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/body-toggle/",
-          "publishedOn": "2021-07-06T20:55:45.000Z",
-          "wordCount": 548,
-          "title": "Body Toggle"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343560",
-          "author": "Chris Coyier",
-          "description": "And maybe an optional follow-up if you’re up for it.\nAutomattic, the makers of Jetpack and many other WordPress-y things, have sponsored my site (me = Chris Coyier; site = CSS-Tricks) for quite a while. I use Jetpack myself, …\nThe post I’ve got one question about Jetpack for you. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/ive-got-one-question-about-jetpack-for-you/",
-          "publishedOn": "2021-07-06T20:00:30.000Z",
-          "wordCount": 620,
-          "title": "I’ve got one question about Jetpack for you."
-        },
-        {
-          "id": "https://css-tricks.com/?p=343149",
-          "author": "Martin Lexelius",
-          "description": "Normally, a project will have a set of pre-determined font sizes, usually as variables named in such a way that seeks some semblance of order and consistency. Any project of considerable size can use something like that. There are always …\nThe post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-dilemma-of-naming-font-size-variables/",
-          "publishedOn": "2021-07-06T14:41:22.000Z",
-          "wordCount": 4083,
-          "title": "The Dilemma of Naming Font Size Variables"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343166",
-          "author": "Lari Maza",
-          "description": "If you zone out every time someone mentions “Kubernetes,” “containers,” or “pods,” this article is for you. No complex diagrams involved!\nAs a front-end developer, you don’t have to know how to configure an infrastructure from scratch. However, if you …\nThe post Kubernetes Explained Simply: Containers, Pods and Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images/",
-          "publishedOn": "2021-07-05T14:17:33.000Z",
-          "wordCount": 1193,
-          "title": "Kubernetes Explained Simply: Containers, Pods and Images"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343671",
-          "author": "Chris Coyier",
-          "description": "Web design is such a rectangle-based design medium that literally any deviation from it feels fresh. Michelle Barker gets into using math in various ways to programmatically draw lines, shapes, and animations that end up looking both beautiful and have …\nThe post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/",
-          "publishedOn": "2021-07-05T14:15:20.000Z",
-          "wordCount": 2658,
-          "title": "Trigonometry in CSS and JavaScript: Beyond Triangles"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343496",
-          "author": "Chris Coyier",
-          "description": "It’s CSS-Tricks birthday! Somehow that keeps coming around every year. It’s that time where I reflect upon that past year. It’s like the annual vibe check. \nI’m writing this just days after my current home state of Oregon has …\nThe post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-fourteenth-fourth/",
-          "publishedOn": "2021-07-04T13:29:01.000Z",
-          "wordCount": 1943,
-          "title": "The Fourteenth Fourth"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343435",
-          "author": "Chris Coyier",
-          "description": "The name zero-width space is antithetical, but it’s not without uses. In text, maybe you’d use it around slashes because you want to be sure the words are treated individually but not have any physical space around the slash:…\nThe post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/zero-width-space/",
-          "publishedOn": "2021-07-02T20:39:04.000Z",
-          "wordCount": 1834,
-          "title": "Zero-Width Space"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342995",
-          "author": "Sarah Drasner",
-          "description": "Like it or not, meetings are essential to a good working environment and communication. Therefore, it’s crucial that we work on making them as productive as possible. Today we’ll explore myriad ways to keep meetings coordinated, well documented, and talk …\nThe post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/good-meetings/",
-          "publishedOn": "2021-07-02T14:41:26.000Z",
-          "wordCount": 3441,
-          "title": "Good Meetings"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342994",
-          "author": "Chris Coyier",
-          "description": "This is a super niche blog post. But it’s been on my list forever to write down because this caused me grief for far too long.\nThe setup is that you can use WooCommerce to sell things on a WordPress …\nThe post The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-trick-to-enable-printify-shipping-notifications-for-orders-in-woocommerce-customer-notes/",
-          "publishedOn": "2021-07-02T00:02:51.000Z",
-          "wordCount": 1264,
-          "title": "The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes."
-        },
-        {
-          "id": "https://css-tricks.com/?p=343637",
-          "author": "Chris Coyier",
-          "description": "The marketing for Core Web Vitals (CWV) has been a massive success. I guess that’s what happens when the world’s dominant search engine tells people that something’s going to be an SEO factor. Ya know what language can play a …\nThe post CSS for Web Vitals appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/css-web-vitals/",
-          "publishedOn": "2021-07-01T18:54:45.000Z",
-          "wordCount": 1639,
-          "title": "CSS for Web Vitals"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342591",
-          "author": "Chris Coyier",
-          "description": "This is new stuff from DO.\nApp Platform is a hosting product, no surprise there, but it has some features that are Jamstack-inspired in the best possible way, and an additional set of unique and powerful features. Let’s start with …\nThe post App Platform on Digital Ocean appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/app-platform-on-digital-ocean/",
-          "publishedOn": "2021-07-01T18:54:12.000Z",
-          "wordCount": 971,
-          "title": "App Platform on Digital Ocean"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343092",
-          "author": "Cassidy Williams",
-          "description": "If you’re anything like me, you like being lazy shortcuts. The “Deploy to Netlify” button allows me to take this lovely feature of my personality and be productive with it.\n\nClicking the button above lets me (or you!) instantly …\nThe post Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/hack-the-deploy-to-netlify-button-using-environment-variables-to-make-a-customizable-site-generator/",
-          "publishedOn": "2021-07-01T14:40:14.000Z",
-          "wordCount": 1576,
-          "title": "Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343224",
-          "author": "Chris Coyier",
-          "description": "I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …\nThe post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/",
-          "publishedOn": "2021-06-30T20:36:52.000Z",
-          "wordCount": 990,
-          "title": "How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?"
-        }
-      ]
-    },
-    {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
-      "articles": [
-        {
-          "id": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
-          "author": "hello@smashingmagazine.com (Emiliano Cicero)",
-          "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
-          "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
-          "publishedOn": "2021-07-07T11:00:00.000Z",
-          "wordCount": 4052,
-          "title": "An Introduction To Figma Interactive Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
-          "author": "hello@smashingmagazine.com (Emmanuel Tissera)",
-          "description": "There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.",
-          "link": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
-          "publishedOn": "2021-07-06T10:30:00.000Z",
-          "wordCount": 4121,
-          "title": "How To Choose A Headless CMS",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fa37a67-9079-4b4d-9489-fcd87c7c3807/how-to-choose-a-headless-cms.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
-          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
-          "description": "In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.",
-          "link": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
-          "publishedOn": "2021-07-05T10:30:00.000Z",
-          "wordCount": 1582,
-          "title": "Using HSL Colors In CSS",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73607a1e-fe7f-47ea-aada-df79342d823a/hsl-colors-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/email-testing-flow/",
-          "author": "hello@smashingmagazine.com (Andriy Zapisotskyi)",
-          "description": "With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.",
-          "link": "https://smashingmagazine.com/2021/07/email-testing-flow/",
-          "publishedOn": "2021-07-02T10:30:00.000Z",
-          "wordCount": 4208,
-          "title": "Email Testing Flow As It Should Be",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57a53d31-9651-4d88-b2fe-f8de70c08da1/email-testing-flow.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
-          "author": "hello@smashingmagazine.com (Ramona Schwering)",
-          "description": "When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.",
-          "link": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
-          "publishedOn": "2021-07-01T12:30:00.000Z",
-          "wordCount": 4758,
-          "title": "It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc1434b9-70c3-4fb2-821e-2128e3373246/frontend-testing-pitfalls.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/web-workers-2021/",
-          "author": "hello@smashingmagazine.com (Surma)",
-          "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
-          "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
-          "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4728,
-          "title": "The State Of Web Workers In 2021",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
-          "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
-          "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3686,
-          "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "Static Generation is great for performance — until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.",
-          "link": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
-          "publishedOn": "2021-06-29T11:00:00.000Z",
-          "wordCount": 2453,
-          "title": "Breaking Down Bulky Builds With Netlify And Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a11af025-97a1-4506-8cbe-a7786e5574c9/breaking-down-bulky-builds-netlify-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.",
-          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
-          "publishedOn": "2021-06-29T05:30:00.000Z",
-          "wordCount": 6619,
-          "title": "Smashing Podcast Episode 40 With Mike Cavaliere: What Is Chakra UI For React?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e981ad2c-0679-4935-b19f-39d1ca96823e/smashing-podcast-episode-40.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
-          "author": "hello@smashingmagazine.com (Manuel Matuzović)",
-          "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
-          "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
-          "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2512,
-          "title": "Creating Custom Emmet Snippets In VS Code",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
-          "author": "hello@smashingmagazine.com (Dom Habersack)",
-          "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
-          "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
-          "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5398,
-          "title": "Creating A Multi-Author Blog With Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
-          "author": "hello@smashingmagazine.com (Mark Lankmilier)",
-          "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
-          "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
-          "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3531,
-          "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
-          "author": "hello@smashingmagazine.com (Josh Singer)",
-          "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
-          "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
-          "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4170,
-          "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
-          "link": "https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/",
-          "publishedOn": "2021-06-23T13:30:00.000Z",
-          "wordCount": 947,
-          "title": "Smashing Online Workshops (July-October 2021)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
-          "author": "hello@smashingmagazine.com (Cameron Cundiff)",
-          "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
-          "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
-          "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1402,
-          "title": "Automating Screen Reader Testing On macOS Using Auto VO",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.",
-          "link": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
-          "publishedOn": "2021-06-22T09:00:00.000Z",
-          "wordCount": 2885,
-          "title": "Designing With Code: A Modern Approach To Design (Development Challenges)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/08546e48-5034-466a-a29c-08ce3827416e/uxpin-ui.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
-          "author": "hello@smashingmagazine.com (Ayobami Ogundiran)",
-          "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
-          "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
-          "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5358,
-          "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
-          "author": "hello@smashingmagazine.com (Ottomatias Peura)",
-          "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
-          "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
-          "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3421,
-          "title": "An Alternative Voice UI To Voice Assistants",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
-          "author": "hello@smashingmagazine.com (Adebiyi Adedotun)",
-          "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
-          "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
-          "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3959,
-          "title": "Client-Side Routing In Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
-          "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
-          "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1635,
-          "title": "Your Image Is Probably Not Decorative",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
-          "author": "hello@smashingmagazine.com (Nic Chan)",
-          "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
-          "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
-          "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4107,
-          "title": "A Complete Guide To Accessibility Tooling",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?",
-          "link": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
-          "publishedOn": "2021-06-15T10:15:00.000Z",
-          "wordCount": 2381,
-          "title": "Spinning Up Multiple WordPress Sites Locally With DevKinsta",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2798d879-8878-49e3-bc0f-a1b2008210c0/devkinsta-frontpage.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.",
-          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
-          "publishedOn": "2021-06-15T07:00:00.000Z",
-          "wordCount": 10715,
-          "title": "Smashing Podcast Episode 39 With Addy Osmani: Image Optimization",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf1aeccc-a603-4cb3-b716-69bd0c86d33a/smashing-podcast-episode-39.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
-          "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
-          "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3666,
-          "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
-          "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
-          "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1744,
-          "title": "Web Design Done Well: Making Use Of Audio",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
-          "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
-          "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5158,
-          "title": "Useful Front-End Boilerplates And Starter Kits",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
-          "author": "hello@smashingmagazine.com (Stefan Judis)",
-          "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
-          "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
-          "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 867,
-          "title": "Three Front-End Auditing Tools I Discovered Recently",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
-          "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
-          "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2778,
-          "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        }
-      ]
-    },
-    {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
-      "articles": [
-        {
-          "id": "60e521aa134ad707be00e41d",
-          "author": null,
-          "description": "Objects are one of the most valuable things you can learn in Javascript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now",
-          "link": "https://www.freecodecamp.org/news/what-is-a-javascript-object/",
-          "publishedOn": "2021-07-07T22:04:00.000Z",
-          "wordCount": 761,
-          "title": "What is a JavaScript Object? Key Value Pairs and Dot Notation Explained"
-        },
-        {
-          "id": "60ccd1794dc1a607ed7b4feb",
-          "author": null,
-          "description": "A lot of people want to learn machine learning these days. But the daunting bottom-up curriculum that most ML teachers propose is enough discourage a lot of newcomers.  In this tutorial I flip the curriculum upside down and will outline what I think is the fastest and easiest way to",
-          "link": "https://www.freecodecamp.org/news/how-to-learn-machine-learning-practical-tips-and-resources/",
-          "publishedOn": "2021-07-07T17:28:00.000Z",
-          "wordCount": 5411,
-          "title": "How to Learn Machine Learning – Tips and Resources to Learn ML the Practical Way"
-        },
-        {
-          "id": "60e25e17134ad707be00d947",
-          "author": null,
-          "description": "List comprehension is an easy to read, compact, and elegant way of creating a list from any existing iterable object. Basically, it's a simpler way to create a new list from the values in a list you already have. It is generally a single line of code enclosed in square",
-          "link": "https://www.freecodecamp.org/news/list-comprehension-in-python/",
-          "publishedOn": "2021-07-07T17:25:39.000Z",
-          "wordCount": 1592,
-          "title": "List Comprehension in Python Explained for Beginners"
-        },
-        {
-          "id": "60c38e76d3126007592d66cd",
-          "author": null,
-          "description": "I've carefully gone through over 50 resources, I've been through 10 JavaScript interviews, and I've landed a job at a unicorn startup. And throughout this entire process, I started to see a pattern in the most frequently asked JS interview questions.  In this article, I have tried to list the",
-          "link": "https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/",
-          "publishedOn": "2021-07-07T15:43:17.000Z",
-          "wordCount": 4364,
-          "title": "JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts"
-        },
-        {
-          "id": "60d5ec446e1a1407b6b0bcae",
-          "author": null,
-          "description": "Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but",
-          "link": "https://www.freecodecamp.org/news/what-is-binary-search/",
-          "publishedOn": "2021-07-07T13:57:56.000Z",
-          "wordCount": 13488,
-          "title": "What is Binary Search?"
-        },
-        {
-          "id": "60e16e1b134ad707be00d6bc",
-          "author": null,
-          "description": "In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use",
-          "link": "https://www.freecodecamp.org/news/automatically-upload-an-android-app-bundle-to-the-play-store/",
-          "publishedOn": "2021-07-06T21:08:39.000Z",
-          "wordCount": 2504,
-          "title": "How to Automatically Upload an Android App Bundle to the Play Store"
-        },
-        {
-          "id": "60b22e9611ffb70827ef9547",
-          "author": null,
-          "description": "In this tutorial, you will learn how to authenticate users and secure endpoints in Node.js. You'll also see how to implement Cross-Origin Resource Sharing (CORS) in Node. So let's get started.  Prerequisites You'll need the following to follow along with this tutorial:  A working understanding of JavaScript. A good",
-          "link": "https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/",
-          "publishedOn": "2021-07-06T16:02:13.000Z",
-          "wordCount": 2286,
-          "title": "How to Authenticate Users and Implement CORS in Node.js Apps"
-        },
-        {
-          "id": "60df35f027f80207bcdbccea",
-          "author": null,
-          "description": "Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of",
-          "link": "https://www.freecodecamp.org/news/javascript-tips-to-improve-your-react-code-today/",
-          "publishedOn": "2021-07-06T15:12:00.000Z",
-          "wordCount": 1570,
-          "title": "5 JavaScript Tips to Improve Your React Code"
-        },
-        {
-          "id": "60aa196411ffb70827ef5f43",
-          "author": null,
-          "description": "In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and",
-          "link": "https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/",
-          "publishedOn": "2021-07-06T14:27:26.000Z",
-          "wordCount": 2989,
-          "title": "How to Schedule a Job in Node Using node-cron"
-        },
-        {
-          "id": "60df6dd827f80207bcdbcf06",
-          "author": null,
-          "description": "Earning the Certified Information Systems Security Professional (CISSP) Certification proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program. The CISSP is one of the most valuable Cyber Security Certificates in the market today.  We just posted a 13-hour course on the freeCodeCamp.org",
-          "link": "https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/",
-          "publishedOn": "2021-07-06T13:55:00.000Z",
-          "wordCount": 109640,
-          "title": "Get Ready to Pass CISSP Exam"
-        }
-      ]
-    },
-    {
       "title": "はてなブックマーク - 人気エントリー - テクノロジー",
       "feedUrl": "https://b.hatena.ne.jp/hotentry/it.rss",
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOUB256V60V20C21A6000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 米グーグルが日本で金融事業に本格参入することが8日までにわかった。国内のスマートフォン決済会社を200億円超で買収し、インドや米国に続き日本でも2022年をめどに自...",
+          "link": "https://www.nikkei.com/article/DGXZQOUB256V60V20C21A6000000/",
+          "publishedOn": "2021-07-08T09:06:30.000Z",
+          "wordCount": 109,
+          "title": "Google、日本で金融本格参入へ　国内スマホ決済買収: 日本経済新聞"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2107/08/news123.html",
           "author": null,
@@ -804,6 +175,15 @@
           "title": "Webの進化が止まらない、コピペ可な最新HTMLスニペット40個まとめ - PhotoshopVIP"
         },
         {
+          "id": "https://note.com/unshift/n/n554ecabf422d",
+          "author": null,
+          "description": "まえがき先日新しいiOSであるiOS15が発表されました。その中でもSafariのアドレスバーの仕様が大きく変更されたことがWeb制作関係の間で話題になりました。 というのもその仕様が変更が、以前までは上部にあったアドレスバーが下部に移動し、かつフロートするというものだったからです。 ※画像はこのページをキャプチャ...",
+          "link": "https://note.com/unshift/n/n554ecabf422d",
+          "publishedOn": "2021-07-07T23:32:52.000Z",
+          "wordCount": null,
+          "title": "iOS15 Safari アドレスバーの仕様についてPublic beta版からわかること｜Takumi Hasegawa (unshift)｜note"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2107/08/news041.html",
           "author": null,
           "description": "しばしば聴かれる質問。だが、この問題については誰もちゃんと答えていないようなので、西田宗千佳さんが乗り出した。 現在のスマートフォンは、ほとんどがバッテリー内蔵で、交換することができない。先日、「交換できないのは問題だ」とする記事がSNSでバズっていた。メーカーがスマホを買い替えさせるために交換でき...",
@@ -928,6 +308,1292 @@
           "publishedOn": "2021-07-06T11:55:33.000Z",
           "wordCount": 151,
           "title": "Webサイト制作をどれくらいの粒度で分解してタスク化するか｜重松佑 / Shhh inc.｜note"
+        }
+      ]
+    },
+    {
+      "title": "Qiita - 人気の記事",
+      "feedUrl": "https://qiita.com/popular-items/feed",
+      "siteUrl": "https://qiita.com/popular-items",
+      "articles": [
+        {
+          "id": "https://qiita.com/ockeghem/items/6590b2e18af1d062e780?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "以下の記事を読みました。\n\nCookieのPath属性は本当に安全性に寄与しないのか\n\n結論として以下となっています。\n\n\n結論。Path属性は特殊な状況下ではある程度安全性に寄与する\nPath属性は、これ…",
+          "link": "https://qiita.com/ockeghem/items/6590b2e18af1d062e780?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T03:45:40.000Z",
+          "wordCount": 360,
+          "title": "Re: CookieのPath属性は本当に安全性に寄与しないのか"
+        },
+        {
+          "id": "https://qiita.com/d_date/items/db540e9ed127b1b23e40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "iOSアプリをApp Storeではなく、Webサービスなどからベータ版のアプリを配信する方法を Ad hoc 配信といいます。\nAd hoc配信はiOSアプリ開発の黎明期から行われておりますが、…",
+          "link": "https://qiita.com/d_date/items/db540e9ed127b1b23e40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T01:49:09.000Z",
+          "wordCount": 873,
+          "title": "Ad hoc配信をやめてTestFlightで配信する"
+        },
+        {
+          "id": "https://qiita.com/umaneko/items/c82703a48939183df0af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "html2canvas\n\nVue.js + TypeScriptの構成で画面キャプチャ取りたいな〜と思っていたら良さそうなライブラリを見つけました。\nこれを使って一応要求は満たせし、せっかくなので実装…",
+          "link": "https://qiita.com/umaneko/items/c82703a48939183df0af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-08T00:40:38.000Z",
+          "wordCount": 551,
+          "title": "html2canvasを使ってVue.jsで画面キャプチャを取る（おまけ付き）"
+        },
+        {
+          "id": "https://qiita.com/Takazudo/items/895376bef5c31deebc98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "前回: https://qiita.com/Takazudo/items/59a1f44ecdc01e95604f\n\n「先輩さん」\n『はい、後輩ちゃん』\n「前話してた1,000万の見積もりの話なんです…",
+          "link": "https://qiita.com/Takazudo/items/895376bef5c31deebc98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T17:03:36.000Z",
+          "wordCount": 447,
+          "title": "俺の見積もりがこんなに安いわけがない: 第2話 We will specialize"
+        },
+        {
+          "id": "https://qiita.com/neon-izm/items/d200838cbb7875dde621?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\nUnityはマルチプラットフォーム対応のゲームエンジンなのでiOSやAndroid以外にWindows向けのバイナリを生成することも出来ます。\n\nなので「ちょっとしたゲームが出来たから配布して…",
+          "link": "https://qiita.com/neon-izm/items/d200838cbb7875dde621?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T16:00:31.000Z",
+          "wordCount": 340,
+          "title": "ZipでUnityのexeファイルを配るの止めたい。InnoSetupを使おう"
+        },
+        {
+          "id": "https://qiita.com/zakuroishikuro/items/db5390e0d0c321f79718?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "前回の記事でコメントいただいたので。\n\nこんな感じになる。\n前回はランダムでルーン文字に置換しただけだったけど、今回のは頑張ればちゃんと読める。\n\n\n\nChrome拡張の作り方を学ぶためなので配布はしません。\n作り方を書くだけ…",
+          "link": "https://qiita.com/zakuroishikuro/items/db5390e0d0c321f79718?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T15:39:25.000Z",
+          "wordCount": 906,
+          "title": "一般サイトがハンター専用サイトになるChrome拡張を作る"
+        },
+        {
+          "id": "https://qiita.com/flankids/items/e9ed1a25a7dd8d61f633?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Newポケモンスナップ、いろんなフィルタがあって現代の写真遊びに則ったカメラゲームらしさがあって凄く素敵ですね。\n\n　\n\nいろんなフィルタがある中、シルエットフィルタはゲームらしいフィルタで意外と他のゲ…",
+          "link": "https://qiita.com/flankids/items/e9ed1a25a7dd8d61f633?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T15:33:51.000Z",
+          "wordCount": 718,
+          "title": "[Unity]カメラに映る画面をおしゃれにシルエット化する"
+        },
+        {
+          "id": "https://qiita.com/fu_fu/items/208b35eb63abe1e8cf01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n最近雨で、家にいることが多いですよね。\nとなると、人生にスパイスが必要になるのは自明かと思います。\n\nスパイスといえばやはり、笑い\n\n笑いというのは一般に「外的刺激によって、異なるイメージが…",
+          "link": "https://qiita.com/fu_fu/items/208b35eb63abe1e8cf01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T14:55:45.000Z",
+          "wordCount": 390,
+          "title": "人生にスパイスが欲しいので虹色に光るゲーミング文字を作った"
+        },
+        {
+          "id": "https://qiita.com/Rui1009/items/6334722baeb1ce85158f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n僕は現在ITスタートアップでソフトウェアエンジニアとして働いています。プログラミングの学習歴はおおよそ2年です。\n先日、最新の技術記事が自動配信されるSlackアプリ「Winkie(ウィ…",
+          "link": "https://qiita.com/Rui1009/items/6334722baeb1ce85158f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T13:50:52.000Z",
+          "wordCount": 352,
+          "title": "文系エンジニア未経験がアプリケーションを作れるようになるまで"
+        },
+        {
+          "id": "https://qiita.com/Miyaji555/items/100aec9a7da093557797?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "1. はじめに\n\nアプリケーションを作成していると複数のアカウント種別(何と表現していいのかわからない)を作成したくなることがあると思う。つまり、管理者アカウントと一般アカウントだったり、先生アカウ…",
+          "link": "https://qiita.com/Miyaji555/items/100aec9a7da093557797?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T11:38:15.000Z",
+          "wordCount": 362,
+          "title": "Flutter×Firebaseで複数のアカウント種別を作成する"
+        },
+        {
+          "id": "https://qiita.com/ishishow/items/401629972bea46c680f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nKubernetesを利用する時にサービスメッシュを検討することがあるかと思います。\n\n本記事ではサービスメッシュとは何か?\nまた、サービスメッシュの機能を持つIstioについて説明してい…",
+          "link": "https://qiita.com/ishishow/items/401629972bea46c680f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T10:21:27.000Z",
+          "wordCount": 384,
+          "title": "サービスメッシュ Istioとは?"
+        },
+        {
+          "id": "https://qiita.com/nobu_kyutech/items/cac214d7c98217e802f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n\nデスクトップウォレットに表示されるような内容をプログラム（Python）から取得する方法を残しています。\n全コードはGithubにて公開中\n\n\nバグや次回の要望あればコメントください\n\n投げXYM…",
+          "link": "https://qiita.com/nobu_kyutech/items/cac214d7c98217e802f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T09:53:13.000Z",
+          "wordCount": 484,
+          "title": "[Symbol] Pythonでハーベスト履歴を取得"
+        },
+        {
+          "id": "https://qiita.com/ohakutsu/items/0c108469b95be1df6064?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nパフォーマンスが事業に影響を与えるという話はよく聞くが、実際にどんな事例があるのだろうかと思ったので調べてみました。\n他にも多く事例があると思うので、他にもあったらコメントいただけると嬉…",
+          "link": "https://qiita.com/ohakutsu/items/0c108469b95be1df6064?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T05:38:15.000Z",
+          "wordCount": 332,
+          "title": "Webサイトのパフォーマンス改善がもたらした事例をまとめてみた"
+        },
+        {
+          "id": "https://qiita.com/geeorgey/items/ea60afe0c44a5f9db483?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こちらの具体的な開発についてのpostです。\nhttps://qiita.com/geeorgey/items/ace37bd92841c9d1a378\n\n開発元となるソースコードはこちらです。\nht…",
+          "link": "https://qiita.com/geeorgey/items/ea60afe0c44a5f9db483?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T02:59:16.000Z",
+          "wordCount": 723,
+          "title": "pythonを使ってリアクティブなWebアプリを作りたい【開発編】"
+        },
+        {
+          "id": "https://qiita.com/tosseto/items/3f88e64be9f6f8e11d4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "2021年7月3日に静岡県熱海市伊豆山地区で発生した土石流災害に関連して、静岡県では兼ねてから災害に備えて3次元点群データの蓄積・オープンデータ化が進められていたほか、災害発生直後より比較的短期間…",
+          "link": "https://qiita.com/tosseto/items/3f88e64be9f6f8e11d4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-07T02:17:30.000Z",
+          "wordCount": 407,
+          "title": "2021年7月静岡県熱海市の土石流災害に関する空間データの可視化と共有"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/43873ffd84b102d95929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://qiita.com/e99h2121/items/bb9e22af744dec95caa0\n\nの続編のようなポエム。\n\n「できるかできないかわからない状態」の物事に対して「いつまでになら…",
+          "link": "https://qiita.com/e99h2121/items/43873ffd84b102d95929?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T21:21:46.000Z",
+          "wordCount": 323,
+          "title": "「いつまでにならできますか？」に対抗する、少しでも自信を持って見積もるための知恵"
+        },
+        {
+          "id": "https://qiita.com/nosuke505/items/0c93900516070e59f127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "新社会人１年目で周りにある問題を解決してみてたい\n\nこれはグループ取り組んだものです。会社では報連相をSlackとTeamsで行っていました。しかし、自分たち社会人１年目の同期はLineでやりとりし…",
+          "link": "https://qiita.com/nosuke505/items/0c93900516070e59f127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T18:45:46.000Z",
+          "wordCount": 700,
+          "title": "LineとTeamsをSlackに集約"
+        },
+        {
+          "id": "https://qiita.com/OKsaiyowa/items/925df2d48f0bcfd2b6b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nVR空間で操作したアバターをAR空間に表示するという一見単純な実装ですが、\n意外と考慮しないといけない点が多く、大変だったのでメモします。\n\n私のやろうとしていることとほぼ同じことを行い、…",
+          "link": "https://qiita.com/OKsaiyowa/items/925df2d48f0bcfd2b6b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T16:01:23.000Z",
+          "wordCount": 1368,
+          "title": "【Unity(C#)】DMM VR ConnectとImmersalを組み合わせてVR空間で操作したアバターをAR空間に表示する"
+        },
+        {
+          "id": "https://qiita.com/m3t/items/676c7ec8570864c715a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの度、ポートフォリオとして「TABIGINNER」というアプリを作りました!！ ​\n私自身、元バックパッカーで旅が大好きなので、コロナ下で外出することが中々難しいこのご時世ではあります…",
+          "link": "https://qiita.com/m3t/items/676c7ec8570864c715a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T15:45:53.000Z",
+          "wordCount": 368,
+          "title": "〜旅人育成アプリ「TABIGINNER」を作りました〜"
+        },
+        {
+          "id": "https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "TL; NR\n\nPyWebIOっていう、Pythonユーザ向けでけっこうイケてる(死語)Webアプリケーションフレームワークを発見した。(正確にはスタックオーバーフローのコメントで知った)\nなのに日…",
+          "link": "https://qiita.com/payaneco/items/51a11a8063b7f0654561?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T11:37:37.000Z",
+          "wordCount": 538,
+          "title": "「PyWebIO」があればPython 100%でWebアプリ作れるってマジ！？"
+        },
+        {
+          "id": "https://qiita.com/akitkat/items/20ca44adba3b87f02e4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこんにちは。皆さん、箱アイス買いますか？夏になるとパッケージの裏がはがきになってて、懸賞応募できるようになっているアイスとかありますよね！私は毎年あずきバー食べて送ってます、筆者です\n\n(…",
+          "link": "https://qiita.com/akitkat/items/20ca44adba3b87f02e4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T09:06:29.000Z",
+          "wordCount": 322,
+          "title": "オプショナルチェイニングのドキュメント見て、jsの関数ってオブジェクトだったわと再認識した"
+        },
+        {
+          "id": "https://qiita.com/takahashi-mcd/items/5bc6621a7c6160b92a7f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n普通、試験ってスキルアップしてから受けるものですよね？\n進めていくとスキルアップできる試験が存在するのを知っていますか？\n\nそんな型破りな試験が存在するのです。\n\n【無料公開】fwywd 採…",
+          "link": "https://qiita.com/takahashi-mcd/items/5bc6621a7c6160b92a7f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T07:37:45.000Z",
+          "wordCount": 892,
+          "title": "【スキルアップできる採用試験】fwywd（フュード）採用一次試験を迷わずに進めるために必要な知識 ~開発環境構築~"
+        },
+        {
+          "id": "https://qiita.com/kosuke_doi/items/c188fb05f97e9e61cac0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n初めまして、ARIの2年目土井と申します。\n初プロジェクトにアサインされてもうすぐ1年になるので、この1年で一番使った機能のスクリーンショットに関してまとめたいと思います。\n\nスクリーンショ…",
+          "link": "https://qiita.com/kosuke_doi/items/c188fb05f97e9e61cac0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T04:37:39.000Z",
+          "wordCount": 319,
+          "title": "Windowsのスクリーンショットの使い分け"
+        },
+        {
+          "id": "https://qiita.com/Kendai/items/755a7a6c69dfb0014ef3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "先日、誰でも最短1分でYouTubeの切り抜きを作れるウェブサービスを公開しました。\n\n私はプログラミングの勉強を始めて1年半の初学者ですが、個人開発でサービスを公開するまでに、数多くの失敗と苦労をし…",
+          "link": "https://qiita.com/Kendai/items/755a7a6c69dfb0014ef3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-06T03:06:05.000Z",
+          "wordCount": 398,
+          "title": "１００万円失いながらハッキングを乗り越え誰でも１分で切り抜きを作れるサービスを公開するまでの失敗と学び"
+        },
+        {
+          "id": "https://qiita.com/dynamonda/items/fa99d141c44098890be3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "GitHubにAPIのキーが書かれたファイルを上げてしまったので、対処の流れを書き残しておきます。\n　BFGを使用する方法とfilter-branchを使用する方法があるのですが、今回は後者をやっ…",
+          "link": "https://qiita.com/dynamonda/items/fa99d141c44098890be3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-05T23:22:40.000Z",
+          "wordCount": 450,
+          "title": "githubに間違って機密データを上げてしまった時の対処"
+        },
+        {
+          "id": "https://qiita.com/CHOIJUNGWON/items/5f3f77915478557d2ccc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "勉強方法が完全に間違っていた\n\n私は今年２月末、AWS-SAAに合格しました。勉強期間は約３ヶ月で、最初の２ヶ月は勉強内容がとても難しく、なかなか進むことができませんでした。SAA受験書にある内容を…",
+          "link": "https://qiita.com/CHOIJUNGWON/items/5f3f77915478557d2ccc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-05T22:57:32.000Z",
+          "wordCount": 356,
+          "title": "【初心者向け】AWS-SAA勉強を始まる前に確認しておくと役に立つかも知れない基本用語チェックリスト"
+        },
+        {
+          "id": "https://qiita.com/akase244/items/2c37227574b8398160c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ここ数日、自分が管理している多数のアカウントの整理をしていまして、（本当はよくないことですが）使い回してるパスワードがわりとあったので、そういったパスワードを撲滅すべく変更をしては1Password…",
+          "link": "https://qiita.com/akase244/items/2c37227574b8398160c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-05T12:58:09.000Z",
+          "wordCount": 286,
+          "title": "こんなパスワード変更画面は嫌だ"
+        },
+        {
+          "id": "https://qiita.com/KKusumi/items/d1c8ea9acc8544fa64aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n最近のAndroid界隈でホットな話題といえば、そう。Jetpack Compose。\nこないだやってたI/O Extended Japan 2021 - AndroidでもJetpac…",
+          "link": "https://qiita.com/KKusumi/items/d1c8ea9acc8544fa64aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-05T09:10:40.000Z",
+          "wordCount": 846,
+          "title": "【Android】Jetpack Compose × MVVM × Hilt × マルチモジュールでポケモン図鑑作ってみた【Jetpack Compose】"
+        },
+        {
+          "id": "https://qiita.com/temmaru/items/6da42ede23aeabe8c263?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "背景\n\nRustという言語がとても気になっていた。\nまだ登場してから長くない言語なのに、Oracleのコンテナランタイム環境として採用されたり、MicrosoftがC++の後継として採用したりと、主…",
+          "link": "https://qiita.com/temmaru/items/6da42ede23aeabe8c263?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-07-05T09:01:46.000Z",
+          "wordCount": 920,
+          "title": "RustでCコンパイラ作ってみた"
+        },
+        {
+          "id": "https://qiita.com/emi-hayashi/items/3d1ad0f9af103228ba6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめまして。DMM.com PF（プラットフォーム事業本部）公式のQiitaをはじめました！今回は、簡単にDMM.comのプラットフォーム事業について、とどのような記事を公開していくかのご紹介をし…",
+          "link": "https://qiita.com/emi-hayashi/items/3d1ad0f9af103228ba6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-06-30T02:03:40.000Z",
+          "wordCount": 318,
+          "title": "ご紹介：DMM.comPF事業本部です"
+        }
+      ]
+    },
+    {
+      "title": "GIGAZINE",
+      "feedUrl": "https://gigazine.net/news/rss_2.0",
+      "siteUrl": "https://gigazine.net/",
+      "articles": [
+        {
+          "id": "https://gigazine.net/news/20210708-stolen-iphones-access-bank-accounts/",
+          "author": null,
+          "description": "高値で転売できるiPhoneは、国や地域によっては窃盗や強盗のターゲットになる危険があります。また、ブラジルでは「盗んだiPhoneを転売するのではなく、銀行口座に不正アクセスするために利用する」という犯罪が多発しているとのこと。犯罪者が盗んだiPhoneから銀行口座にアクセスする手口について、現地メディアのFolha de S. Pauloが報じています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-stolen-iphones-access-bank-accounts/",
+          "publishedOn": "2021-07-08T08:00:00.000Z",
+          "wordCount": 240,
+          "title": "盗んだiPhoneから銀行口座にアクセスしてお金を引き出す方法とは？"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-tricking-facial-recognition-systems/",
+          "author": null,
+          "description": "顔認証技術はスマートフォンのアンロックの方法として一般的になってきたほか、アプリの認証システムとしても利用されています。しかし、近年は顔認証システムを突破する詐欺が目立っており、今後はさらに増加していくものと見られています。詐欺師たちはどのようにして顔認証システムをだまそうとしているのか、テクノロジーレポーターのParmy Olson氏が伝えています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-tricking-facial-recognition-systems/",
+          "publishedOn": "2021-07-08T07:00:00.000Z",
+          "wordCount": 176,
+          "title": "顔認証システムをだます詐欺が急増、詐欺師はどうやって突破しているのか？"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-tiktok-resumes-job/",
+          "author": null,
+          "description": "TikTokが2021年7月7日に、ショートムービーを使用して企業の求人に応募できる「TikTok Resumes」をアメリカで開始しました。7月31日までのパイロットプログラムとしてスタートしたこの枠組みに対し、ShopifyやTargetなどの企業が参加を表明しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-tiktok-resumes-job/",
+          "publishedOn": "2021-07-08T06:00:00.000Z",
+          "wordCount": 269,
+          "title": "TikTokでエントリーシート代わりの自己PRムービーを作って就活できる「Resumes」がスタート"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-sothebys-accept-bitcoin-ether-diamond-auction/",
+          "author": null,
+          "description": "世界最古の国際オークション企業サザビーズが、2021年7月9日に実施される101.38カラットのダイヤモンドの競売に際し、「暗号資産による決済を受け付ける」と発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-sothebys-accept-bitcoin-ether-diamond-auction/",
+          "publishedOn": "2021-07-08T05:00:00.000Z",
+          "wordCount": 202,
+          "title": "サザビーズが101.38カラットのダイヤの競売に「ビットコインとイーサリアムでの支払い」を受け付けると発表"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-shlomit-weiss-return-intel/",
+          "author": null,
+          "description": "Intelが、過去に28年間在籍して数々のチップを生み出したチップアーキテクトのシュロミット・ワイス氏の4年ぶりの復帰を明らかにしました。これは、パット・ゲルシンガーCEOによるエンジニア陣再構築の流れの1つです。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-shlomit-weiss-return-intel/",
+          "publishedOn": "2021-07-08T04:15:00.000Z",
+          "wordCount": 212,
+          "title": "Intelに「Sandy Bridge」「Skylake」を生んだベテランアーキテクトのシュロミット・ワイス氏が復帰"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-bitcoin-power-plant-turning-hot-tub/",
+          "author": null,
+          "description": "既に使われなくなったニューヨーク州北部にあるグリニッジ発電所を買収し、暗号資産(仮想通貨)のBitcoin(ビットコイン)を発掘するための電力を発電するという取り組みを、未公開会社のAtlasが進めています。しかし、この発電所が発電する際に生じる熱が、近くにある湖の水を温水に変えてしまっていると近隣住民から苦情の声が上がっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-bitcoin-power-plant-turning-hot-tub/",
+          "publishedOn": "2021-07-08T03:47:00.000Z",
+          "wordCount": 185,
+          "title": "ビットコイン用に買収された発電所からの排熱で湖が温水に代わってしまう事態が発生"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-youtube-recommend-video-algorithm-problem/",
+          "author": null,
+          "description": "ウェブブラウザのFirefoxを展開するMozillaが、「YouTubeのおすすめ動画欄に出てくる動画」についてユーザーの情報をもとに10カ月間の調査を行った結果、YouTubeがユーザーに不適切な動画をおすすめとして表示していることを発見しました。この傾向は特に英語圏以外のユーザーに顕著で、Mozillaは「アルゴリズムに問題がある」と指摘しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-youtube-recommend-video-algorithm-problem/",
+          "publishedOn": "2021-07-08T03:44:00.000Z",
+          "wordCount": 194,
+          "title": "YouTubeがおすすめ動画としてポリシーに違反するコンテンツを表示していることが判明"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-nakau-cheese-oyakodon-taiketsu/",
+          "author": null,
+          "description": "丼と京風うどんチェーンのなか卯に2021年7月8日から、ゴーダ・レッドチェダー・モッツァレラ・パルメザンという4種類のチーズが味わえる「濃厚チーズの親子丼」と、ゴーダ・レッドチェダー・モッツァレラの3種類のチーズにコチュジャンベースのタレをかけたチーズタッカルビ風の「甘辛チーズの親子丼」が登場しています。「親子丼でチーズ対決！あなたはどっち派！？」と両メニューの食べ比べをなか卯公式が推奨していたので、実際にどちらも食べて比較してみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-nakau-cheese-oyakodon-taiketsu/",
+          "publishedOn": "2021-07-08T03:25:00.000Z",
+          "wordCount": 171,
+          "title": "濃厚でクセのあるチーズがふんわり卵と出汁と絡み合うなか卯の「濃厚チーズの親子丼」と「甘辛チーズの親子丼」を食べ比べてみた"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-apple-google-preinstalled-app-dominate/",
+          "author": null,
+          "description": "スマートフォンに搭載されるiOSやAndroidなどのモバイルOSには、OSを開発したAppleやGoogleの自社製アプリが多数プリインストールされています。新たに、Facebookが資金提供を行った調査結果が公開され、「iOSやAndroidで使用されるアプリの多くはAppleやGoogleの自社製アプリである」ことが示されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-apple-google-preinstalled-app-dominate/",
+          "publishedOn": "2021-07-08T03:00:00.000Z",
+          "wordCount": 190,
+          "title": "「AppleとGoogleのプリインストールアプリが競争を阻害している」とのFacebookの資金による調査結果が公開"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-ban-surveillance-based-targeting/",
+          "author": null,
+          "description": "近年のインターネットにおけるデジタル広告は、「ユーザーの行動を追跡すること」をベースに構築されています。このためプライバシーを侵害するという指摘が多く、広告企業であるGoogleは、既存の仕組みを廃止し新たな広告の仕組みを作り出そうとしています。しかし、新しい広告の仕組みでも依然として「ユーザーの行動を追跡する」という慣行が残ることから、「そもそも監視ベースの広告を廃止すべきのだ」という主張が強まっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-ban-surveillance-based-targeting/",
+          "publishedOn": "2021-07-08T02:33:00.000Z",
+          "wordCount": 178,
+          "title": "「監視」を元にした広告は禁止されるべきという批判"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-assassins-creed-infinity-live-online/",
+          "author": null,
+          "description": "アメリカ大手紙のBloombergが情報筋から得た情報だとして、Ubisoftが時間の経過とともに進化する「ライブサービス」タイプのゲームである「Assassin’s Creed Infinity」を開発していると報じました。この報道を受け、当のUbisoft自身が同ゲームに関する開発情報の公開に踏み切りました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-assassins-creed-infinity-live-online/",
+          "publishedOn": "2021-07-08T02:20:00.000Z",
+          "wordCount": 249,
+          "title": "Ubisoftが「Assassin’s Creed Infinity」を急遽発表、シリーズ初となる継続的に開発が続けられるライブサービスを採用"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-android-app-store-antitrust-violations/",
+          "author": null,
+          "description": "2021年7月7日、GoogleがAndroidアプリの配布方法を事実上Playストアのみに限定し、その状態でアプリ開発者らから手数料を徴収しているのは独占禁止法違反にあたるとして、36の州とコロンビア特別区(ワシントンD.C.)の司法長官がGoogleを提訴しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-android-app-store-antitrust-violations/",
+          "publishedOn": "2021-07-08T02:15:00.000Z",
+          "wordCount": 203,
+          "title": "「GoogleのPlayストアは手数料を取り過ぎ」と36の州とワシントンD.C.から訴えられる"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-oneplus-9-performance/",
+          "author": null,
+          "description": "2021年3月にOnePlusが発表したスマートフォン「OnePlus 9」と「OnePlus 9 Pro」で、一部アプリのパフォーマンスが制限されていることがわかりました。このことを受けて、定番のベンチマークアプリ「Geekbench」が、集計したデータから「OnePlus 9」と「OnePlus 9 Pro」を削除したことを発表しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-oneplus-9-performance/",
+          "publishedOn": "2021-07-08T02:10:00.000Z",
+          "wordCount": 244,
+          "title": "「OnePlus 9」「OnePlus 9 Pro」が一部アプリでパフォーマンス制限をしていた疑い、OnePlusは「最適化」と説明"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-trump-suit-against-facebook-twitter-youtube/",
+          "author": null,
+          "description": "現地時間の2021年7月7日、ドナルド・トランプ前大統領がFacebook・Twitter・YouTubeの3社を相手に訴訟を起こしました。トランプ前大統領は大統領選挙の中で3社が取った施策は、自身と保守派を違法に検閲する結果になったと主張しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-trump-suit-against-facebook-twitter-youtube/",
+          "publishedOn": "2021-07-08T02:03:00.000Z",
+          "wordCount": 222,
+          "title": "トランプ前大統領がFacebook・Twitter・YouTubeの3社を訴える"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-tokyo-restyle/",
+          "author": null,
+          "description": "金融庁は2019年に、「働いていない高齢夫婦世帯は平均して毎月5万円の赤字」と発表し、この調査結果はいわゆる「老後2000万円問題」として大きく取り沙汰されました。この問題は、毎月5万円の赤字を老後30年間しのげるだけの資産額である約2000万円をためるか、毎月5万円の年金以外の収入を確保すれば回避できますが、通常の銀行預金の利率は既にほぼゼロ％でお金を増やす手段としては期待できず、かといって株への投資は倒産や暴落のリスクがつきまといます。一方、不動産は株とは違って会社が倒産して紙きれになることはないものの、投資経験がなく地主でもない一般人にはどんなものなのかさえ想像がつきません。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-tokyo-restyle/",
+          "publishedOn": "2021-07-08T00:00:00.000Z",
+          "wordCount": 193,
+          "title": "「不動産って何？」という初心者でも数字でハッキリどれが良い物件かわかる「不動産投資TOKYOリスタイル」レビュー、ポイント制評価ですぐ簡単に発見可能"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-rog-phone-5-ultimate-camera/",
+          "author": null,
+          "description": "ASUS「ROG Phone」の最新＆最上位モデル「ROG Phone 5 Ultimate」はゲーミングに特化したスマートフォンですが、スマートフォンである以上は通話だったりネットサーフィンだったりといろいろ活用したくなってしまいます。そんなスマートフォンの用途の中でも大きなウェイトを占める「カメラ機能」について、実際にいろいろ撮影してみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-rog-phone-5-ultimate-camera/",
+          "publishedOn": "2021-07-07T23:00:00.000Z",
+          "wordCount": 261,
+          "title": "ASUSのゲーミングスマホ最上位モデル「ROG Phone 5 Ultimate」のカメラ機能レビュー、主用途はゲームながら食べ物をビビッド＆おいしそうに撮影可能"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-uncovering-forced-labor-camps/",
+          "author": null,
+          "description": "中国政府は新疆ウイグル自治区に強制収容所を建設し、ウイグル族に対する洗脳や拷問を行っていることが知られています。そんな中国の強制収容所の所在地を衛星画像を基に明らかにした功績で2021年のピューリッツァー賞を受賞したアリソン・キリング氏が、強制収容所を探し出した手法を語っています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-uncovering-forced-labor-camps/",
+          "publishedOn": "2021-07-07T22:00:00.000Z",
+          "wordCount": 199,
+          "title": "中国政府が隠ぺいするウイグル強制収容所を衛星写真から発見する手法とは？"
+        },
+        {
+          "id": "https://gigazine.net/news/20210708-mexico-huge-fire-gulf/",
+          "author": null,
+          "description": "現地時間の2021年7月2日、まるで海が燃えているかのように見える不思議な火災がメキシコ湾で発生しました。「炎の目」とも呼ばれたこの火災の原因について、石油企業は海底パイプラインのガス漏れが原因だと報告しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210708-mexico-huge-fire-gulf/",
+          "publishedOn": "2021-07-07T21:00:00.000Z",
+          "wordCount": 232,
+          "title": "海が燃えているように見える不思議な火災はなぜ発生したのか？"
+        },
+        {
+          "id": "https://gigazine.net/news/20210707-terraform-venus-quickly/",
+          "author": null,
+          "description": "金星は地球から最も近い地球型惑星で、「地球の姉妹惑星」と表現されることがあります。また、2020年には金星の大気から生命の活動により発生するガスが検出されて、大きな話題を呼びました。しかし、金星は表面温度が460度に達し、空は分厚い濃硫酸の雲で覆われた地獄のような環境でもあります。そんな金星を第2の地球にする方法を、科学系YouTube​チャンネルのKurzgesagtがアニメーションで解説しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210707-terraform-venus-quickly/",
+          "publishedOn": "2021-07-07T14:00:00.000Z",
+          "wordCount": 195,
+          "title": "どうやったら金星を人が住める星にテラフォーミングできるのか？"
+        },
+        {
+          "id": "https://gigazine.net/news/20210707-dominos-pizza-summer-quattro-frozen-fruit/",
+          "author": null,
+          "description": "宅配ピザのドミノ・ピザから、夏に食べたい三大テイスト「さっぱり」「スパイシー」「揚げ物」をテーマにしたという新メニュー「5種のシーフードアヒージョ」「ひとくちサクサクチキン＆ハニーマスタード」「サクサクフィッシュ＆チップス」「バターチキンカレー」の4種のほか、この4種をまとめて1枚のピザとして食べられる「夏の欲張りクワトロ」が登場。さらにサイドメニューとして果実とナタデココがたっぷり入った炭酸ジュース「フローズンフルーツソーダ パッションフルーツ＆マンゴー＆パイナップル」「フローズンフルーツソーダ パイナップル＆レモン」「フローズンフルーツソーダ ストロベリー＆レモン」の3種が登場したので、夏の欲張りクワトロとフローズンフルーツソーダ3種を実際に食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210707-dominos-pizza-summer-quattro-frozen-fruit/",
+          "publishedOn": "2021-07-07T13:00:00.000Z",
+          "wordCount": 179,
+          "title": "ドミノ・ピザにバターチキンカレーなど新メニュー4種＋フローズンフルーツソーダ3種が登場したので全制覇してみた"
+        },
+        {
+          "id": "https://gigazine.net/news/20210707-kaspersky-password-manager-brute-force/",
+          "author": null,
+          "description": "セキュリティ調査企業のLedger Donjonが、セキュリティ企業・カスペルスキーの開発するパスワードマネージャー「Kaspersky Password Manager(KPM)」のプログラムに問題があり、生成されたパスワードが総当たり攻撃に対して非常に脆弱だったことが判明したと発表しました。KPMの利用者には既にパスワードの更新をするように促すメッセージが送信されており、記事作成時点ですでに問題は修正済みとのことです。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210707-kaspersky-password-manager-brute-force/",
+          "publishedOn": "2021-07-07T12:00:00.000Z",
+          "wordCount": 276,
+          "title": "カスペルスキーのパスワードマネージャーが生成したパスワードは総当たり攻撃で爆速突破が可能と判明、一体なぜか？"
+        },
+        {
+          "id": "https://gigazine.net/news/20210707-robot-run-grocery-store/",
+          "author": null,
+          "description": "チャンネル登録者数397万人超の人気YouTuberであるトム・スコット氏が、イギリスのネットスーパーである「Ocado」の食料品倉庫に潜入し、その中で稼働する無数のロボットを紹介するムービーを公開し、話題を呼んでいます。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210707-robot-run-grocery-store/",
+          "publishedOn": "2021-07-07T11:00:00.000Z",
+          "wordCount": 193,
+          "title": "2000台超のロボットが走り回ってネット通販で注文された商品をまとめて梱包する自動化された最新倉庫の実態を収めたムービー"
+        },
+        {
+          "id": "https://gigazine.net/news/20210707-tencent-facial-recognition/",
+          "author": null,
+          "description": "中国最大のゲーム会社・テンセントが未成年ユーザーの夜間におけるゲームプレイを禁止するために、顔認証システムを導入することを発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210707-tencent-facial-recognition/",
+          "publishedOn": "2021-07-07T10:00:00.000Z",
+          "wordCount": 170,
+          "title": "大手ゲーム会社のテンセントが未成年ユーザーに対して「顔認証によるゲームプレイ時間の制限」を実施すると発表"
+        },
+        {
+          "id": "https://gigazine.net/news/20210707-headline/",
+          "author": null,
+          "description": "新型コロナウイルスの影響で開催が見送られてきた、世界最大級の造形・フィギュアの祭典「ワンダーフェスティバル」が2021年9月20日(月・祝)、1年ぶりに千葉・幕張メッセで開催されることになりました。秋開催はワンフェス36年の歴史で初。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210707-headline/",
+          "publishedOn": "2021-07-07T09:04:00.000Z",
+          "wordCount": 430,
+          "title": "2021年7月7日のヘッドラインニュース"
+        },
+        {
+          "id": "https://gigazine.net/news/20210707-catalyst-air-peroxide-water-disinfectant/",
+          "author": null,
+          "description": "「空気中の酸素を使って汚染された水をその場で消毒する方法」を、イギリスやアメリカ、シンガポールの研究者からなる国際的なチームが開発しました。この方法は従来の水の消毒方法より1000万倍以上も効率的に細菌を殺し、安全な水へのアクセスが不足する地域において、水の消毒技術に革命をもたらす可能性があるとのことです。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210707-catalyst-air-peroxide-water-disinfectant/",
+          "publishedOn": "2021-07-07T08:00:00.000Z",
+          "wordCount": 207,
+          "title": "従来より1000万倍以上も効果的な水の消毒法が開発される、空気中の酸素を使ってその場で実行可能"
+        },
+        {
+          "id": "https://gigazine.net/news/20210707-chatcontrol-eprivacy-derogation/",
+          "author": null,
+          "description": "欧州議会が2021年7月6日に、電気通信事業者に対して通信の機密性を求める法律の内容を緩和し、事業者がSNSやメールをスキャンすることを認める法律案を承認しました。これは、パンデミックの影響でインターネット上の児童虐待が増加していることを受けた措置ですが、企業に通信内容をチェックさせるものであることから、プライバシーやセキュリティの問題が指摘されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210707-chatcontrol-eprivacy-derogation/",
+          "publishedOn": "2021-07-07T07:00:00.000Z",
+          "wordCount": 224,
+          "title": "SNSのやりとりに児童ポルノがないかを企業にチェックさせる法律がEUで可決、「かえって子どもを傷つける」との批判も"
+        },
+        {
+          "id": "https://gigazine.net/news/20210707-nexperia-acquisition-new-wafer-fab/",
+          "author": null,
+          "description": "中国企業・Wingtech傘下の半導体企業・Nexperiaが、自動車や携帯電話などのチップ生産を広く手がけるイギリス最大の半導体メーカーのNewport Wafer Fab(NWF)の買収に至る取引を完了したと発表しました。買収に伴い、Nexperiaは「世界中の半導体需要に対応できるようになる」と発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210707-nexperia-acquisition-new-wafer-fab/",
+          "publishedOn": "2021-07-07T06:44:00.000Z",
+          "wordCount": 214,
+          "title": "中国企業傘下の「Nexperia」がイギリス最大の半導体メーカー「Newport Wafer Fab」を買収"
+        },
+        {
+          "id": "https://gigazine.net/news/20210707-nso-group-pegasus-investigation-maps/",
+          "author": null,
+          "description": "イギリスのゴールドスミス・カレッジ傘下の人権系シンクタンクForensic Architectureと世界最大の国際人権NGOであるアムネスティ・インターナショナルが、イスラエルのセキュリティ企業NSO Groupのスマートフォン監視用ソフトウェア「Pegasus(ペガサス)」が世界45カ国で活動家・ジャーナリスト・人権擁護家の監視のために用いられたと発表しました。この一件に対し、アメリカ国家安全保障局(NSA)の国際的監視網「PRISM」を告発したことで知られるエドワード・スノーデン氏は「最悪中の最悪」と述べています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210707-nso-group-pegasus-investigation-maps/",
+          "publishedOn": "2021-07-07T05:00:00.000Z",
+          "wordCount": 210,
+          "title": "イスラエル製スパイソフトウェアが世界45カ国で用いられているとアムネスティ・インターナショナルらが発表"
+        },
+        {
+          "id": "https://gigazine.net/news/20210707-twitter-legal-liability-india/",
+          "author": null,
+          "description": "インド政府が、「Twitterは、インド国内のユーザーによるツイートの法的責任を負うべきだ」という声明を発表しました。インドの電子情報技術省は「Twitterがソーシャルメディア企業に定められた新しい要件に従わなかったため、免責措置を制限すべき」と高等裁判所に報告しており、もしTwitterの免責措置が制限された場合、Twitterはインド国内で投稿されたすべてのコンテンツについて法的責任を負うことになります。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210707-twitter-legal-liability-india/",
+          "publishedOn": "2021-07-07T04:00:00.000Z",
+          "wordCount": 200,
+          "title": "「Twitterは投稿されたコンテンツについての免責を制限されるべき」とインド政府が主張"
+        },
+        {
+          "id": "https://gigazine.net/news/20210707-pokemon-go-revenue/",
+          "author": null,
+          "description": "アプリの収益などの情報をまとめているSensor Towerが、2016年7月にリリースされた「Pokémon GO(ポケモンGO)」について、この5年間で50億ドル(約5520億円)の収益を上げていることを明らかにしました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210707-pokemon-go-revenue/",
+          "publishedOn": "2021-07-07T03:30:00.000Z",
+          "wordCount": 177,
+          "title": "「ポケモンGO」が累計5500億円の収益を上げたことが明らかに"
+        }
+      ]
+    },
+    {
+      "title": "ライフハッカー［日本版］",
+      "feedUrl": "https://www.lifehacker.jp/feed/index.xml",
+      "siteUrl": "https://www.lifehacker.jp",
+      "articles": [
+        {
+          "id": "https://www.lifehacker.jp/2021/07/237303three-key-figures_socialmedia_tanita.html",
+          "author": "田邉愛理",
+          "description": "3人のキーパーソンの仕事観・働き方から｢人を動かす｣法則を読み解く連載「3人の○○」。今回は3人の「中の人」から【人に好かれる】法則を見出していきます。",
+          "link": "https://www.lifehacker.jp/2021/07/237303three-key-figures_socialmedia_tanita.html",
+          "publishedOn": "2021-07-08T07:00:00.000Z",
+          "wordCount": 82,
+          "title": "タニタ公式Twitterはなぜここまで人に愛される？【3人の「中の人」Vol. 1】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/05/lifehack00.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/amazon-anker-nano-30w-65w.html",
+          "author": null,
+          "description": "アダプターの小型化を牽引してきたAnkerから、新たなGaNテクノロジー搭載の2モデル「Anker Nano ll 30W」「Anker Nano ll 65W」 が本日7月8日発売になりました。",
+          "link": "https://www.lifehacker.jp/2021/07/amazon-anker-nano-30w-65w.html",
+          "publishedOn": "2021-07-08T06:00:00.000Z",
+          "wordCount": 184,
+          "title": "AnkerのGaN次世代充電器。30Wと65Wが同時発売されます！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/08/anker充電器.jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/amazon-thanko-laptopdesk-clhcmal2.html",
+          "author": "田中宏和",
+          "description": "サンコーの「カメラ三脚用ノートPCデスク CLHCMAL2」は、その名の通り三脚に設置可能なノートPCスタンド。雲台の代わりに取り付けて、ノートPCを置くだけの簡単設置で、リモートワーク中、腰痛対策で立ち仕事が可能に！",
+          "link": "https://www.lifehacker.jp/2021/07/amazon-thanko-laptopdesk-clhcmal2.html",
+          "publishedOn": "2021-07-08T04:00:00.000Z",
+          "wordCount": 64,
+          "title": "カメラ三脚がスタンディングデスクに。サンコーのノートPCデスクは腰痛対策にうってつけかも！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/05/20210705_pctristand_top.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/238226lht-homidy.html",
+          "author": "hiro.",
+          "description": "電子インクで圧倒的に見やすい『Homidy温湿度計』をご紹介します。角度によって見づらかったり、高温下で表示が薄くなることがありません。",
+          "link": "https://www.lifehacker.jp/2021/07/238226lht-homidy.html",
+          "publishedOn": "2021-07-08T03:00:00.000Z",
+          "wordCount": 57,
+          "title": "梅雨に活躍！誤差0.3度、どの角度でもクリアに表示される温湿度計【今日のライフハックツール】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/07/210708Homidy_top.png"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/amazon-timesale-0708-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2021年7月8日は、1,946円の充電式4WAY扇風機や1,095円の防水スマホケース2枚セットなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
+          "link": "https://www.lifehacker.jp/2021/07/amazon-timesale-0708-1.html",
+          "publishedOn": "2021-07-08T01:30:00.000Z",
+          "wordCount": 306,
+          "title": "【Amazonタイムセール中！】1,946円の充電式4WAY扇風機や1,095円の防水スマホケース2枚セットなど",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/08/Top.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/236743the-best-ways-to-compress-pdfs-for-free.html",
+          "author": "春野ユリ",
+          "description": "Mac・Windowsで、無料でPDFファイルのサイズを圧縮する方法をご紹介します。",
+          "link": "https://www.lifehacker.jp/2021/07/236743the-best-ways-to-compress-pdfs-for-free.html",
+          "publishedOn": "2021-07-08T01:00:00.000Z",
+          "wordCount": 84,
+          "title": "Mac・WindowsでPDFを無料で圧縮する方法",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/02/210708pdf_top.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/237861use-self-determination-theory-to-motivate-others.html",
+          "author": "ガリレオ",
+          "description": "今回は、部下のモチベーションを最大限引き出すために有効とされる「自己決定理論」を紹介します。",
+          "link": "https://www.lifehacker.jp/2021/07/237861use-self-determination-theory-to-motivate-others.html",
+          "publishedOn": "2021-07-07T23:30:00.000Z",
+          "wordCount": 72,
+          "title": "部下のやる気を引き出す「自己決定理論」とは？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/01/選択のイメージ.png"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/238279book_to_read-793.html",
+          "author": "ライフハッカー編集部",
+          "description": "『できる上司は会話が9割: 「困った部下」が戦力に変わる、コーチングのスゴ技』（林 健太郎 著、三笠書房）より、困った部下の「やる気スイッチ」入れるコツを解説します。",
+          "link": "https://www.lifehacker.jp/2021/07/238279book_to_read-793.html",
+          "publishedOn": "2021-07-07T22:00:00.000Z",
+          "wordCount": 51,
+          "title": "コーチングのスゴ技で、困った部下の「やる気スイッチ」入れるコツ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/07/book_to_read-793.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/238046lht-keshipon.html",
+          "author": "中川真知子",
+          "description": "郵便物の宛名を消すことのできる「ローラーケシポン」と、箱のオープナーが一体化した便利アイテムを紹介します。",
+          "link": "https://www.lifehacker.jp/2021/07/238046lht-keshipon.html",
+          "publishedOn": "2021-07-07T13:05:00.000Z",
+          "wordCount": 63,
+          "title": "個人情報保護スタンプと、カッターが合体した進化版「ローラーケシポン」【今日のライフハックツール】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/05/210707keshipon_top.png"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/machi-ya-pebble-review.html",
+          "author": "Haruki Matsumoto",
+          "description": "卵のような丸いデザインで可愛らしい印象のエコバッグ「Pebble」。引っ張るだけで取り出し可能で、1〜2人暮らしなど軽めの買い出しにちょうど良さげなサイズです。",
+          "link": "https://www.lifehacker.jp/2021/07/machi-ya-pebble-review.html",
+          "publishedOn": "2021-07-07T12:00:00.000Z",
+          "wordCount": 77,
+          "title": "畳まないエコバッグ「Pebble」で買い物に出かけてみた",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/02/DSC03707-1.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/237438how-to-stop-your-google-app-from-crashing-on-android.html",
+          "author": "春野ユリ",
+          "description": "GoogleアプリがAndroidでクラッシュするバグを修正するための2つの方法を紹介します。",
+          "link": "https://www.lifehacker.jp/2021/07/237438how-to-stop-your-google-app-from-crashing-on-android.html",
+          "publishedOn": "2021-07-07T11:00:00.000Z",
+          "wordCount": 102,
+          "title": "AndroidでGoogleアプリがクラッシュした時の対処法2つ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/01/新規プロジェクト(6).jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/237760-machi-ya-loungewagon-end.html",
+          "author": "飯田あゆみ",
+          "description": "「 LOUNGE WAGON 」 は、大型の車輪を搭載した悪路もなんのそのなアウトドアワゴン。パラソルが付属していたり、ベンチに変身したりと、屋外を楽しむ上で嬉しい機能が満載です。プロジェクト終了前に、改めてご紹介します！",
+          "link": "https://www.lifehacker.jp/2021/07/237760-machi-ya-loungewagon-end.html",
+          "publishedOn": "2021-07-07T10:00:00.000Z",
+          "wordCount": 81,
+          "title": "理想が詰まった夢のアウトドアワゴン！ 「LOUNGEWAGON」の機能を総復習",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/06/29/top.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/237673geo.html",
+          "author": null,
+          "description": "ガジェットライターが、今注目の4Kテレビを体験。「コスパ最強！」と感動した6つの理由とは？今どきのテレビの楽しみ方と合わせて紹介します。",
+          "link": "https://www.lifehacker.jp/2021/07/237673geo.html",
+          "publishedOn": "2021-07-07T08:00:00.000Z",
+          "wordCount": 86,
+          "title": "コスパ最強｢ゲオ4KTV」でおうち時間が2倍楽しくなる！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/06/29/00BP1I9813.png"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/machi-ya-sttoke2-start.html",
+          "author": "Haruki Matsumoto",
+          "description": "machi-yaでキャンペーンを開始した｢STTOKE（ストーク）｣は、アワード受賞歴もあるオーストラリア発のサーモタンブラー。美しいシルエットとミニマルデザインが特長的です。",
+          "link": "https://www.lifehacker.jp/2021/07/machi-ya-sttoke2-start.html",
+          "publishedOn": "2021-07-07T07:30:00.000Z",
+          "wordCount": 65,
+          "title": "デザインアワード受賞タンブラー数量限定で新色登場",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/02/11.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/microsoft-releases-official-windows-11-insider-preview.html",
+          "author": "春野ユリ,MakeUseOf",
+          "description": "2021年6月24日（米国時間）に開催されたMicrosoftの「What's Next for Windows」という大イベントで、同社はついにWindows11を発表しました。1週間前に早々とWindows11ビルドがリークされ、そのリークされた未完成のバージョンが正式発表されました。",
+          "link": "https://www.lifehacker.jp/2021/07/microsoft-releases-official-windows-11-insider-preview.html",
+          "publishedOn": "2021-07-07T07:00:00.000Z",
+          "wordCount": 132,
+          "title": "Windows11 Insider Previewが登場！ 今すぐダウンロード可能",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/01/windows11-1.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/amazon-realize-choito.html",
+          "author": "Qurumu",
+          "description": "「Chito」は傘に取り付けるマグネット入りストラップです。磁石によって、傘を車の屋根に固定できるので、乗り降り時に両手が自由に。荷物を抱えたままでも、雨に濡れる心配がありません。",
+          "link": "https://www.lifehacker.jp/2021/07/amazon-realize-choito.html",
+          "publishedOn": "2021-07-07T04:00:00.000Z",
+          "wordCount": 94,
+          "title": "雨の日の車の乗り降りでもう濡れない？ 鍵につけておくとちょっと便利なアンブレラマーカー",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/01/アンブレラマーカー.png"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/238009lht-lego-education.html",
+          "author": "中川真知子",
+          "description": "子ども用のプログラミング教材を使ってみました。パズルのように楽しいのに、仕事にも必要な問題解決能力が強化されました。",
+          "link": "https://www.lifehacker.jp/2021/07/238009lht-lego-education.html",
+          "publishedOn": "2021-07-07T03:00:00.000Z",
+          "wordCount": 57,
+          "title": "子ども用プログラミング教材を大人がやってみたら、問題解決能力が向上して良いことだらけ！【今日のライフハックツール】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/02/210707LES_top.png"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/machi-ya-f_shoes-end.html",
+          "author": "kotoha ozawa",
+          "description": "革新的なニット素材シューズ｢+F+（エフ）｣は洗濯機で丸洗いが可能。素材が持つ撥水力で汚れにくいのはもちろんのこと、繰り返し洗っても撥水性が弱まりにくい点が特長です。",
+          "link": "https://www.lifehacker.jp/2021/07/machi-ya-f_shoes-end.html",
+          "publishedOn": "2021-07-07T02:05:00.000Z",
+          "wordCount": 79,
+          "title": "水を弾いて蒸れ知らず。洗濯機で洗えるビジネスシューズ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/06/30/027_design.jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/amazon-timesale-0707-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2021年7月7日は、21%オフの柔道整復師が考えた 姿勢サポーターや1,000円台の低反発クッションなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
+          "link": "https://www.lifehacker.jp/2021/07/amazon-timesale-0707-1.html",
+          "publishedOn": "2021-07-07T01:30:00.000Z",
+          "wordCount": 273,
+          "title": "【Amazonタイムセール中！】21%オフの柔道整復師が考えた姿勢サポーターや1,000円台の低反発クッションなど",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/07/top.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/07/236560workstyle-station_desk-tour_kentaimamura.html",
+          "author": "香川博人",
+          "description": "ガジェットやスマホアプリのレビューで人気を集めるYouTuber・イマムラケンタさんに、お気に入りのデスクアイテムを教えてもらいました。",
+          "link": "https://www.lifehacker.jp/2021/07/236560workstyle-station_desk-tour_kentaimamura.html",
+          "publishedOn": "2021-07-07T01:00:00.000Z",
+          "wordCount": 206,
+          "title": "【デスクツアー】なんとPC2台使い！ ガジェット／テックYouTuberの作業環境",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/06/28/desktour_imamurakenta.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "UX MILK",
+      "feedUrl": "https://uxmilk.jp/feed",
+      "siteUrl": "https://uxmilk.jp",
+      "articles": [
+        {
+          "id": "https://uxmilk.jp/?p=87483",
+          "author": "UX MILK編集部",
+          "description": "ユーザーに切迫感を感じさせることで行動を促すことができますが、一方でユーザーをイライラさせたり、遠ざけてしまう可能性もあります。しかし、正しいアプローチによってユーザーに行動を促すことは可能です。 コンバージョン率の最適",
+          "link": "https://uxmilk.jp/87483",
+          "publishedOn": "2021-07-06T22:45:08.000Z",
+          "wordCount": 121,
+          "title": "ユーザーへの切迫感を正しく演出するには"
+        },
+        {
+          "id": "https://uxmilk.jp/?p=87793",
+          "author": "UX MILK編集部",
+          "description": "自分がなにをしているのかがわかっているなら、それは研究とは呼ばない。そうは思わないかい？ – Albert Einstein ユーザーリサーチは、UXのプロセスの一部となるかなり前から存在していたものです。1900年代初",
+          "link": "https://uxmilk.jp/87793",
+          "publishedOn": "2021-07-04T22:45:05.000Z",
+          "wordCount": 156,
+          "title": "UXリサーチの各種テクニックとその活用法"
+        },
+        {
+          "id": "https://uxmilk.jp/?p=77971",
+          "author": "UX MILK編集部",
+          "description": "現在のWebサイトは整然としていてモバイルフレンドリーで、さまざまな手段で来訪する方のアクセシビリティを考慮したデザインをされています。しかし、ユーザーから情報を集めるフォームの作成においては、自分たちの選択が間違ってい",
+          "link": "https://uxmilk.jp/77971",
+          "publishedOn": "2021-06-29T22:45:27.000Z",
+          "wordCount": 120,
+          "title": "フォームをより幅広いユーザーや文化に対応させるためには"
+        },
+        {
+          "id": "https://uxmilk.jp/?p=79310",
+          "author": "UX MILK編集部",
+          "description": "才能にあふれたUXライターにも、なかなか採用されない人がいます。あるいは、これからUXライティングのキャリアを積もうという人もいるでしょう。どちらの場合でも、ポートフォリオを上手にまとめる方法を知ることはとても重要です。",
+          "link": "https://uxmilk.jp/79310",
+          "publishedOn": "2021-06-27T22:45:16.000Z",
+          "wordCount": 105,
+          "title": "魅力的なUXライティングのポートフォリオとはどのようなものか"
+        },
+        {
+          "id": "https://uxmilk.jp/?p=79219",
+          "author": "UX MILK編集部",
+          "description": "コンテンツマーケティングがますます盛んになっている現代で、私たちは情報オーバーロード（information overload：情報過多）にどのように対処すれば良いのでしょうか？　時間のないユーザーに、どのようにコンテン",
+          "link": "https://uxmilk.jp/79219",
+          "publishedOn": "2021-06-22T22:45:21.000Z",
+          "wordCount": 94,
+          "title": "情報過多な時代に私たちはどうコンテンツを届けるのか"
+        },
+        {
+          "id": "https://uxmilk.jp/?p=79950",
+          "author": "MILKBOY",
+          "description": "キャンセルボタンには、さまざまなラベリングがされます。 「今はしない（Not now）」と「あとで（Maybe Later）」などは、その場しのぎのキャンセルボタンの例です。 しかし、ときにはキャンセルボタンが明確に「キ",
+          "link": "https://uxmilk.jp/79950",
+          "publishedOn": "2021-06-20T22:45:30.000Z",
+          "wordCount": 107,
+          "title": "キャンセルボタンに「キャンセル」と書いてはいけないとき"
+        },
+        {
+          "id": "https://uxmilk.jp/?p=78152",
+          "author": "UX MILK編集部",
+          "description": "「うまくいくまでは、うまくいっているフリをする」という考え方は新しくはありませんが、UXならではのひねりがあります。プロトタイプの開発とテストの繰り返しを高速で行う能力があれば、すべての準備が整うまで、新製品を作った「フ",
+          "link": "https://uxmilk.jp/78152",
+          "publishedOn": "2021-06-15T22:45:33.000Z",
+          "wordCount": 133,
+          "title": "プロトタイピングで「うまくいっているフリ」をしながら作るには"
+        },
+        {
+          "id": "https://uxmilk.jp/?p=77568",
+          "author": "UX MILK編集部",
+          "description": "2005年、あるレストランのオーナーがノートPCを使っている際に、苛立ちのあまりパソコンを巨大な鍋に投げ入れました。2007年、怒り心頭の男性が窓からPCを投げ捨てたことで、深夜に警察沙汰の騒動になりました。さらに201",
+          "link": "https://uxmilk.jp/77568",
+          "publishedOn": "2021-06-13T22:45:12.000Z",
+          "wordCount": 92,
+          "title": "UXデザインはユーザーの苛立ちを鎮める鎮静剤"
+        },
+        {
+          "id": "http://admin.uxmilk.jp/?p=76191",
+          "author": "UX MILK編集部",
+          "description": "多くの会社はWebで強力なプレゼンスが必要な理由を理解しているものの、しばしばユーザーをそのプロセスから放置しています。競争が激しいデジタル世界において、企業はシームレスなユーザー体験を保証するためにできる限りの努力をし",
+          "link": "https://uxmilk.jp/76191",
+          "publishedOn": "2021-06-08T22:45:08.000Z",
+          "wordCount": 122,
+          "title": "インタラクションデザインにおける５つの基本原則"
+        }
+      ]
+    },
+    {
+      "title": "Zennのトレンド",
+      "feedUrl": "https://zenn.dev/feed",
+      "siteUrl": "https://zenn.dev",
+      "articles": [
+        {
+          "id": "https://zenn.dev/ysmtegsr/articles/c9077709acb67ff3f1d9",
+          "author": "ysmtegsr",
+          "description": "はじめに\nいきなりですが、みなさん読書の管理ってどうしていますか？\n僕は、ブクログ というサービスを使っています。以前は、読書メーター を使っていたんですが、ブクログは本に記載されている ISBN コードや Amazon の Asin コードから本を登録できる[1]ということを知って最近移行しました。\nどうせなら自動化したいなと思い、調べてみると同じことを考えた先人たちがいらっしゃったので参考にしつつやってみたのでその紹介です。\n\n 作ったもの\nKindle で書籍を購入した際に Amazon からメールが届きます。そのメールから使いたい Asin コードだけを抜き出して、購入した書...",
+          "link": "https://zenn.dev/ysmtegsr/articles/c9077709acb67ff3f1d9",
+          "publishedOn": "2021-07-07T14:35:50.000Z",
+          "wordCount": 513,
+          "title": "Kindle で購入した書籍をブクログへ自動で登録する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--bYkWaURG--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:ysmtegsr%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Kindle%2520%25E3%2581%25A7%25E8%25B3%25BC%25E5%2585%25A5%25E3%2581%2597%25E3%2581%259F%25E6%259B%25B8%25E7%25B1%258D%25E3%2582%2592%25E3%2583%2596%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B0%25E3%2581%25B8%25E8%2587%25AA%25E5%258B%2595%25E3%2581%25A7%25E7%2599%25BB%25E9%258C%25B2%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fYTMxZDc3MGI1Ny5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kyome/articles/48f551222b339c",
+          "author": "Kyome",
+          "description": "はじめに\nSwiftでは演算子を自分で定義することができます。\nまず、Swiftの演算子は特殊な関数です。\n演算子（Operator）の定義に必要な要素は以下の6つです。\n\n演算子に使う記号/文字\n演算子の優先順位（Precedence）\n演算子の結合性（Associativity）\nオプショナル・チェーンにおける代入の可否（Assignment）\n演算子の種類（中置infix・接頭辞prefix・接尾辞postfix）\n演算子の機能実装\n\n\n 演算子に使える文字\n基本的に使えるのは、変数名、関数名、クラス名などに使える文字ではない文字です。\n代表的なものは、/ = - + ! * ...",
+          "link": "https://zenn.dev/kyome/articles/48f551222b339c",
+          "publishedOn": "2021-07-07T13:51:09.000Z",
+          "wordCount": 3131,
+          "title": "Swift: 演算子の定義について完全に理解した。",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--hCG_kYTk--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Kyome%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Swift%253A%2520%25E6%25BC%2594%25E7%25AE%2597%25E5%25AD%2590%25E3%2581%25AE%25E5%25AE%259A%25E7%25BE%25A9%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E5%25AE%258C%25E5%2585%25A8%25E3%2581%25AB%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lQZG9OcEw1X0Nqd1J5QWp2SGF4emxnS3hlc042QXR6S3g1VjRNNkE9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/rotomx/articles/d064c26d7b15cb",
+          "author": "rotomx",
+          "description": "Slack についに予約送信の機能がリリースされました🎉\n無料ワークスペースから開始し、有料ワークスペースにも随時展開がされています。\n（Enterprise Grid が一番遅いようです）\nhttps://slack.com/intl/ja-jp/help/articles/1500012915082\n\n 使い方\n\n機能が展開されたワークスペースではこのようなポップアップが表示されます\n\n\n\nメッセージフィールドに現れた矢印アイコンをクリックすると送信日時を設定できます\n\n\n\n「カスタム時間」を選択すると、任意の日付、時間を指定することができます\n\n\n\n予約投稿したメッセージはサイドバ...",
+          "link": "https://zenn.dev/rotomx/articles/d064c26d7b15cb",
+          "publishedOn": "2021-07-07T13:24:33.000Z",
+          "wordCount": 50,
+          "title": "Slack の予約送信機能を検証してみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--d9ObGifP--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:rotomx%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Slack%2520%25E3%2581%25AE%25E4%25BA%2588%25E7%25B4%2584%25E9%2580%2581%25E4%25BF%25A1%25E6%25A9%259F%25E8%2583%25BD%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZjdmNDU4NTUxMS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/mizchi/articles/weakref-on-devtool",
+          "author": "mizchi",
+          "description": "ES2021 に入った WeakRef を実験したらハマったのでメモ\n\nWeakRef - JavaScript | MDN\nWeakRef: JavaScriptに弱参照がやってくる（ついでにFinalizationも） - Qiita\n\n\n tl;dr\n\ndevtool を開いた状態で console.log すること自体が参照になる\nWeakRef で取得した参照を console.log すると、それも参照なので、本来開放されるはずでもリソースの開放が行われなくなる\n循環参照オブジェクトでも、内部での循環参照に閉じてる限りちゃんと捨てられる(少なくともv8は)\n\n\n 確かめたこと...",
+          "link": "https://zenn.dev/mizchi/articles/weakref-on-devtool",
+          "publishedOn": "2021-07-07T13:06:28.000Z",
+          "wordCount": 409,
+          "title": "WeakRef と console.log",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--l4V4XJiQ--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:mizchi%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:WeakRef%2520%25E3%2581%25A8%2520console.log%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/noco/articles/d13f94668dc3f0",
+          "author": "noco",
+          "description": "目的\nマスターデータ管理にScriptableObjectが便利らしいのでJSONから自動生成します。SO出力には下記エントリがとても参考になりました。変更点はcsvからJSONに、実行はメニューから、また特定のJSONではなく多くのJSONに対応させます。\nhttps://ekulabo.com/csv-to-scriptable-object\n\n ScriptableObjectとは？\nマスターデータなど、基本的に変更がされない大量の共有データを管理するのに便利なクラスです。\n例えば同一キャラクターのパラメーターを複数インスタンス化した場合、その分メモリを必要としてしまいますが、...",
+          "link": "https://zenn.dev/noco/articles/d13f94668dc3f0",
+          "publishedOn": "2021-07-07T12:35:26.000Z",
+          "wordCount": 534,
+          "title": "複数のJSONからScriptableObjectを自動生成する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--iMgx9eVl--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:noco%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E8%25A4%2587%25E6%2595%25B0%25E3%2581%25AEJSON%25E3%2581%258B%25E3%2582%2589ScriptableObject%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pBM2RwUkt4eDJieWQ3ZlB0aTFQbDhyY3FJUjNwNmxSdWl1ZWRTY1E9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kawarimidoll/articles/0f5bc71ae633f3",
+          "author": "kawarimidoll",
+          "description": "7/7は七夕🎋です。\nこの絵文字が:tanabata_tree:ということで、Denoでtreeコマンドを作ってみました。\n以下のような表示結果が得られます。\n\n今回の完成品はGitHub Gistに上げています。\nhttps://gist.github.com/kawarimidoll/c6f1c1007370b00bd4d345525490cdb8\n作業記憶（Zenn Scrap）はこちら\n\n はじめに\ntreeコマンドは、現在のディレクトリ以下のファイルを再帰的に階層付けて表示するコマンドです。\nhttps://www.atmarkit.co.jp/ait/articles/180...",
+          "link": "https://zenn.dev/kawarimidoll/articles/0f5bc71ae633f3",
+          "publishedOn": "2021-07-07T11:47:53.000Z",
+          "wordCount": 1043,
+          "title": "DenoでCLIツールを作ってみる：treeコマンドの実装",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--9lKOpJnA--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:kawarimidoll%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Deno%25E3%2581%25A7CLI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%25EF%25BC%259Atree%25E3%2582%25B3%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMjM3OWFjOGQ4Ni5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/yuku/articles/45bb0d6cf3da85",
+          "author": "Yuku Kotani",
+          "description": "仕事で GraphQL を使ったプロダクトに DDD のエッセンスを取り入れたく、GraphQL で部分的にフェッチしたドメインモデルに堅牢な型付けを試みたので、まだまだ荒削りですが紹介します。\n\n やりたいこと\nこのような GraphQL スキーマがあったとします。\n\n      \n        \n        type Person {\n  firstName: String!\n  lastName: String!\n  age: Int!\n}\n\ntype Query {\n  person: Person!\n}\n\n\n      \n      この Person に対して、以下よう...",
+          "link": "https://zenn.dev/yuku/articles/45bb0d6cf3da85",
+          "publishedOn": "2021-07-07T08:53:13.000Z",
+          "wordCount": 884,
+          "title": "GraphQL でフェッチした部分的なモデルのドメインロジックを TypeScript と Proxy で表現する試み",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--pDNMZ-fu--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Yuku%2520Kotani%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:GraphQL%2520%25E3%2581%25A7%25E3%2583%2595%25E3%2582%25A7%25E3%2583%2583%25E3%2583%2581%25E3%2581%2597%25E3%2581%259F%25E9%2583%25A8%25E5%2588%2586%25E7%259A%2584%25E3%2581%25AA%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592%2520TypeScript%2520%25E3%2581%25A8%2520Proxy%2520%25E3%2581%25A7%25E8%25A1%25A8%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E8%25A9%25A6%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lEQVVDNDRXNTlSbWgyMjVIR2ZycENZQmRlNUJNZ0VCaDl3TGY0PXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/tetsunosuke/articles/ba215eeb0313b5",
+          "author": "Tetsunosuke Ito",
+          "description": "概要\nGoogle Calendar を Zoom の Add-on で連携している場合に設定された Zoom のミーティング  URL を API 経由で取得したかった。\nGoogle App Script の Calendar の CalendarEvent クラスのメソッドでは不可能。　\nREST API を用いて、イベントの conferenceData を取得する必要があります。\n\n 事の起こりは...\n設定した MTG を一覧にして、それを Web で （HTML 形式で） 公開したい、ということで、既存のカレンダーに設定された MTG から タイトル、URL、パスコード...",
+          "link": "https://zenn.dev/tetsunosuke/articles/ba215eeb0313b5",
+          "publishedOn": "2021-07-07T07:38:40.000Z",
+          "wordCount": 183,
+          "title": "[GoogleAppsScript] GoogleCalendarの予定に埋まっているZoomのURLを取る方法",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--tjlVl9c4--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Tetsunosuke%2520Ito%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:%255BGoogleAppsScript%255D%2520GoogleCalendar%25E3%2581%25AE%25E4%25BA%2588%25E5%25AE%259A%25E3%2581%25AB%25E5%259F%258B%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258BZoom%25E3%2581%25AEURL%25E3%2582%2592%25E5%258F%2596%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dLVzZfZEc3bnpMZWV3UmRMTHVvR1owQ0RLSWFIcmx2aEZHeHNWdEVnPXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/urmot/articles/43ee2adf726a32",
+          "author": "urmot",
+          "description": "概要\n前回の記事でCloud BuildとSecret Managerをいい感じに連携する方法について書いたのですが、まだプレビューですが、最近Secret ManagerがCloud Runにも対応したので、これまでのやり方とこれからのやり方について説明したいと思います。\nhttps://cloud.google.com/secret-manager/docs/release-notes?hl=ja#May_12_2021\n\n やりたいこと\nCloud Run実行時にDB_PASSWORDなどの秘匿情報を環境変数に展開したい\n\n これまでのやり方\nこれまではCloud RunからS...",
+          "link": "https://zenn.dev/urmot/articles/43ee2adf726a32",
+          "publishedOn": "2021-07-07T05:21:01.000Z",
+          "wordCount": 243,
+          "title": "Cloud Run と Secret Manager をいい感じに連携する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--ZLGyYyNe--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:urmot%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Cloud%2520Run%2520%25E3%2581%25A8%2520Secret%2520Manager%2520%25E3%2582%2592%25E3%2581%2584%25E3%2581%2584%25E6%2584%259F%25E3%2581%2598%25E3%2581%25AB%25E9%2580%25A3%25E6%2590%25BA%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dBUWxiNEN2ZDZBQU1CZklac3p4UnpBNFpsVVRDbE1ONFBaSXBCaHc9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/seya/articles/c908d88df0a587",
+          "author": "seya",
+          "description": "久しぶりにやったら昔ながらの下記のようなものを package.json に加えるだけではうごかなったのでメモ\n\n      \n        \n          \"husky\": {\n    \"hooks\": {\n      \"pre-commit\": \"lint-staged\"\n    }\n  },\n  \"lint-staged\": {\n    \"src/**/*.{js,jsx,ts,tsx}\": [\n      \"eslint --fix\"\n    ]\n  }\n\n\n      \n      まずは必要なパッケージをインストールします。\n\n      \n        \n    ...",
+          "link": "https://zenn.dev/seya/articles/c908d88df0a587",
+          "publishedOn": "2021-07-07T02:53:12.000Z",
+          "wordCount": 80,
+          "title": "husky + lins-staged を動かしたメモ@2021年7月",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--4akC4Jd7--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:seya%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:husky%2520%252B%2520lins-staged%2520%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%259F%25E3%2583%25A1%25E3%2583%25A2%25402021%25E5%25B9%25B47%25E6%259C%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZDM4ODhiMzQzMS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/toshinobu/articles/0f7d4eebcf1f80",
+          "author": "toshinobu",
+          "description": "FlutterでATT(App Tracking Transparency)をサクッと対応\nタイトル通りです。\nATTっていうのはこいつのことですね。\n\niOSでユーザーの情報と収集する際には出す必要があります。\n収集しているのにこれがないと審査で「これ追加してね☆」ってリジェクトされます。\nまた、iOS14.5以上ではこいつで許可されないとIDFAが使用できないとのことで広告を使ってる方々は対応必須でしょう。\niOS独自のものだからFlutterでの実装は結構面倒なのでは？\nとなりそうなところですが、すでにapp_traking_transparencyというパッケージを作ってくだ...",
+          "link": "https://zenn.dev/toshinobu/articles/0f7d4eebcf1f80",
+          "publishedOn": "2021-07-07T00:08:10.000Z",
+          "wordCount": 146,
+          "title": "FlutterでATT(App Tracking Transparency)をサクッと対応",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--yodWd4KQ--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:toshinobu%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:Flutter%25E3%2581%25A7ATT%2528App%2520Tracking%2520Transparency%2529%25E3%2582%2592%25E3%2582%25B5%25E3%2582%25AF%25E3%2583%2583%25E3%2581%25A8%25E5%25AF%25BE%25E5%25BF%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hMeEh5bjU4bWZtSllLbl8zMEw2VVIyWG1XS3FMSDJMcWJBUWRZZ3c9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/dzeyelid/articles/d378dfc30affa0",
+          "author": "Kazumi OHIRA / dz",
+          "description": "Prologue\nこんにちは、 @dz_ こと、大平かづみです。\n何かと気になる、監査ログ。\nGitHub で扱える監査ログの種類、閲覧と検索方法、外部連携などをまとめました。\n\n GitHub の監査ログ 概要\n\nOrganization において、監査ログ（audit log）を閲覧、検索、エクスポートすることができる\nEnterprise (Cloud, Server) でのみ利用可能な機能もある\nユーザーアカウントには、 audit log はなく、security log がある\n\n参考: セキュリティログをレビューする - GitHub Docs\n\n\n\n\n\n Organi...",
+          "link": "https://zenn.dev/dzeyelid/articles/d378dfc30affa0",
+          "publishedOn": "2021-07-06T17:30:52.000Z",
+          "wordCount": 385,
+          "title": "Check! GitHub の監査ログを知る",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--YS0_0kVs--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Kazumi%2520OHIRA%2520%252F%2520dz%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Check%2521%2520GitHub%2520%25E3%2581%25AE%25E7%259B%25A3%25E6%259F%25BB%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%2592%25E7%259F%25A5%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pJNnV1eUJzeFNIRGVsMTBxX3JhRHBFSXVSNHlkcGV3QlB3VWNhPXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kiyocy24/articles/uuid-duplicate-time",
+          "author": "kiyocy24",
+          "description": "絶対に重複しないといわれるUUID\nUUIDとはUniversally Unique Identifier の略で、「Universally」つまり将来にわたって重複や偶然の一致が怒らないという前提で使われるIDのことです。\n128ビットで表現されるUUIDは2^128通り（Version 4では固定値があるため2^122通り）あり、その膨大なパターンから将来に渡って重複しないとされています。その特性から、ファイルのハッシュ値に使われたり、DBのキーに使われたりしています。重複しないことが約束されているので、大変使い勝手が良いのです。\nとはいえ、有限桁数である以上は重複が発生する可能...",
+          "link": "https://zenn.dev/kiyocy24/articles/uuid-duplicate-time",
+          "publishedOn": "2021-07-06T15:56:25.000Z",
+          "wordCount": 135,
+          "title": "UUIDを重複させるにはどれだけ時間がかかるのか試してみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--EIkFNF2M--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:kiyocy24%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:UUID%25E3%2582%2592%25E9%2587%258D%25E8%25A4%2587%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E3%2581%25AB%25E3%2581%25AF%25E3%2581%25A9%25E3%2582%258C%25E3%2581%25A0%25E3%2581%2591%25E6%2599%2582%25E9%2596%2593%25E3%2581%258C%25E3%2581%258B%25E3%2581%258B%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2llaGQ3YVNJdW1RcVRoVDFsZUxUSXRFUTlHWHh5WFIyQmcxN3dNPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/yubrot/articles/37b6724e41fd3c",
+          "author": "yubrot",
+          "description": "https://github.com/yubrot/llrl/tree/main/llvm0\nLLVMはC APIを提供しており、C++以外のプログラミング言語からも比較的簡単に利用できる。\nRustではllvm-sysというC APIのバインディングが既にあるので、C APIを単に利用するのであればこのクレートを依存に加えればすぐに利用できる。しかし llvm-sys はC APIの純粋なバインディングなので、Rustのコードから使用するには貧相であり、なにより  アンセーフ である。 *-sys は crates.ioの命名規約の一種で、高レベルな抽象は別途提供すべきとされている。\n...",
+          "link": "https://zenn.dev/yubrot/articles/37b6724e41fd3c",
+          "publishedOn": "2021-07-06T11:43:05.000Z",
+          "wordCount": 368,
+          "title": "RustでLLVM-C APIへの高レベル抽象インターフェースを考える",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--3KvpLpGf--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:yubrot%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Rust%25E3%2581%25A7LLVM-C%2520API%25E3%2581%25B8%25E3%2581%25AE%25E9%25AB%2598%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25AB%25E6%258A%25BD%25E8%25B1%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A7%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2k3bTYyV0NtaVFxMkEyeUk2TTNnWFlpdVBzXzFsa2lUUWVhRUZObHc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/pik/books/ddad3b8f35b11035752e",
+          "author": "pik",
+          "description": "妻が夫の仕事に興味を持ったことから、プログラムを学ぶドキュメンタリー\nChapter1 は導入から GUI の作成編",
+          "link": "https://zenn.dev/pik/books/ddad3b8f35b11035752e",
+          "publishedOn": "2021-07-06T10:28:39.000Z",
+          "wordCount": 64,
+          "title": "妻、プログラマーにならないってよ Chapter 1",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--CAA5VbZG--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9kMDJiZjY2ZDU3LmpwZw==%2Cw_200/v1604564438/og_book_base_ndpqis.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://zenn.dev/rsugimura/articles/6bb38cb9cec7e6",
+          "author": "rsugimura",
+          "description": "Tableau CRM Sync Outを使ってSalesforceのデータをSnowflakeに統合する\nTableauでプリセールスエンジニアをしている @rsugimura1217 です。今回はSalesforce Spring '21でリリースされたTableau CRM SyncOutによるSalesforceデータとSnowfalkeの統合機能の話をさせていただこうと思います。\n\n Tableau CRMとは？\nSalesforceプラットフォーム上でデータの保管、加工、分析が行えるクラウドの分析アプリケーションです。2020年にEinstein Anayticsという名...",
+          "link": "https://zenn.dev/rsugimura/articles/6bb38cb9cec7e6",
+          "publishedOn": "2021-07-06T08:29:36.000Z",
+          "wordCount": 293,
+          "title": "Tableau CRM Sync Outを使ってSalesforceのデータをSnowflakeに統合する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--27qKBvx3--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:rsugimura%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:Tableau%2520CRM%2520Sync%2520Out%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6Salesforce%25E3%2581%25AE%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592Snowflake%25E3%2581%25AB%25E7%25B5%25B1%25E5%2590%2588%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fOGI1ZDlhNTQyNS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/specially198/articles/cef7fa5b1bebdd",
+          "author": "specially198",
+          "description": "Googleアナリティクスを使用すると、Webサイトのアクセス解析が行えるので、大変便利です。\nただ、デフォルトの設定では全てのアクセスが記録されるため、自分や社内の人など、関係者がアクセスした場合もデータが記録されてしまいます。\nそういった関係者のアクセスを除外する方法を紹介します。\n※GA4には対応していませんので、GA4のプロパティと合わせて従来のプロパティも一緒に作成して対応します。\nプロパティの作成方法については、ここでは割愛します。\n\n Googleアナリティクスから自分を含めた関係者のアクセスを除外する方法\nいくつか方法があります。\n\nGoogleアナリティクスのフィルタで...",
+          "link": "https://zenn.dev/specially198/articles/cef7fa5b1bebdd",
+          "publishedOn": "2021-07-06T07:29:57.000Z",
+          "wordCount": 129,
+          "title": "Googleタグマネージャーを使用してGoogleアナリティクスから自分を含めた関係者のアクセスを除外する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--8XPnZI0A--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:specially198%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:Google%25E3%2582%25BF%25E3%2582%25B0%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6Google%25E3%2582%25A2%25E3%2583%258A%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25AF%25E3%2582%25B9%25E3%2581%258B%25E3%2582%2589%25E8%2587%25AA%25E5%2588%2586%25E3%2582%2592%25E5%2590%25AB%25E3%2582%2581%25E3%2581%259F%25E9%2596%25A2%25E4%25BF%2582%25E8%2580%2585%25E3%2581%25AE%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E3%2582%2592%25E9%2599%25A4%25E5%25A4%2596%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fYjNjMmY5OTkwNi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/tnzk/articles/835d3252ce01ed",
+          "author": "tnzk",
+          "description": "Svelte を使って Web Components を開発することができます。便利ですが、未だ変化の激しいライブラリでもあるため、現時点ではうまく実現できない部分もいくつかあります。\nこの記事では、現時点での Svelte の Web Components サポートに残っている課題・落とし穴と、存在する場合はその対処法を解説します。\n再現方法と対処法のコードは、このリポジトリにあります。\nhttps://github.com/tnzk/svelte-webcomponents-exp\nVercel にもデプロイしてあるので、オンラインで挙動を確認することもできます。\nhttps://s...",
+          "link": "https://zenn.dev/tnzk/articles/835d3252ce01ed",
+          "publishedOn": "2021-07-06T05:34:48.000Z",
+          "wordCount": 790,
+          "title": "Svelte で Web Components を開発するときの Tips (2021年7月時点)",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--uWXjHnda--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:tnzk%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:Svelte%2520%25E3%2581%25A7%2520Web%2520Components%2520%25E3%2582%2592%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%2520Tips%2520%25282021%25E5%25B9%25B47%25E6%259C%2588%25E6%2599%2582%25E7%2582%25B9%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2djejlyS2ZfMDZoUDNVZFB5MWxGay0xUDM3OHFGTlpQel9sNEdPbVE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/imaginelab/articles/91bed36b076abe",
+          "author": "ima",
+          "description": "はじめに\n個人でSushi Workというオンラインコワーキングスペースを運営しているimaと申します。\nhttps://zenn.dev/imaginelab/articles/eb5b19db6f9b0b\n\n 「UXライティングの教科書」はいいぞ\nたまたま書店で見つけた「UXライティングの教科書」を読んでみたところ、これが大当たりな本でした。WEBサービスの文言作成は、他のサービスを参考にしたり、一般的に使われている文言を使っていたりと、完全に自己流でした。この本を読んで、どうすればもっとユーザー体験を良くできるかにフォーカスしたライティング技術を学べました。\nWEBサービスやネ...",
+          "link": "https://zenn.dev/imaginelab/articles/91bed36b076abe",
+          "publishedOn": "2021-07-06T01:14:56.000Z",
+          "wordCount": 101,
+          "title": "「UXライティングの教科書」から学んだことを実践してみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--6zPT397H--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:ima%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2580%258CUX%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E6%2595%2599%25E7%25A7%2591%25E6%259B%25B8%25E3%2580%258D%25E3%2581%258B%25E3%2582%2589%25E5%25AD%25A6%25E3%2582%2593%25E3%2581%25A0%25E3%2581%2593%25E3%2581%25A8%25E3%2582%2592%25E5%25AE%259F%25E8%25B7%25B5%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNzg4M2FhMTMxYi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/sugitlab/articles/flutter_linter_recommend_sugitlab",
+          "author": "すぎっと٩( ᐛ )و フルペラットエンジニア",
+          "description": "こんにちはこんばんわ、すぎっと٩( ᐛ )وです\n今日のテーマは Linter です。リンターと読みます。\n実は先日、FlutterのIssueサーフィン (謎趣味) をしていたところ、こんなものを見つけました。\nhttps://github.com/flutter/flutter/issues/78432\nそしてこの PR です。\nhttps://github.com/flutter/flutter/pull/81417\nということはそろそろアナウンスがくるかな〜と思っていたら、\nhttps://flutter.dev/docs/release/breaking-changes/flu...",
+          "link": "https://zenn.dev/sugitlab/articles/flutter_linter_recommend_sugitlab",
+          "publishedOn": "2021-07-05T15:57:06.000Z",
+          "wordCount": 591,
+          "title": "Flutterのテンプレートにlinterが入りますよ",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--CxU2NvFT--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%2599%25E3%2581%258E%25E3%2581%25A3%25E3%2581%25A8%25D9%25A9%2528%2520%25E1%2590%259B%2520%2529%25D9%2588%2520%25E3%2583%2595%25E3%2583%25AB%25E3%2583%259A...%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Flutter%25E3%2581%25AE%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25ABlinter%25E3%2581%258C%25E5%2585%25A5%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2599%25E3%2582%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pYRUYya21waGZXa0Q3VExGdmV1aDV0YWRNbjNIN19YOEFYcHZIa1E9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/karaage0703/articles/db8c663640c68b",
+          "author": "karaage0703",
+          "description": "Pythonでライブラリを作る\nこの記事は、Pythonの基礎とpipでライブラリをインストールしたことあるくらいのレベルの人を想定しています。初心者向けの記事です。\n前提知識として、Pythonのライブラリ・パッケージ・モジュール・クラス・関数の定義や違いに関しては、以下記事あたりを参考にしてください。\nhttps://ai-inter1.com/python-module_package_library/\nこの記事では、Pythonで自作ライブラリを作ります。pip install hogehogeでインストールできるあれですね。\n初心者の方（何を隠そう私も初心者です）だとpip...",
+          "link": "https://zenn.dev/karaage0703/articles/db8c663640c68b",
+          "publishedOn": "2021-07-05T13:55:08.000Z",
+          "wordCount": 182,
+          "title": "Pythonで自分だけのクソライブラリを作る方法",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--oMElaxA4--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:karaage0703%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Python%25E3%2581%25A7%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AE%25E3%2582%25AF%25E3%2582%25BD%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/uedayou/articles/fb0e03f615f135",
+          "author": "uedayou",
+          "description": "今私のほうで、オープンデータを提供するWeb APIのリストを作成しています。\nhttps://qiita.com/uedayou/items/9e4c6029a2cb6b76de9f\nこのリストをメンテナンスする上で、提供終了したAPIを見つけ出して削除するのは結構大変です。\nまた、どのAPIが現在使えないかがぱっとわかれば、利用する側からしても便利だと思いました。\nそこで、GitHub Actions で定期的にヘルスチェックを行い、GitHub Pages でその状況を一覧として見れるプログラムを作りました。\nhttps://github.com/uedayou/web-page-...",
+          "link": "https://zenn.dev/uedayou/articles/fb0e03f615f135",
+          "publishedOn": "2021-07-05T11:24:53.000Z",
+          "wordCount": 307,
+          "title": "GitHub Actions と GitHub Pages で簡易 Web API ヘルスチェッカー作成",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--D9RjrB_Y--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:uedayou%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:GitHub%2520Actions%2520%25E3%2581%25A8%2520GitHub%2520Pages%2520%25E3%2581%25A7%25E7%25B0%25A1%25E6%2598%2593%2520Web%2520API%2520%25E3%2583%2598%25E3%2583%25AB%25E3%2582%25B9%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%25E4%25BD%259C%25E6%2588%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZjE1ODQxMjJlMy5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/tzkoba/articles/31291d71410a48",
+          "author": "こば",
+          "description": "発売のお知らせ\n昨年から輪読会を行っていたDatabase Internalsの翻訳版『詳説 データベース』が、明日7/6に発売となりました。一部書店では既に店頭に並んでいるようです。\n\nこちらはAmazonやその他ブックストアのサイトで紙版の本を入手可能です。\n電子版については、出版元のオライリージャパンのEbook Storeで、PDFおよびEPUB形式（もちろん紙版も）の購入が7/6から可能となりました。\n\n 紹介にかえて -監訳者まえがきより-\nデータベースに関わる方々にとって、これからのスタンダードになるであろう\"Database Internals\"の全訳をお届けできるこ...",
+          "link": "https://zenn.dev/tzkoba/articles/31291d71410a48",
+          "publishedOn": "2021-07-05T08:01:24.000Z",
+          "wordCount": 77,
+          "title": "『詳説 データベース』が発売になりました",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--J-TJujPV--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%2593%25E3%2581%25B0%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2580%258E%25E8%25A9%25B3%25E8%25AA%25AC%2520%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2580%258F%25E3%2581%258C%25E7%2599%25BA%25E5%25A3%25B2%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fYjJjODU2MmM3NS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/mossan_hoshi/books/209e11ee43e2bb",
+          "author": "mossan_hoshi",
+          "description": "プライベートの時間における一人での勉強方法についてまとめます。\n内容は「基礎編」「読書編」「プログラミング編」の3つに分かれており、本書では「基礎編」を取り扱います",
+          "link": "https://zenn.dev/mossan_hoshi/books/209e11ee43e2bb",
+          "publishedOn": "2021-07-04T13:25:54.000Z",
+          "wordCount": 34,
+          "title": "独習入門 ～基礎編～",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--Osqit20G--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci80YzI2NDE4MTA2LmpwZw==%2Cw_200/v1604564438/og_book_base_ndpqis.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://zenn.dev/yutafujii/books/fcb457e798a3d5",
+          "author": "yutafujii",
+          "description": "WiFiのアクセスポイント構築手順を紹介しつつ，各手順の背景にある理論的な説明を行い，Linuxやネットワークについての知識を深められる本です．\n\n- ハード | Raspberry Piの構築\n- OS | Kali Linux\n- ドライバ | wireless network adapterのモード種別\n- ネットワーク基礎 | IP addressとNAT\n- ネットワーク層 | Linuxカーネルでのパケット処理\n- アプリケーション層 | DNSの設定",
+          "link": "https://zenn.dev/yutafujii/books/fcb457e798a3d5",
+          "publishedOn": "2021-07-03T09:59:30.000Z",
+          "wordCount": 44,
+          "title": "Raspberry PiでWiFiアクセスポイント構築",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--UsMV4BvY--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9iNDE4YTk5ZDVkLmpwZw==%2Cw_200/v1604564438/og_book_base_ndpqis.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
         }
       ]
     }
