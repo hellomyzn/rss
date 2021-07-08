@@ -1,7 +1,7 @@
 cacheUrl: https://hellomyzn.github.io/rss/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://b.hatena.ne.jp/hotentry/it.rss/               # hatena tech
+  - href: https://b.hatena.ne.jp/hotentry/it.rss                # hatena tech
   - href: https://qiita.com/popular-items/feed                  # qiita
   - href: https://gigazine.net/news/rss_2.0                     # gigazine
   - href: https://www.lifehacker.jp/feed/index.xml              # lifehacker
