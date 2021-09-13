@@ -12,6 +12,267 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/6f5842d1c1413d384fb3b0a02f6e1a27216ab5bd",
+          "author": null,
+          "description": "国土交通省は、全国の道路交通量調査で、調査員ら人手による観測を廃止する方向で検討に入った。 交通監視カメラの映像を人工知能（AI）で解析する手法に転換し、業務の効率化やコスト削減を狙う。将来的には交通量を常時観測できる体制を構築し、渋滞対策などにデータを活用できるようにする。 国交省は自治体と共に5年...",
+          "link": "https://news.yahoo.co.jp/articles/6f5842d1c1413d384fb3b0a02f6e1a27216ab5bd",
+          "publishedOn": "2021-09-13T07:14:36.000Z",
+          "wordCount": 71,
+          "title": "道路交通量の調査員廃止へ　カメラとAIで常時観測　国交省検討（時事通信） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://hatenacorp.jp/press/release/entry/2021/09/13/153000",
+          "author": null,
+          "description": "株式会社はてな（代表取締役社長：栗栖義臣／本社所在地：京都市中京区）は、本日2021年9月13日より、当社のサーバー監視サービス「Mackerel（マカレル）」の「カスタムメトリック」の保存機能を強化し、ホスト退役後も設定したデータを閲覧していただけるよう変更したことをお知らせします。「Mackerel」は、このたびの...",
+          "link": "https://hatenacorp.jp/press/release/entry/2021/09/13/153000",
+          "publishedOn": "2021-09-13T06:34:50.000Z",
+          "wordCount": 120,
+          "title": "はてな、サーバー監視サービス「Mackerel」のカスタムメトリックを強化 - プレスリリース - 株式会社はてな"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1350467.html",
+          "author": null,
+          "description": "LINE（株）は9月10日、QRコードを用いた「LINE」へのログインにPINコードを用いた2要素認証の脆弱性が存在したことを明らかにした。この脆弱性を悪用した不正ログインも発生していたという。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1350467.html",
+          "publishedOn": "2021-09-13T06:23:57.000Z",
+          "wordCount": 101,
+          "title": "QRコードを用いた「LINE」へのログインに脆弱性、不正ログインも発生 - 窓の杜"
+        },
+        {
+          "id": "https://togetter.com/li/1773878",
+          "author": null,
+          "description": "2021年10月1日よりPayPayの決済システム利用料が有料となることを受け、取扱終了するお店が増えているようです。",
+          "link": "https://togetter.com/li/1773878",
+          "publishedOn": "2021-09-13T05:33:33.000Z",
+          "wordCount": 1429,
+          "title": "10月からのPayPay手数料有料化に伴いお店が続々撤退している模様「こういう店が増えていくの辛い」 - Togetter"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000001.000079431.html",
+          "author": null,
+          "description": "Diver-X株式会社（本社：東京都中央区、代表取締役：迫田大翔、以下「Diver-X」）は、世界初*となる、寝ながらの使用に最適化したVRデバイス「HalfDive（ハーフダイブ）」を発表します。2021年11月6日からのクラウドファンディングサイトKickstarterを通じた支援者募集に向けた準備を進めております。*自社調べ 【HalfDi...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000001.000079431.html",
+          "publishedOn": "2021-09-13T03:44:57.000Z",
+          "wordCount": 635,
+          "title": "Diver-X、世界初！寝ながらの使用に最適化したVRデバイス「HalfDive」を発表　-ゲーム及び寝ながらの作業用途でコンシューマー展開を目指す-｜Diver-X株式会社のプレスリリース"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1350548.html",
+          "author": null,
+          "description": "Diver-X株式会社は13日、寝ながらの使用に最適化したVR HMD「HalfDive」を発表した。11月6日からKickstarterで支援者を募集する準備を進めているという。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1350548.html",
+          "publishedOn": "2021-09-13T03:43:34.000Z",
+          "wordCount": 99,
+          "title": "“社会活動すべてを布団に入りながらにして完結”できるVRヘッドセット - PC Watch"
+        },
+        {
+          "id": "https://techtarget.itmedia.co.jp/tt/news/2109/13/news04.html",
+          "author": null,
+          "description": "関連キーワード アプリケーション開発 | プログラミング プログラミング言語「Rust」は、特に高速な動作速度や高い安全性が求められるアプリケーションを開発する際にメリットが際立つ。その半面、開発者の学習曲線は険しいという見方がある。 仕組みが大きく異なる他のプログラミング言語からRustに移行すると、開発者...",
+          "link": "https://techtarget.itmedia.co.jp/tt/news/2109/13/news04.html",
+          "publishedOn": "2021-09-13T03:41:16.000Z",
+          "wordCount": 332,
+          "title": "難しくても「Rust」を学びたくなってしまう理由：「Rust」のメリットとデメリット【後編】 - TechTargetジャパン システム開発"
+        },
+        {
+          "id": "https://note.com/everyleaf/n/n616fe11977e8",
+          "author": null,
+          "description": "こんにちは、nay3です。今日からは、万葉の文化の根本であるチーム観について書きはじめたいと思います。より分かりやすくお伝えできるように、創業以来、私たちがどんなふうに変わってきたのかという切り口でご紹介してみたいと思います。 創業当初は、「チーム」に強い関心はなかった 万葉を立ち上げたときは、開発を...",
+          "link": "https://note.com/everyleaf/n/n616fe11977e8",
+          "publishedOn": "2021-09-13T03:37:14.000Z",
+          "wordCount": 51,
+          "title": "万葉のチーム観、そのはじまり｜万葉｜note"
+        },
+        {
+          "id": "https://techblog.gmo-ap.jp/2021/09/13/cloud_sql_to_migration_with_version_up/",
+          "author": null,
+          "description": "こんにちは、GMOアドマーケティング インフラ開発部のhakumaiです。 前回の記事「AWSエンジニアから見たGCPサービス(DB/ストレージ編)」を読んでいただいた方々、ありがとうございます。 こんにちは、GMOアドマーケティング インフラ開発部のhakumaiです。前回の記事「元AWSエンジニアがGoogle Cloud Professional Cloud...",
+          "link": "https://techblog.gmo-ap.jp/2021/09/13/cloud_sql_to_migration_with_version_up/",
+          "publishedOn": "2021-09-13T03:17:38.000Z",
+          "wordCount": 650,
+          "title": "無事故でPostgreSQLバージョンアップ兼Cloud SQLへ移行した話 | GMOアドパートナーズグループ TECH BLOG byGMO"
+        },
+        {
+          "id": "https://linecorp.com/ja/security/article/390",
+          "author": null,
+          "description": "1.概要 2019年11月25日より2021年7月7日18時55分までの期間、Windows/Mac OS/iPad/Google Chrome版「LINE」へのQRコードを用いたログインにおいて、PINコードを用いた2要素認証に脆弱性があり、この脆弱性を悪用した不正ログインが発生していたことを確認しました。この脆弱性の修正および確認された不正ログインの無効...",
+          "link": "https://linecorp.com/ja/security/article/390",
+          "publishedOn": "2021-09-13T03:03:39.000Z",
+          "wordCount": 87,
+          "title": "「LINE」のQRコードログインにおける2要素認証の脆弱性および不正ログイン発生に係るお知らせとお詫び | LINE Corporation | セキュリティ＆プライバシー"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1350480.html",
+          "author": null,
+          "description": "KDDIと沖縄セルラーは、オンライン専用料金ブランドの「povo」で、月額0円の「ベースプラン」に通話やデータ通信などをトッピングで選んで利用する「povo 2.0」を発表した。9月下旬から提供される予定。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1350480.html",
+          "publishedOn": "2021-09-13T02:32:52.000Z",
+          "wordCount": 120,
+          "title": "「povo」新プランは0円～、通話もデータもトッピングで選ぶ - ケータイ Watch"
+        },
+        {
+          "id": "https://techblog.zozo.com/entry/tfupdate-gha",
+          "author": null,
+          "description": "はじめに こんにちは。SRE部MLOpsチームの築山（@2kyym）です。 Infrastructure as Code（IaC）が一般的になり、またパブリッククラウドをフル活用したインフラ構築が当たり前となりつつあります。そんな中で、インフラの構成管理にTerraformを用いているチームも多いのではないでしょうか。本記事ではTerraformを用いた...",
+          "link": "https://techblog.zozo.com/entry/tfupdate-gha",
+          "publishedOn": "2021-09-13T02:27:55.000Z",
+          "wordCount": 1430,
+          "title": "GitHub Actionsとtfupdateを使ってTerraformおよびTerraform Providerのバージョンアップを自動化する - ZOZO Technologies TECH BLOG"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2109/13/news077.html",
+          "author": null,
+          "description": "povo2.0の開始に伴い、9月13日から「povo2.0デビューキャンペーン」を実施する。事前エントリーして対象のデータトッピングを購入すると、最初に購入したデータ容量に応じて最大20GBのデータをプレゼントする。 現在提供中のpovoの料金プラン名称を「povo1.0」に変更し、9月下旬に新規受付を終了する予定。 関連記事 刷...",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2109/13/news077.html",
+          "publishedOn": "2021-09-13T02:08:50.000Z",
+          "wordCount": 446,
+          "title": "auの「povo」、9月下旬から基本料金0円に　データ通信は1GBから選択 - ITmedia Mobile"
+        },
+        {
+          "id": "https://itbenricho.com/iphone-shortcut-mac-heic-jpg.html",
+          "author": null,
+          "description": "以前「Macで画像拡張子HEICを JPGに変換する方法」という記事を書きました。この記事はiPhoneの写真をMacに移動させてから、Macのプレビューで.heicから.jpgに変換する内容です。 この方法でも写真をJPGにすることが可能ですが、毎日ブログを書いているものからすれば結構手間なのです。 もっと簡単に写真をまとめてJPG...",
+          "link": "https://itbenricho.com/iphone-shortcut-mac-heic-jpg.html",
+          "publishedOn": "2021-09-13T01:37:19.000Z",
+          "wordCount": 676,
+          "title": "iPhoneの写真をAirDrop経由でHEICからJPGに自動変換しMacに送信するショートカット - IT便利帳"
+        },
+        {
+          "id": "https://news.kddi.com/kddi/corporate/newsrelease/2021/09/13/5388.html",
+          "author": null,
+          "description": "KDDI株式会社 沖縄セルラー電話株式会社 2021年9月13日 KDDI、沖縄セルラーは2021年9月下旬 (予定) から、auのオンライン専用ブランドpovoにおいて、月額基本料0円から開始し、お客さまのライフスタイルにあわせて10種類のトッピングを自由に選択できるオールトッピング「povo2.0」を提供開始します。 「povo2.0」は、基...",
+          "link": "https://news.kddi.com/kddi/corporate/newsrelease/2021/09/13/5388.html",
+          "publishedOn": "2021-09-13T01:27:01.000Z",
+          "wordCount": 316,
+          "title": "povo、基本料0円から始まるオールトッピング「povo2.0」を提供開始 | 2021年 | KDDI株式会社"
+        },
+        {
+          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2109/13/news033.html",
+          "author": null,
+          "description": "Kaggle公式講座の内容がなかなか良かったです。これに沿って、Titanicコンペを卒業して、住宅価格コンペに参戦することで、自分自身の機械学習実践スキルの成長が実感できました。その体験を共有します。 連載目次 こんにちは、初心者Kagglerの一色です。また、この連載の記事を開いてくれてありがとうございます！ 前回...",
+          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2109/13/news033.html",
+          "publishedOn": "2021-09-13T00:23:54.000Z",
+          "wordCount": 340,
+          "title": "「無料のKaggle公式講座×コンペ初参戦」で機械学習を始めよう：僕たちのKaggle挑戦記 - ＠IT"
+        },
+        {
+          "id": "https://twitter.com/API0612/status/1436963662585991177",
+          "author": null,
+          "description": "インフレ率を2％にすべきと主張してる人達は、インフレ率2％になっても、自分の可処分所得を毎年2％増加させる自信があるのかもしれないが、全く増加しない人達はどうするのよ。 甘んじてインフレ税を受け入れろという事なんだろか。",
+          "link": "https://twitter.com/API0612/status/1436963662585991177",
+          "publishedOn": "2021-09-12T23:47:49.000Z",
+          "wordCount": 196,
+          "title": "API on Twitter: \"インフレ率を2％にすべきと主張してる人達は、インフレ率2％になっても、自分の可処分所得を毎年2％増加させる自信があるのかもしれないが、全く増加しない人達はどうするのよ。 甘んじてインフレ税を受け入れろという事なんだろか。\""
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/13/news060.html",
+          "author": null,
+          "description": "Innovative Tech： このコーナーでは、テクノロジーの最新研究を紹介するWebメディア「Seamless」を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 米カリフォルニア大学サンディエゴ校（UCSD）の研究チームは、市販のマスクに貼り付けられるシールタイプの使い捨てテストストリ...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/13/news060.html",
+          "publishedOn": "2021-09-12T23:37:29.000Z",
+          "wordCount": 144,
+          "title": "マスクに貼れるシールで、新型コロナを簡易検査　米カリフォルニア大が開発：Innovative Tech（1/2 ページ） - ITmedia NEWS"
+        },
+        {
+          "id": "https://blog.cybozu.io/entry/2021/09/13/080000",
+          "author": null,
+          "description": "こんにちは、フロントエンドエキスパートチームの麦島(@mugi_uno)です！ 2021年5月に新しくメンバーとして加わり、富山からフルリモートで働いています。 最近はチームメンバーに誕生日を祝ってもらって嬉しかったです🎉 さて、以前に \"kintoneのフロントエンド刷新に向けた取り組み\"*1 というエントリでもご紹介しまし...",
+          "link": "https://blog.cybozu.io/entry/2021/09/13/080000",
+          "publishedOn": "2021-09-12T23:11:20.000Z",
+          "wordCount": 600,
+          "title": "フロントエンド刷新のために DevTools を作って開発を捗らせる - Cybozu Inside Out | サイボウズエンジニアのブログ"
+        },
+        {
+          "id": "https://globe.asahi.com/article/14437647",
+          "author": null,
+          "description": "越智優真さん。最近ギターを始め、軽音楽部にも入った。機械学習の勉強は「一日2時間ぐらい」という＝木更津高専で、藤田明人撮影 木更津工業高等専門学校（千葉県木更津市）情報工学科に今春入学した越智優真さんは、４月、「Fixstars Amplifyハッカソン」（株式会社フィックスターズ主催）で、応募71作品の中で最優秀...",
+          "link": "https://globe.asahi.com/article/14437647",
+          "publishedOn": "2021-09-12T22:53:43.000Z",
+          "wordCount": 210,
+          "title": "千葉の高専生、ハッカソンで最優秀賞　「量子コンピューターでお手軽機械学習」とは：朝日新聞GLOBE＋"
+        },
+        {
+          "id": "https://jp.reuters.com/article/it-ai-insight-idJPKBN2G50NP",
+          "author": null,
+          "description": "［サンフランシスコ　８日　ロイター］ - 米グーグルのクラウド部門は昨年９月、顧客金融機関から融資審査に人口知能（ＡＩ）を活用するサービスを提供してほしいと持ちかけられた。何週間も協議した末、出た結論は却下。ＡＩ技術は人種や性別にまつわる差別を永続化させかねず、倫理的に危うすぎる、というのがその理由...",
+          "link": "https://jp.reuters.com/article/it-ai-insight-idJPKBN2G50NP",
+          "publishedOn": "2021-09-12T22:42:42.000Z",
+          "wordCount": 30,
+          "title": "焦点：米ＩＴ大手、ＡＩ新技術の活用にブレーキ　倫理的問題に直面 | ロイター"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1350405.html",
+          "author": null,
+          "description": "プレビュー版「Windows 11」を試したユーザーのなかには、操作の応答性が改善されたと感じた人も少なくないのではないだろうか。Windows 11そのもののハードウェア要件は引き上げられており、実際、古いデバイスではもたつきを感じたが、要件を満たしたデバイスであれば、UIの反応はむしろよくなった印象を受ける。この点に関し、MicrosoftがWindows 11で行ったパフォーマンスの最適化を解説してくれているので、今回はそれを簡単にご紹介しよう。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1350405.html",
+          "publishedOn": "2021-09-12T22:06:07.000Z",
+          "wordCount": 137,
+          "title": "「Windows 11」は操作への応答が高速化 ～Microsoftがその秘密を解説 - やじうまの杜 - 窓の杜"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/column/shimizu/1347513.html",
+          "author": null,
+          "description": "プラネックスコミュニケーションズ株式会社から、デスクトップPC向けとなるPCI Express x1接続の2.5Gbps対応ネットワークアダプタ「GPE-2500T」が発売された。",
+          "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/1347513.html",
+          "publishedOn": "2021-09-12T21:31:53.000Z",
+          "wordCount": 132,
+          "title": "3500円で2.5GBASE-Tへアップグレード、プラネックスのPCIe接続アダプター「GPE-2500T」を試す【イニシャルB】 - INTERNET Watch"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/kubernetesitcloud_operator_days_tokyo.html",
+          "author": null,
+          "description": "Kubernetesは、ITを「チケットドリブン」から「インテントドリブン」へ変えていく。Cloud Operator Days Tokyo基調講演 クラウドの運用担当者にフォーカスしたオンラインイベント「Cloud Operator Days Tokyo」では、8月27日に基調講演として、Kubernetesの生みの親の一人であるクレイグ・マクラッキー氏のセッション「K...",
+          "link": "https://www.publickey1.jp/blog/21/kubernetesitcloud_operator_days_tokyo.html",
+          "publishedOn": "2021-09-12T20:30:07.000Z",
+          "wordCount": 241,
+          "title": "Kubernetesは、ITを「チケットドリブン」から「インテントドリブン」へ変えていく。Cloud Operator Days Tokyo基調講演 － Publickey"
+        },
+        {
+          "id": "https://togetter.com/li/1773558",
+          "author": null,
+          "description": "Shohei @shohei_ub 医療とイケてる論文について呟きます。医学部在学中に医療・ヘルスケアIT業界で3年、のちに初期臨床研修医。 ex-エムスリー, ex-Ubie, 健康医療ベンチャー大賞, DesignShip Public Speaker, 慶應塾長賞 ↓note集 note.com/011235813 Shohei @shohei_ub - ビデオ通話・対面などの同期コミュニケーション...",
+          "link": "https://togetter.com/li/1773558",
+          "publishedOn": "2021-09-12T12:43:03.000Z",
+          "wordCount": 861,
+          "title": "「リモートで組織内のサイロ化が進む」「全員出勤日を設けるなど工夫する必要がある」コロナ禍でMicrosoftがフルリモートになった影響を調べた調査の結果が出た - Togetter"
+        },
+        {
+          "id": "https://soudai.hatenablog.com/entry/2021/09/12/170317",
+          "author": null,
+          "description": "WSL2ではPID 1がinitd問題によってsystemdが起動できません。 そのため、systemctlが使えなくてMySQLが起動できないってなるのですが、yoku0825さんにやり方を教えてもらったのでメモとして残します。 そんなムズくないです。最近のmysqldには--daemonizeがあるのでそれを使えばokです— yoku0825 (@yoku0825) 2021年8月2...",
+          "link": "https://soudai.hatenablog.com/entry/2021/09/12/170317",
+          "publishedOn": "2021-09-12T11:29:15.000Z",
+          "wordCount": 175,
+          "title": "WSL2でMySQLを起動するときは mysqld --daemonize を使う - そーだいなるらくがき帳"
+        },
+        {
+          "id": "https://researchmap.jp/zoeai/%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1-%E5%86%8D%E6%8E%B2",
+          "author": null,
+          "description": "私にとっては、研究者になろうと思ってから今日までは、自分の「良くない癖」に気づいては、治そうとする日々の連続であるような気がします。 中でも苦労している癖の中に、「なんとなく分かったつもりになる」「とりあえず分かったことにしてしまう」というものがあります。 勉強したり、他人の論文を読んだりしていて...",
+          "link": "https://researchmap.jp/zoeai/%E7%A0%94%E7%A9%B6%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1-%E5%86%8D%E6%8E%B2",
+          "publishedOn": "2021-09-12T11:13:29.000Z",
+          "wordCount": null,
+          "title": "川添 愛 (Ai Kawazoe) - 研究のススメ 再掲 - researchmap"
+        },
+        {
+          "id": "https://note.com/hikikomororinn/n/n329864ded9ae",
+          "author": null,
+          "description": "まずはじめにこれは、デザインエンジニアとして生きてきた私Rikiのポジショントークです。 エンジニアとデザイナーの垣根が少しでも低くなれば、最高のプロダクトが次々に生まれると信じています。 Server-Driven UI（SDUI）とは何かAirbnbのテックブログで出てきた、UIをサーバーサイドで定義し、クライアント側に返却...",
+          "link": "https://note.com/hikikomororinn/n/n329864ded9ae",
+          "publishedOn": "2021-09-12T07:55:22.000Z",
+          "wordCount": 101,
+          "title": "Airbnbが採用するServer-Driven UIについて、私達はどう活かすのか｜Riki｜note"
+        },
+        {
+          "id": "https://ledge.ai/gacco-kyoto-u-ac-2021/",
+          "author": null,
+          "description": "画像は『京都大学「統計の入門」講座PV』より 株式会社ドコモgaccoは、オンライン講座「gacco（ガッコ）」において、京都大学 国際高等教育院 附属データ科学イノベーション教育研究センターによる「統計の入門」講座を開講中だ。受講料は無料。 統計に関する知識は、実験や試験、調査などの結果を用いた実証研究をする...",
+          "link": "https://ledge.ai/gacco-kyoto-u-ac-2021/",
+          "publishedOn": "2021-09-12T06:46:42.000Z",
+          "wordCount": 144,
+          "title": "統計の入門講座が無料に、京大メソッドでデータサイエンス関連教員が担当 | Ledge.ai"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2109/12/news030.html",
           "author": null,
           "description": "シャープがライカとの協業で「AQUOS R6」を発表し、そのライカ版ともいえる「Leitz Phone 1」が登場。それを見て昔からのカメラ好きは思い出したと思う。パナソニックが2014年に発売した「DMC-CM1」を。",
@@ -7138,195 +7399,6 @@
           "publishedOn": "2021-08-14T21:52:02.000Z",
           "wordCount": 441,
           "title": "Debian 11 \"bullseye\" has been released! - Bits from Debian"
-        },
-        {
-          "id": "https://japanese.engadget.com/twitter-tones-down-new-buttons-193100623.html",
-          "author": null,
-          "description": "数日前、Twitterはウェブ版やスマホアプリのUIを「Chirp」と称する新フォントと高コントラストなバージョンにアップデートし「利用しやすく、ユニークで、会話に集中できるようになる」とその効能を自慢げに述べていました。ところが、このアップデートを誰もが歓迎したわけではなかったようで、新しいUIになった直後か...",
-          "link": "https://japanese.engadget.com/twitter-tones-down-new-buttons-193100623.html",
-          "publishedOn": "2021-08-14T20:01:24.000Z",
-          "wordCount": 262,
-          "title": "新UIが不評のTwitter、ボタンの表示コントラストを再調整 - Engadget 日本版"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210815020532",
-          "author": null,
-          "description": "三十と数年を生きてきて文才があるなんて言われたのは数年前から匿名ダイアリーへ投稿するようになってからだ。 ビックリするくらいはてブ付くんよな、えっそんなに付けて良いの？と逆に申し訳なくなる。 そんなこんなで色々試していくうち、懐かしのテキストサイト文体や２ちゃんねるにあるようなネタカキコ文体、JK文...",
-          "link": "https://anond.hatelabo.jp/20210815020532",
-          "publishedOn": "2021-08-14T17:13:40.000Z",
-          "wordCount": 80,
-          "title": "俺には文才があるらしい、ブコメ民がそう言って多くのはてブを付けて"
-        },
-        {
-          "id": "https://cio.go.jp/sites/default/files/uploads/documents/210812_BidBriefingMeeting.pdf",
-          "author": null,
-          "description": "「政府統一Webサイト構築に向けたサービス基盤及び デザインシステム等の実証に関する調査業務」 の公告に係る説明会 2021年8月12日 内閣官房IT総合戦略室 はじめに 2 本日は説明会へのご参加ありがとうございます。 ・15:00-15:30 仕様書内容のご説明（IT室） ・15:30-16:00 質疑応答 ※最大16:30まで 【お願い】 ・ご説...",
-          "link": "https://cio.go.jp/sites/default/files/uploads/documents/210812_BidBriefingMeeting.pdf",
-          "publishedOn": "2021-08-14T17:05:39.000Z",
-          "wordCount": 20433,
-          "title": "「政府統一Webサイト構築に向けたサービス基盤及びデザインシステム等の実証に関する調査業務」の公告に係る説明会 | 内閣官房IT総合戦略室"
-        },
-        {
-          "id": "https://www.tivadardanka.com/blog/roadmap-of-mathematics-for-machine-learning",
-          "author": null,
-          "description": "Knowing the mathematics behind machine learning algorithms is a superpower. If you have ever built a model for a real-life problem, you probably experienced that being familiar with the details can go a long way if you want to move beyond baseline performance. This is especially true when you wan...",
-          "link": "https://www.tivadardanka.com/blog/roadmap-of-mathematics-for-machine-learning",
-          "publishedOn": "2021-08-14T15:41:18.000Z",
-          "wordCount": 3578,
-          "title": "Mathematics of machine learning by Tivadar Danka"
-        },
-        {
-          "id": "https://togetter.com/li/1759689",
-          "author": null,
-          "description": "まつぼ @1matsubo 庁内の大規模なDXプロジェクトに関わっている。新規システム導入に必要な予算が数億円規模だと知った偉い人が「エクセルとか使って職員が内製すれば予算無くても出来るんじゃないか？詳しい人いないのか？」って言ったので場の雰囲気が最悪になった。その後、みんなあんまり反論せずに帰った。 2021-08...",
-          "link": "https://togetter.com/li/1759689",
-          "publishedOn": "2021-08-14T11:45:09.000Z",
-          "wordCount": 1283,
-          "title": "庁内のDXプロジェクトに必要な予算が数億円規模だと知った偉い人が「エクセルとか使えば予算がなくても出来るんじゃないか？」って言っていて最悪の雰囲気になった - Togetter"
-        },
-        {
-          "id": "https://qiita.com/shunsa10/items/e43564cf48f84b95455b",
-          "author": null,
-          "description": "Help us understand the problem. What is going on with this article?",
-          "link": "https://qiita.com/shunsa10/items/e43564cf48f84b95455b",
-          "publishedOn": "2021-08-14T11:11:37.000Z",
-          "wordCount": 372,
-          "title": "GitHubでhttpsのパスワード認証が廃止された。Please use a personal access token instead. - Qiita"
-        },
-        {
-          "id": "https://note.com/vweclub/n/n82f38a06a041",
-          "author": null,
-          "description": "バーチャルファッションの\"現在地\"──chloma Virtual Store in GHOSTCLUB 制作インタビュー 2021年7月にソーシャルVR「VRChat」内にオープンした「chloma Virtual Store in GHOSTCLUB」。 ファッションブランド「chloma」が、2018年からVRChat上で定期的に活動を続けるクラブ「GHOSTCLUB」とコラボレーションし、2021年5...",
-          "link": "https://note.com/vweclub/n/n82f38a06a041",
-          "publishedOn": "2021-08-14T10:55:41.000Z",
-          "wordCount": 341,
-          "title": "バーチャルファッションの\"現在地\"──chloma Virtual Store in GHOSTCLUB 制作インタビュー｜VRChatワールド探索部｜note"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2021/08/chromebook-x2-11.html",
-          "author": null,
-          "description": "iPad Pro...じゃない、これChromebookだ！HP｢Chromebook x2 11｣2021.08.13 18:0019,099 ヤマダユウス型 同じようなかたちだけど、中身は違うのじゃ。 HPからいくつかの新製品がリリースされています。そのうちのひとつ｢Chromebook x2 11｣は、もう限りなくiPad Proです。もしくはSurface Proです。 ｢Chromebook x2 11｣は...",
-          "link": "https://www.gizmodo.jp/2021/08/chromebook-x2-11.html",
-          "publishedOn": "2021-08-14T10:38:00.000Z",
-          "wordCount": 92,
-          "title": "iPad Pro...じゃない、これChromebookだ！HP｢Chromebook x2 11｣ | ギズモード・ジャパン"
-        },
-        {
-          "id": "https://nlab.itmedia.co.jp/nl/articles/2108/14/news047.html",
-          "author": null,
-          "description": "日本大学商学部水野学ゼミが開発した、家の中に出た虫を殺さず“逃がす”ことに特化したグッズ「むしキャッチリー」を8月17日からAmazonで再販売します。これはなかなかありがたいグッズかも。 むしキャッチリー 「むしキャッチリー」は、透明な箱状の捕獲器。見つけた虫に被せて取っ手を引っ張ると捕まえられ、そのまま外...",
-          "link": "https://nlab.itmedia.co.jp/nl/articles/2108/14/news047.html",
-          "publishedOn": "2021-08-14T10:15:19.000Z",
-          "wordCount": 261,
-          "title": "家で出た虫を殺さず“外に逃がす”グッズが登場　退治に気が引ける人や後処理が怖い人に - ねとらぼ"
-        },
-        {
-          "id": "https://zenn.dev/suzuki_hoge/articles/2021-08-github-access-f732e5b9868137",
-          "author": null,
-          "description": "2021/08/13 ( 時間不明 ) に GitHub はパスワードで push / pull ができなくなったんですね？ 全然知りませんでした、すげービビりました。 $ git push origin foo Support for password authentication was removed on August 13, 2021. Please use a personal access token instead. remote: Please see https://githu...",
-          "link": "https://zenn.dev/suzuki_hoge/articles/2021-08-github-access-f732e5b9868137",
-          "publishedOn": "2021-08-14T08:48:22.000Z",
-          "wordCount": 144,
-          "title": "Mac が覚えている GitHub のパスワードをパーソナルアクセストークンに変更する"
-        },
-        {
-          "id": "https://blog.magnolia.tech/entry/2021/08/14/160420",
-          "author": null,
-          "description": "昔初めてPMBOKで「段階的詳細化」って用語を知った時、随分と当たり前のことにわざわざ名前がついてるんだなぁと思ったことが有るけど、案外ちゃんと名前をつけてあげないと最初から細部まで完璧な計画が(実際に有るかは別として)存在せねばならぬ、みたいな発想が(無自覚に)有る人に有効なんだなって— magnoliak🍧 (@ma...",
-          "link": "https://blog.magnolia.tech/entry/2021/08/14/160420",
-          "publishedOn": "2021-08-14T08:45:41.000Z",
-          "wordCount": 123,
-          "title": "計画の解像度を上げていく - Magnolia Tech"
-        },
-        {
-          "id": "https://techtarget.itmedia.co.jp/tt/news/2108/14/news01.html",
-          "author": null,
-          "description": "関連キーワード Java | アプリケーション開発 | プログラミング プログラミング言語および開発・実行環境「Java」には、変数やメソッド（データに対する）、定数などの命名に関する慣例がある。Javaの基本的な命名規則を解説した前編「Javaの『変数』『メソッド』『定数』名の“ひんしゅくを買わない”付け方」に続く後編...",
-          "link": "https://techtarget.itmedia.co.jp/tt/news/2108/14/news01.html",
-          "publishedOn": "2021-08-14T04:37:20.000Z",
-          "wordCount": 347,
-          "title": "Javaで「ケバブケース」はなぜ駄目？　「参照型変数」「パッケージ」の命名規則：Javaで従うべき命名規則【後編】 - TechTargetジャパン システム開発"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/7fd1e042cd6784e32b4eb70950a1099ee8fa9ad7",
-          "author": null,
-          "description": "東京都は若者のワクチン接種を促進するために、接種記録を読み込み、接種済みの人が店舗で割引を受けられたりするアプリを開発すると発表しました。 東京都は、新型コロナウイルス対策などを柱とする補正予算案を発表し、この中で、若年層のワクチン接種を促進するためのキャンペーン事業の費用１０億円を計上しました。...",
-          "link": "https://news.yahoo.co.jp/articles/7fd1e042cd6784e32b4eb70950a1099ee8fa9ad7",
-          "publishedOn": "2021-08-14T04:20:56.000Z",
-          "wordCount": 72,
-          "title": "“若者ワクチン接種促進”都がアプリ開発へ（日本テレビ系（NNN）） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/06/news135.html",
-          "author": null,
-          "description": "フェンシング剣の軌跡、AIと4Kカメラで捕まえた　“ライトセーバー”みたいな可視化技術、約5年間の開発秘話（1/3 ページ） フェンシングの剣の軌跡を可視化する技術が東京五輪で注目された。AIと4Kカメラを用いることで軌跡が映画「スターウォーズ」に登場する武器「ライトセーバー」のように光り輝くのだ。約5年間に渡る...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/06/news135.html",
-          "publishedOn": "2021-08-14T04:16:58.000Z",
-          "wordCount": 155,
-          "title": "フェンシング剣の軌跡、AIと4Kカメラで捕まえた　“ライトセーバー”みたいな可視化技術、約5年間の開発秘話（1/3 ページ） - ITmedia NEWS"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/064/4064798/",
-          "author": null,
-          "description": "自宅でテレビを見るというと、最近ではめっきりニュース番組しか出番がなく、あとはたまにPlayStation 5やNintendo Switchなどのゲーム機で遊ぶときだけしか電源を入れることはありませんでした。 しかも、2008年製のプラズマテレビという、何年も前にシェア争いから脱落したものを使い続けていたわけです。未だ現役で特...",
-          "link": "https://ascii.jp/elem/000/004/064/4064798/",
-          "publishedOn": "2021-08-14T03:45:03.000Z",
-          "wordCount": 514,
-          "title": "ASCII.jp：約13年ぶりのテレビ購入、37型プラズマから50型4K液晶に買い換えたら世界が変わった"
-        },
-        {
-          "id": "https://sakebook.hatenablog.com/entry/2021/08/13/090052",
-          "author": null,
-          "description": "久しぶりの更新です。 コードレビューや動作確認などでスマホ画面のキャプチャを貼り付けたくなることがあります。 そういう時に、シュッとキャプチャをとってClipboardに貼り付けられるツールを作りました。 github.com インストールはHomebrew経由で行えます。 $ brew tap sakebook/tap && brew install pbssc オプシ...",
-          "link": "https://sakebook.hatenablog.com/entry/2021/08/13/090052",
-          "publishedOn": "2021-08-14T03:03:25.000Z",
-          "wordCount": 252,
-          "title": "スマホのキャプチャを扱いやすくするCLI「pbssc」を作った - メモ2ブログ"
-        },
-        {
-          "id": "https://jp.techcrunch.com/2021/08/14/2021-08-13-employee-talent-predictor-retrain-ai-raised-another-7m-adds-splunk-as-strategic-investor/",
-          "author": null,
-          "description": "世界経済フォーラムによれば、オートメーションにより2025年までに8500万人が職を失い、同時に9700万人の新たな雇用が創出されるという。良いニュースのように聞こえるが、多くの人が将来の仕事のために再びトレーニングを受ける必要があるという厳しい現実だ。 多くのスタートアップが従業員のスキルに関するこうした問...",
-          "link": "https://jp.techcrunch.com/2021/08/14/2021-08-13-employee-talent-predictor-retrain-ai-raised-another-7m-adds-splunk-as-strategic-investor/",
-          "publishedOn": "2021-08-14T02:25:34.000Z",
-          "wordCount": 329,
-          "title": "AIと機械学習で将来的な人材戦略を予測するretrain.aiが約7.7億円を調達 | TechCrunch Japan"
-        },
-        {
-          "id": "https://selmertsx.hatenablog.com/entry/2021/08/11/%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E6%B1%BA%E3%82%81%E6%96%B9",
-          "author": null,
-          "description": "TL;DR JPドメインの管理をしている株式会社日本レジストリサービスには、下記の規則がある ざっくり言うと、「誰かがあなたのドメインを欲しいと言って、あなたが10日以内に返事をしなければ、ほしいと言った人にあげちゃうよ」という規約である // https://jprs.jp/doc/rule/toritsugi-rule-wideusejp.html ２ 当社が、...",
-          "link": "https://selmertsx.hatenablog.com/entry/2021/08/11/%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E6%B1%BA%E3%82%81%E6%96%B9",
-          "publishedOn": "2021-08-14T01:40:02.000Z",
-          "wordCount": 313,
-          "title": "ドメインの決め方 - selmertsxの素振り日記"
-        },
-        {
-          "id": "https://news.mynavi.jp/article/20210813-1945647/",
-          "author": null,
-          "description": "Microsoftは2021年8月の月次累積アップデートで「August 10, 2021—KB5005033 (OS Builds 19041.1165, 19042.1165, and 19043.1165)」を公開した。MicrosoftはこのところPrintNightmareと呼ばれる印刷関連の脆弱性に悩まされてきた。今回のアップデートでこの問題の解消を狙ったのだが、この更新プログラムは別の問題を引...",
-          "link": "https://news.mynavi.jp/article/20210813-1945647/",
-          "publishedOn": "2021-08-14T01:20:09.000Z",
-          "wordCount": 336,
-          "title": "Windows 10の印刷問題解決する更新プログラム、別の問題を引き起こし中 | TECH+"
-        },
-        {
-          "id": "https://shunyaueta.com/posts/2021-08-13/",
-          "author": null,
-          "description": "内容システム提供において、基本的に高速であればあるほど顧客は嬉しいものだが、実際のところ高速なシステムを提供して、どの程度の価値が発生するのかが気になったので、調べてみた。 Three Challenges in Building Industrial-Scale Recommender Systems” - Keynote for ORSUM@RecSys’203rd Workshop on Online Recom...",
-          "link": "https://shunyaueta.com/posts/2021-08-13/",
-          "publishedOn": "2021-08-13T22:42:58.000Z",
-          "wordCount": 125,
-          "title": "システムの応答速度は本質的な価値提供であることを示す A/B テストの実例 | Shunya Ueta"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/14/news031.html",
-          "author": null,
-          "description": "ランボルギーニがスーパーカー「カウンタック」の50周年記念モデル「Countach LPI800-4」を限定112台で発売する。ハイブリッドで最高速度は時速355キロ。8.4インチタッチパネルでAppleのCarPlay対応だ。 伊Automobili Lamborghiniは8月13日（米太平洋時間）、日本では「スーパーカー」の代表とみなされている「Countach...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/14/news031.html",
-          "publishedOn": "2021-08-13T21:57:46.000Z",
-          "wordCount": 151,
-          "title": "往年のスーパーカー「ランボルギーニ・カウンタック」がハイブリッドで復活 - ITmedia NEWS"
         }
       ]
     },
@@ -7335,6 +7407,105 @@
       "feedUrl": "https://qiita.com/popular-items/feed",
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
+        {
+          "id": "https://qiita.com/abemaki29/items/faee1fbe224878c47fb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "【Azure】AI を活用して野生のシロクマを追跡する\n\nDA-100という資格を取る過程で勉強したラーニングパスでとても面白いものがあったので紹介します。\n以下のラーニングパスを実勢した内容をこの…",
+          "link": "https://qiita.com/abemaki29/items/faee1fbe224878c47fb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-13T01:51:47.000Z",
+          "wordCount": 1292,
+          "title": "【90分】AzureのAI を活用して野生のシロクマを追跡する"
+        },
+        {
+          "id": "https://qiita.com/sagae_twins_developper/items/5cf065171c50f95ca9f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "知見の獲得方法として、スポットでエンジニアを採用することについて書いてみました。\nマネジメントコストが上がりがちなど、採用方法としては敬遠されがちですが実は企業にとっても大きなメリットがあると思いま…",
+          "link": "https://qiita.com/sagae_twins_developper/items/5cf065171c50f95ca9f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-13T01:16:59.000Z",
+          "wordCount": 205,
+          "title": "エンジニアスポット採用のすゝめ"
+        },
+        {
+          "id": "https://qiita.com/donaisore/items/a7fa994a86042e3c6476?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nみなさんローカルに溜まっていくgitのブランチをどのように整理していますか？\n\n自分は\n\n$ git branch\nfoo\nbar\nbaz\n\n$ git branch -D bar baz\n$…",
+          "link": "https://qiita.com/donaisore/items/a7fa994a86042e3c6476?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-12T23:32:49.000Z",
+          "wordCount": 504,
+          "title": "[Python] ローカルのgitのブランチをお掃除するスクリプトを書いた"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/c6293b65237b4c56baa4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://betterprogramming.pub/hey-qa-why-didnt-you-find-that-bug-42ab3ef0a7e0\n\n\nHey QA、なぜそのバグを見つけられなか…",
+          "link": "https://qiita.com/e99h2121/items/c6293b65237b4c56baa4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-12T21:12:00.000Z",
+          "wordCount": 208,
+          "title": "「Hey QA、なぜそのバグを見つけられなかった？」"
+        },
+        {
+          "id": "https://qiita.com/mihoicchi/items/4b7a96d801526a2ffe11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこちらの記事でも書いた通り、Natural Language Classifier(以降、NLC)が2022年8月でサービス終了し、機能がNatural Language Underst…",
+          "link": "https://qiita.com/mihoicchi/items/4b7a96d801526a2ffe11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-12T16:01:07.000Z",
+          "wordCount": 344,
+          "title": "Watson NLCとNLUの精度を比べてみた"
+        },
+        {
+          "id": "https://qiita.com/kaizen_nagoya/items/88d2aae9cb9e64234d88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "yumetodo C++erを簡易的にレベル分けすることで初心者詐欺を減らそうという試み\n\nhttps://qiita.com/yumetodo/items/a843bd542106215bbc84\n\n…",
+          "link": "https://qiita.com/kaizen_nagoya/items/88d2aae9cb9e64234d88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-12T13:23:06.000Z",
+          "wordCount": 364,
+          "title": "@yumetodo C++erに倣って、Cerを簡易に水準分けして、初心者詐欺を減らす試み"
+        },
+        {
+          "id": "https://qiita.com/takeC74/items/1aa2e2b6b424b24ffe7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "「成長」を加速させる心構え。とあるネット記事で誰にでもできそうな有益な方法だなと共感できる記事を見つけた。\n若い人も、ベテランも、エンジニアも、そうでない人も、組織の中で働くうえで、自分が「成長」で…",
+          "link": "https://qiita.com/takeC74/items/1aa2e2b6b424b24ffe7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-12T12:50:39.000Z",
+          "wordCount": 198,
+          "title": "「成長」を加速させる心構え"
+        },
+        {
+          "id": "https://qiita.com/hayatoganbaru/items/ab6128775a1a3d33fbf8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんにちは！\n今回はクッキーとセッションの違いについて、アウトプット\nしていきたいと思います。\n\nHTTP通信はステートレスなプロトコルらしい。\n\nステートレスとは状態がないを意味しています。\nHTTP…",
+          "link": "https://qiita.com/hayatoganbaru/items/ab6128775a1a3d33fbf8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-12T09:58:46.000Z",
+          "wordCount": 212,
+          "title": "クッキーとセッションの違いをポンコツ販売員の俺で例える"
+        },
+        {
+          "id": "https://qiita.com/NamedPython/items/5b38e8e79d500aae8819?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "TL;DR\n\n\ndockerで設定できていたWORKDIRが、containerdでは書き込み権限がないかもしれないことに注意\n\n\n例\n\n\nWORKDIR /usr/local/app: Linuxディレクト…",
+          "link": "https://qiita.com/NamedPython/items/5b38e8e79d500aae8819?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-12T09:44:49.000Z",
+          "wordCount": 419,
+          "title": "Lima + containerdにおけるEROFS: read-only file system"
+        },
+        {
+          "id": "https://qiita.com/tat_tt/items/095db2ff7f754a01ecb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n筆者がVisual Studio 2019 v16.4以降でC#で開発をしていた際にinheritdocを使えることを知って、便利だなと思ったので、inheritdocの使い方について本…",
+          "link": "https://qiita.com/tat_tt/items/095db2ff7f754a01ecb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-12T07:43:31.000Z",
+          "wordCount": 290,
+          "title": "Visual Studio 2019 v16.4以降でC#を使う場合にはinheritdocを使った方がいいという話"
+        },
+        {
+          "id": "https://qiita.com/dgtanaka/items/16f046432d994ac7e5c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n　UE4 4.25くらいからかと思いますが、描画パスをエンジン改造無しで追加する方法を発見したので広めたいと思いました。\n　きっかけはRenderDocで描画を調べている時に、PostO…",
+          "link": "https://qiita.com/dgtanaka/items/16f046432d994ac7e5c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-12T05:23:35.000Z",
+          "wordCount": 1016,
+          "title": "UE4の描画パスをプラグインで追加する"
+        },
         {
           "id": "https://qiita.com/zacky1972/items/0abaf8bf8860eb852389?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
@@ -7381,6 +7552,15 @@
           "title": "Node-REDをKeyrcokとOAuth2連携させてロール・ベースのアクセス制御を実装"
         },
         {
+          "id": "https://qiita.com/printf_moriken/items/da03f55cb626617c1958?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "【2021.9.13 追記】\n\n既に Stage 4 になっているので諦めていたんですが、流石に見逃せないかなと思ったので TC39 の Discource にトピックをたててみました。意見がある方は…",
+          "link": "https://qiita.com/printf_moriken/items/da03f55cb626617c1958?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-11T19:23:21.000Z",
+          "wordCount": 614,
+          "title": "【追記あり】ES2022 Array#at がちょっとおかしい #fix_ecmascript_at"
+        },
+        {
           "id": "https://qiita.com/ht_deko/items/e7d3e32dd97b3569e581?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nDelphi で生成された EXE が動作する Windows のバージョンを調べてみました ^1。\n\n調査には Delphi 付属の TDUMP.EXE を使用しています。\n\nSee al…",
@@ -7388,6 +7568,15 @@
           "publishedOn": "2021-09-11T17:52:13.000Z",
           "wordCount": 463,
           "title": "Delphi で生成された EXE が動作する Windows のバージョン"
+        },
+        {
+          "id": "https://qiita.com/mkato1013/items/77075ed76aa82aa9a487?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n本記事では、オブジェクト指向について私が理解したところまでを記述します。\n\nオブジェクト指向とは\n\nobject=物体by Google先生\n\nなるほど、意味わからん。\nということで調べました。\n…",
+          "link": "https://qiita.com/mkato1013/items/77075ed76aa82aa9a487?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-11T16:22:45.000Z",
+          "wordCount": 233,
+          "title": "結局、オブジェクト指向とは。スマッシュブラザーズで例える。"
         },
         {
           "id": "https://qiita.com/Kazun_kyopro/items/a6b2d7e405ddfa1c92ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -7417,6 +7606,15 @@
           "title": "【Ruby on Rails】RSpec実行時に意図しないログが吐き出された"
         },
         {
+          "id": "https://qiita.com/kaizen_nagoya/items/d85830d58d8dd7f71d07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "https://qiita.com/official-events/1e99fc384200c38548fd\n\n行事「10年前の自分に伝えたうい、勉強しておきたかった技術」参加記事です。\n\n今日まで、「…",
+          "link": "https://qiita.com/kaizen_nagoya/items/d85830d58d8dd7f71d07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-11T13:49:38.000Z",
+          "wordCount": 309,
+          "title": "データサイエンティストの気づき「勉強だけして仕事に役立てない人大嫌い」それ自分かもってなった"
+        },
+        {
           "id": "https://qiita.com/hima2b4/items/868f48133f28b5e63f6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nPythonでしか描けない美しいグラフを描こう！（その２）です。（その１は以下）\n\nhttps://qiita.com/hima2b4/items/2bdb20a25fde2923afa5\n\nその２は予定外なのですが…",
@@ -7424,6 +7622,15 @@
           "publishedOn": "2021-09-11T11:54:14.000Z",
           "wordCount": 276,
           "title": "Pythonでしか描けない美しいグラフを描こう！（その２）"
+        },
+        {
+          "id": "https://qiita.com/kaizen_nagoya/items/7d1c41e2ad51385c28a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "名古屋地区の今後１０年の鉄道の延伸・新設を検討するにあたり、\n今後１０年に用いるとよい計算資源（量子計算機を含むハードウェア、最近のプログラミング言語を含むソフトウェア、特許を含むデータ）と、理論（…",
+          "link": "https://qiita.com/kaizen_nagoya/items/7d1c41e2ad51385c28a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-11T11:39:11.000Z",
+          "wordCount": 377,
+          "title": "鉄ちゃんの名古屋地下鉄・鉄道延伸・新設の展望の分析手法。鉄道(10)"
         },
         {
           "id": "https://qiita.com/pink_bangbi/items/454200f7e93bc600ecab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -7478,6 +7685,15 @@
           "publishedOn": "2021-09-11T06:23:33.000Z",
           "wordCount": 425,
           "title": "LINE BOT APIのreplyMessageでたまにInvalid reply tokenが発生する"
+        },
+        {
+          "id": "https://qiita.com/access3151fq/items/455c34ff0892b96e74ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Node.jsとDenoを比較する際の特徴として、「npmがない」というのがよく言及されています。\nこれ自体は正しいのですが、まるでパッケージ管理が貧弱かのように聞こえてしまい、誤解を生んでいるので…",
+          "link": "https://qiita.com/access3151fq/items/455c34ff0892b96e74ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-11T04:02:21.000Z",
+          "wordCount": 318,
+          "title": "「Denoにはnpmがない」の誤解"
         },
         {
           "id": "https://qiita.com/taka_yayoi/items/3e5c63a7ec59cf4e2422?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -7550,6 +7766,15 @@
           "publishedOn": "2021-09-10T21:46:58.000Z",
           "wordCount": 764,
           "title": "RAD Studio / Delphi / C++Builder 11.0 Alexandria スタートアップ FAQ"
+        },
+        {
+          "id": "https://qiita.com/ryosuketter/items/94e7068c76b8baf7e9bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n皆さんのWebサイトには、Internet Explorer（以下「IE」）を使ったアクセスがどの位ありますか？\n\nGAで見ることができます。\n\nサービスの内容にもよるかもしれませんが、それ…",
+          "link": "https://qiita.com/ryosuketter/items/94e7068c76b8baf7e9bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-10T18:23:44.000Z",
+          "wordCount": 388,
+          "title": "IEからEdgeへ転送させる方法と、IE非注力を認めてもらうポイント"
         },
         {
           "id": "https://qiita.com/kazuo_reve/items/f25b444fad35acfe6b41?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -7829,6 +8054,15 @@
           "publishedOn": "2021-09-09T06:18:55.000Z",
           "wordCount": 259,
           "title": "GASを活用した業務効率化レシピの紹介"
+        },
+        {
+          "id": "https://qiita.com/emi-hayashi/items/ab6040ef70400bfad469?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "この記事は何回かにわたって投稿します。\n自称「通販プラットフォーマー」を自負する筆者が、これまでやってきた経験からECで通販やるなら\nどんなことを知らないといけないのか、を説明していきます。\n\n（この…",
+          "link": "https://qiita.com/emi-hayashi/items/ab6040ef70400bfad469?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-09T04:35:29.000Z",
+          "wordCount": 215,
+          "title": "自称「通販プラットフォーマー」が教えるEC通販サイトオンボーディング①"
         },
         {
           "id": "https://qiita.com/taka_yayoi/items/c4fcb1a24f2d4406eb6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -11816,213 +12050,6 @@
           "publishedOn": "2021-08-15T00:56:38.000Z",
           "wordCount": 406,
           "title": "Oracle Database 19cとOracle Database 21cの初期化パラメーターを比較する"
-        },
-        {
-          "id": "https://qiita.com/shiro01/items/7dc68135b14de659bfc8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Elixir使って何か開発しようかなぁと思い立ち、開発環境の構築をしたのでメモします。\n使い慣れたVagrant、Virtualboxを使用してLinux環境を構築しています。\n作成した環境に接続し…",
-          "link": "https://qiita.com/shiro01/items/7dc68135b14de659bfc8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T18:09:50.000Z",
-          "wordCount": 669,
-          "title": "ubuntuベースのboxを使ってElixirの開発環境構築。VSCode設定。"
-        },
-        {
-          "id": "https://qiita.com/kei0919/items/cc3df681ce7415f79cb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nデータ分析をするにあたって、データ収集、加工、蓄積をするための基盤をGCPを使用して構築しました。\n自分がやったことの記録として記事にまとめます。\n\n前提\n\n\nスクレイピングをされる際は自己責…",
-          "link": "https://qiita.com/kei0919/items/cc3df681ce7415f79cb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T13:33:12.000Z",
-          "wordCount": 2732,
-          "title": "データ分析のための基盤構築"
-        },
-        {
-          "id": "https://qiita.com/kimorisan/items/84997591c7c2c897da18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nはじめまして。森と申します。\n\nこの度、個人サービス「むしめがね」をリリースしました！\nサービスに関して記事にしましたので、ぜひご一読いただけたら嬉しいです！\n\nアプリのURL：https:…",
-          "link": "https://qiita.com/kimorisan/items/84997591c7c2c897da18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T13:16:11.000Z",
-          "wordCount": 268,
-          "title": "【個人開発】家の中にときどき出る不快な虫を検索するサービス「むしめがね」をリリースしました。"
-        },
-        {
-          "id": "https://qiita.com/kata_1997/items/91bd4e409d0eb1102e1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nこちらはLinux技術者認定試験（LinuC102試験）学習中の方向けの記事です。\nLinuCとは：https://linuc.org/about/01.html\n\n今回はLinuC102…",
-          "link": "https://qiita.com/kata_1997/items/91bd4e409d0eb1102e1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T11:46:27.000Z",
-          "wordCount": 580,
-          "title": "眺めるだけでLinuC試験対策！　〜ネットワークの基礎編〜"
-        },
-        {
-          "id": "https://qiita.com/Junno/items/cca2b871d3271170fc74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "急増するオンラインのセミナー（情報取得のチャンス！）\n\nコロナ禍によって、オンラインのセミナー(ウェビナー)が急増したと思いませんか？？\n2020年の市場規模は前年比で2倍以上の伸びだそうです。\n(…",
-          "link": "https://qiita.com/Junno/items/cca2b871d3271170fc74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T10:56:46.000Z",
-          "wordCount": 251,
-          "title": "受信メールからセミナー案内メールだけを自動的にチームと自分に通知する仕組みをIntegromatを使って試してみた"
-        },
-        {
-          "id": "https://qiita.com/asgasw1127/items/9b487d69e12e7bc8537c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "初めに\n\nOpenSpielとは\n\nhttps://github.com/deepmind/open_spiel\n\nDEEPMINDが作成した研究者向けの強化学習フレームワークのOSSです。マルチエージ…",
-          "link": "https://qiita.com/asgasw1127/items/9b487d69e12e7bc8537c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T10:14:40.000Z",
-          "wordCount": 536,
-          "title": "OpenSpielで始める強化学習その① ~OpenAI Gymとの比較~"
-        },
-        {
-          "id": "https://qiita.com/shunsa10/items/e43564cf48f84b95455b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "昨夜作業中にgit pushしたところ見慣れ無いエラーが発生しました。\n\n$ git push origin branch名\nremote: Support for password authenti…",
-          "link": "https://qiita.com/shunsa10/items/e43564cf48f84b95455b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T10:05:32.000Z",
-          "wordCount": 370,
-          "title": "GitHubでhttpsのパスワード認証が廃止された。Please use a personal access token instead."
-        },
-        {
-          "id": "https://qiita.com/greatonbi/items/4dafd8d1559016f29f9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "最近データサイエンティストが多くなってきて、めでたいな～、いいことだな～と思っているのですが、多くの人は機械学習寄りの話から入っていくことが多く、統計学から入っていく人は少ないような気もします。\n\n重…",
-          "link": "https://qiita.com/greatonbi/items/4dafd8d1559016f29f9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T09:55:01.000Z",
-          "wordCount": 1282,
-          "title": "腑に落ちない人のための回帰診断"
-        },
-        {
-          "id": "https://qiita.com/yusei2629/items/da07d877a98c94abb3c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "あなたの姿勢、本当に正しいですか？\n\nどうもです。筆者は、都内の整形外科病院に勤務している、現役、理学療法士です。\n理学療法士は、一言で言うと「リハビリ」の人って感じですが、人の動きをみる専門家でも…",
-          "link": "https://qiita.com/yusei2629/items/da07d877a98c94abb3c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T09:14:42.000Z",
-          "wordCount": 856,
-          "title": "現役、理学療法士が姿勢の画像を送るとその姿勢について教えてくれるLINE botを作った"
-        },
-        {
-          "id": "https://qiita.com/kaizen_nagoya/items/d613b0b14bfd91989a13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "開発環境を豊かにする開発事例\nhttps://qiita.com/official-events/89fd4ad3c24d7882117d\n参加記事です。\n\n<この項は書きかけです。順次追記します。>\n\nこの記事は、最後に一覧にしたMathworksのAUTOSAR Youtube動画を見た方もしくは、その動画に出てくる技術をなんとなくわかっている方を想定しています。AUTOSAR初心者、MATLAB / Simulink初心者を想定していません。ごめんなさい…",
-          "link": "https://qiita.com/kaizen_nagoya/items/d613b0b14bfd91989a13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T09:00:17.000Z",
-          "wordCount": 890,
-          "title": "AUTOSARとSimulink: Adaptive Platform, Classic Platformとマルチコア対応を含めた共通化を目指して"
-        },
-        {
-          "id": "https://qiita.com/nstshirotays/items/c113b62b791931303447?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "1 はじめに\n\n　LINEのボット機能を使ってwikipediaのような情報共有をする仕組みを作ります。\n\n1.1 用意するもの\n\n\nPaizaCloudのアカウント\nLINEのアカウント\n\n\n1.2 参考U…",
-          "link": "https://qiita.com/nstshirotays/items/c113b62b791931303447?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T08:56:28.000Z",
-          "wordCount": 941,
-          "title": "LINEボットで作るWikipedia風ボット"
-        },
-        {
-          "id": "https://qiita.com/ishihatta/items/60e3ae87f07a1dfb41ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\n以前書いた記事で「Android アプリは OS の都合で勝手に終了する」ということを書きました。\n\nhttps://qiita.com/ishihatta/items/831b063ef…",
-          "link": "https://qiita.com/ishihatta/items/60e3ae87f07a1dfb41ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T08:53:14.000Z",
-          "wordCount": 1143,
-          "title": "Android に処理を完遂させる"
-        },
-        {
-          "id": "https://qiita.com/torifukukaiou/items/322482ab1a445d1f2f1a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "https://qiita.com/official-events/5fcd3867b233a9228fd0\n\nはじめに\n\n\nElixir 楽しんでいますか\nこの記事は、「Auth0を使ってID管理にまつ…",
-          "link": "https://qiita.com/torifukukaiou/items/322482ab1a445d1f2f1a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T08:34:16.000Z",
-          "wordCount": 1074,
-          "title": "Auth0をPhoenix LiveViewと組み合わせて使ってみました (Elixir)"
-        },
-        {
-          "id": "https://qiita.com/jon18/items/dbbd5b84885e277e177d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "独学エンジニア学習(レッスン5)\n\n疑問に思ったこと\n\nsqlを使用せずにphpのみで読書ログの登録、表示を行っていた時はforeachを使って読書ログの表示を行っていた。そこでsqlをからデータを抽…",
-          "link": "https://qiita.com/jon18/items/dbbd5b84885e277e177d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T08:04:38.000Z",
-          "wordCount": 425,
-          "title": "mysqli_fetch_assocの使い方について"
-        },
-        {
-          "id": "https://qiita.com/shiro01/items/c55a114c79ce19dd0795?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "業務でTerraformを数ヶ月使用しました。内容を忘れた時に見返す用としてメモします。\n業務ではモジュールを使用したフォルダ構成を主に扱ったため、それらを中心に記載しています。\n(Workspac…",
-          "link": "https://qiita.com/shiro01/items/c55a114c79ce19dd0795?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T07:50:13.000Z",
-          "wordCount": 1413,
-          "title": "Terraformざっくりめも：環境構築、モジュール形式のTerraform定義、既存リソースのImport"
-        },
-        {
-          "id": "https://qiita.com/ryusas/items/6ef3a0dbcecce95b6961?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "Maya2022.1がリリースされましたが、ちょっとやらかしちゃっている？バージョンかもしれません。\nたとえば、別件で「こんなこと」もあったりしますが、それは簡単に解決できるのでよしとして…、今回紹…",
-          "link": "https://qiita.com/ryusas/items/6ef3a0dbcecce95b6961?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T07:16:54.000Z",
-          "wordCount": 1016,
-          "title": "Maya 2022.1 の File Translator プラグインの問題のまとめ"
-        },
-        {
-          "id": "https://qiita.com/pikanji/items/90d27270e9f9fdcedca2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "概要\n\nAmplifyのLambda layerを環境*非依存にするために試行錯誤したのでメモ。（Lambda layerとはLambda関数で使用するライブラリ群で、例えばJSの場合node_mo…",
-          "link": "https://qiita.com/pikanji/items/90d27270e9f9fdcedca2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T07:02:08.000Z",
-          "wordCount": 263,
-          "title": "AmplifyでLambda Layerを環境非依存にできなかった話とその対策"
-        },
-        {
-          "id": "https://qiita.com/suzuki0430/items/ebc2ab53a6456b3372ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nWebpackは、JavaScript, CSS, JPGなどのリソースを一つのjsファイルにバンドルする(まとめる)ツールです。\nバンドルすることで、各リソースの依存関係を気にする必要…",
-          "link": "https://qiita.com/suzuki0430/items/ebc2ab53a6456b3372ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T06:09:52.000Z",
-          "wordCount": 708,
-          "title": "【Webpack】webpack.config.jsの内容がいまいちわからない方々へ"
-        },
-        {
-          "id": "https://qiita.com/plusultra/items/03a49998ff579079698c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "オンプレミス版のOracle Database 21cがダウンロードできるようになったため、インストールしてみました。インストール・メディはこちらからダウンロードできます。Linux x86-64 …",
-          "link": "https://qiita.com/plusultra/items/03a49998ff579079698c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T04:49:44.000Z",
-          "wordCount": 405,
-          "title": "Oracle Database 21cのインストールを試す"
-        },
-        {
-          "id": "https://qiita.com/ko1nksm/items/8fc8216cb94ec272c400?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "TL; DR\n\n(( 算術式 )) は比較用！\n\ncount=0 max=5\nwhile ((count < max)); do  # (( 算術式 )) は条件文で使うものです\n  count=$((co…",
-          "link": "https://qiita.com/ko1nksm/items/8fc8216cb94ec272c400?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T04:00:09.000Z",
-          "wordCount": 628,
-          "title": "シェルスクリプトは ((i=i+1)) ではなく i=$((i+1)) で計算しなければいけない！という話"
-        },
-        {
-          "id": "https://qiita.com/wwwy118/items/32905f51c4415331d8b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "「Web API: The Good Parts」の書評になります。\n著者：水野 貴明\n出版社：オライリージャパン\n発売日：2014/11/21\n\n所感\n\nAPIを触る機会が増えそうなのでマナー講習とし…",
-          "link": "https://qiita.com/wwwy118/items/32905f51c4415331d8b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T03:55:05.000Z",
-          "wordCount": 518,
-          "title": "書評：Web API: The Good Parts"
-        },
-        {
-          "id": "https://qiita.com/kazu_kazu/items/003d1ecb47ae29e48e42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "はじめに\n\nDOP学習にあたり、CodePipelineのイメージを掴むためにチュートリアルを行います。\n\n対象チュートリアル\n\nhttps://docs.aws.amazon.com/ja_jp/la…",
-          "link": "https://qiita.com/kazu_kazu/items/003d1ecb47ae29e48e42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T03:07:32.000Z",
-          "wordCount": 907,
-          "title": "【AWS DOP学習】CodePipelineを使用してLambdaを作成するチュートリアルを、CloudTrailを覗きながらやってみた"
-        },
-        {
-          "id": "https://qiita.com/youtoy/items/ac2f953d9a0ced3b881a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "author": null,
-          "description": "以前、以下のようなことをやりましたが、その第二弾です。\n\n●#つぶやきProcessing で気になった作品を p5.js Web Editor で動かそうとしてみる【 #GWアドベントカレンダー 2…",
-          "link": "https://qiita.com/youtoy/items/ac2f953d9a0ced3b881a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "publishedOn": "2021-08-14T01:08:54.000Z",
-          "wordCount": 755,
-          "title": "#つぶやきProcessing で気になった作品を p5.js Web Editor で動かしてみる 【その2】"
         }
       ]
     },
@@ -12031,6 +12058,195 @@
       "feedUrl": "https://gigazine.net/news/rss_2.0",
       "siteUrl": "https://gigazine.net/",
       "articles": [
+        {
+          "id": "https://gigazine.net/news/20210913-facebook-censoring-open-source-mastodon/",
+          "author": null,
+          "description": "Facebookがオープンソースのソーシャルネットワークサービスである「マストドン」に言及する投稿や、マストドンのURLをスパム判定し、他の人から見えないように投稿を削除していることが判明しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-facebook-censoring-open-source-mastodon/",
+          "publishedOn": "2021-09-13T08:00:00.000Z",
+          "wordCount": 189,
+          "title": "Facebookが競合である「マストドン」関連の投稿をスパム判定しているという指摘"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-milkweed-butterflies-drink-chemical-caterpillars/",
+          "author": null,
+          "description": "アメリカ大陸や太平洋諸島などに広く分布するオオカバマダラは、北アメリカでは1年のうちに北上と南下を行う渡りをする習性で知られています。そんなオオカバマダラで「幼虫の体液を生きたまま吸う」という恐ろしい行動が確認され、学術誌の「Ecology」に論文が掲載されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-milkweed-butterflies-drink-chemical-caterpillars/",
+          "publishedOn": "2021-09-13T07:00:00.000Z",
+          "wordCount": 221,
+          "title": "「同種の幼虫の体液を生きたまま吸う」チョウが確認される、メスを引きつけるフェロモンを作るための栄養補給か"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-seihodb/",
+          "author": null,
+          "description": "新型コロナウイルスのパンデミックにより多くの人が苦しい生活を送る中、2020年の生活保護申請件数がリーマンショック以来の増加を示すなど、「最後のセーフティーネット」とも呼ばれる生活保護制度の重要性は年々増しています。しかし、生活保護の申請者や受給中の人に対して福祉事務所が行う決定の中には、厳しすぎるものや生活保護法に反するものがあるのも事実。そんな生活保護に関する裁判や審査請求の結果を集めた「生活保護裁決データベース」を使うと、福祉事務所が行った不当な判断が覆された事例を見ることが可能とのことなので、さっそくデータベースを調べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-seihodb/",
+          "publishedOn": "2021-09-13T06:00:00.000Z",
+          "wordCount": 176,
+          "title": "生活保護に関する行政の不当な判断をまとめた「生活保護裁決データベース」"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-california-bill-ab701-amazon/",
+          "author": null,
+          "description": "アメリカ・カリフォルニア州で、「倉庫や配送センターで働く従業員に食事や休憩を妨げるようなノルマを課してはならない」という法案「AB701」が上院を通過。知事の承認を待つのみとなりました。AB701では「Amazon」という単語は一切使用されていないものの、過酷な労働環境が報告されるAmazonを狙い撃った法案であると、海外紙のLos Angeles Timesなどが指摘しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-california-bill-ab701-amazon/",
+          "publishedOn": "2021-09-13T05:00:00.000Z",
+          "wordCount": 203,
+          "title": "ほぼAmazon狙い撃ちの「倉庫従業員に食事やトイレを妨げるようなノルマを課してはならない」という法案がカリフォルニア州で可決"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-iphone-13-with-1tb-storage/",
+          "author": null,
+          "description": "Apple製品に関する正確なリーク情報で知られるアナリストのミンチー・クオ氏が、9月15日(水)未明から開催されるイベントで発表されるとみられる「iPhone 13」シリーズで初めて1TBのストレージを搭載することになると「予言」しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-iphone-13-with-1tb-storage/",
+          "publishedOn": "2021-09-13T04:52:00.000Z",
+          "wordCount": 229,
+          "title": "iPhone 13はiPhone初の1TBストレージを搭載か"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-google-illegally-underpaid-since-2019/",
+          "author": null,
+          "description": "イギリスの大手紙The Guardianが「Googleは数十カ国で数千人の派遣労働者の給与を過少支払いしている」と報じました。過少支払いの原因は、イギリスなどに存在する派遣労働者と正規社員を同等に扱うことを義務づける法律ですが、同紙が得た内部文書によると、Googleはこうした法律を2年以上にわたって意図的に無視していました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-google-illegally-underpaid-since-2019/",
+          "publishedOn": "2021-09-13T04:05:00.000Z",
+          "wordCount": 227,
+          "title": "Googleが累計100億円超も派遣労働者の給与を過少支払いか"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-starbucks-cookie-timeout/",
+          "author": null,
+          "description": "「ウェブサイトを訪れたユーザーの情報をターゲティング広告に利用するには、ユーザーがCookie利用について許可する必要がある」と、ヨーロッパやアメリカでは法律で定められているため、ユーザーをだます「ダークパターン」を利用してユーザーにターゲティング広告を許可するCookieを選ばせようとするケースが増加しています。エンジニアのChris Corbettさんが、イギリスのスターバックスのウェブサイトでも、ユーザーがCookieの広告利用について許可しないと設定した時に、不要に長いプロセス処理時間が発生し、しびれを切らしたユーザーが設定をキャンセルするようなダークパターンが見られることを指摘しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-starbucks-cookie-timeout/",
+          "publishedOn": "2021-09-13T03:20:00.000Z",
+          "wordCount": 200,
+          "title": "スターバックスがユーザーを意図的にだます「ダークパターン」を使用しているという指摘"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-remote-work-effects-microsoft/",
+          "author": null,
+          "description": "新型コロナウイルスへの感染対策として多くの企業でリモートワークが取り入れられています。そんな中、Microsoftが6万人以上の従業員の行動を分析して、リモートワークが企業内のコミュニケーションに与える影響をまとめた調査報告を公開しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-remote-work-effects-microsoft/",
+          "publishedOn": "2021-09-13T03:07:00.000Z",
+          "wordCount": 209,
+          "title": "6万人以上のMicrosoft社員の行動から「リモートワークが企業内コラボレーションに与える影響」が明らかに"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-google-search-available-dark-theme/",
+          "author": null,
+          "description": "ダークモードに対応したOSやウェブブラウザは数多くありますが、新たにGoogle検索もダークモードに対応しました。これにより、Google製品を使ったブラウジング体験のあらゆる場面を真っ黒に染めることが可能となります。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-google-search-available-dark-theme/",
+          "publishedOn": "2021-09-13T03:00:00.000Z",
+          "wordCount": 208,
+          "title": "Google検索がダークモードに対応"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-tropicana-cassis-grape/",
+          "author": null,
+          "description": "果汁のおいしさや栄養にこだわったというキリンの果汁飲料ブランド「トロピカーナ」に、ビタミンCとポリフェノールを手軽に摂取できる「トロピカーナ カシス＆ぶどう」が、2021年9月14日(火)に登場しましす。コク深いコンコードぶどうとカシスの香りを楽しめるとのことで、一足先に手に入れたこの商品を実際に飲んでみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-tropicana-cassis-grape/",
+          "publishedOn": "2021-09-13T02:45:00.000Z",
+          "wordCount": 200,
+          "title": "ぶどうの甘みとカシスの酸味がクセになる「トロピカーナ カシス＆ぶどう」"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-google-handed-user-data-hong-kong/",
+          "author": null,
+          "description": "香港では2020年7月1日に「香港国家安全維持法」が施行され、反政府的活動の取り締まりが強化されました。これに対してGoogleやFacebookなどの大手IT企業は反発の姿勢を示し、香港政府に対するユーザーデータの引き渡しを停止するとしていましたが、「Googleは2020年7月～12月に香港政府が行った要求のうち3件に応じてユーザーデータを引き渡した」と報じられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-google-handed-user-data-hong-kong/",
+          "publishedOn": "2021-09-13T02:21:00.000Z",
+          "wordCount": 218,
+          "title": "Googleが香港政府の要求に応じて一部ユーザーのデータを渡していたことが判明、以前の発表と矛盾するとの指摘も"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-cdc-unvaccinated-more-catch-delta-die/",
+          "author": null,
+          "description": "アメリカ国内の感染症対策を主導する疾病予防管理センター(CDC)が新型コロナウイルスのデルタ株について、「ワクチン未接種の場合は感染率が約5倍、入院確率が約10倍、死亡率が約11倍になるという研究結果を発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-cdc-unvaccinated-more-catch-delta-die/",
+          "publishedOn": "2021-09-13T02:00:00.000Z",
+          "wordCount": 260,
+          "title": "ワクチン未接種だと新型コロナデルタ株への感染率が5倍＆死亡率が11倍になるという研究結果"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-youtube-discord-rythm/",
+          "author": null,
+          "description": "GoogleがDiscordの人気音楽ボット「Rythm」に対し、サービスの停止を言い渡していたことが分かりました。Googleの要請を受けて、Rythmは2021年9月15日に音楽ボットのサービスを終了することを発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-youtube-discord-rythm/",
+          "publishedOn": "2021-09-13T01:55:00.000Z",
+          "wordCount": 199,
+          "title": "YouTubeが5億人以上の利用者がいるDiscordで最も人気の音楽ボット「Rythm」を排除、Discordの音楽ボットが全滅する可能性も"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-vibrations-might-impact-iphone-cameras/",
+          "author": null,
+          "description": "Appleの製品サポートに、新たに「高出力のオートバイエンジンによって生まれる振動への暴露は、iPhoneカメラに影響を与える恐れがあります」というページが加わりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-vibrations-might-impact-iphone-cameras/",
+          "publishedOn": "2021-09-13T01:41:00.000Z",
+          "wordCount": 217,
+          "title": "iPhoneのカメラはバイクの振動などで壊れる可能性があることをAppleが警告"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-epic-games-appealed-apple/",
+          "author": null,
+          "description": "2021年9月10日、長らく続いていたApple対Epic Gamesの訴訟に判決が下りました。しかし、Epic Gamesはこの判決を不服として、さっそく控訴しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-epic-games-appealed-apple/",
+          "publishedOn": "2021-09-13T01:14:00.000Z",
+          "wordCount": 217,
+          "title": "Epic GamesがAppleとの訴訟の判決を不服として控訴"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-disinformation-influencers-only-15-dollars-day/",
+          "author": null,
+          "description": "Firefoxブラウザなどで知られるMozilla Foundationの研究チームが、ケニアで進行中の憲法改正議論に関して「Twitterトレンドのねつ造作戦」が実行されていると発見しました。この作戦に参加したインフルエンサーには1日10～15ドル(約1000～1600円)が支払われていたと判明しましたが、支払いを行った人物／組織は明らかになっていません。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-disinformation-influencers-only-15-dollars-day/",
+          "publishedOn": "2021-09-13T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "1日1600円で「Twitterの憲法改正後押し作戦」に雇われるケニアのインフルエンサーたち"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-big-tech-war-on-terror/",
+          "author": null,
+          "description": "2001年9月11日にアメリカ同時多発テロ事件が発生してから、2021年9月11日でちょうど20年の節目を迎えることを受けて、アメリカの3つの政治団体が共同でビッグテックの台頭と戦争の関係についてまとめたレポートを発表しました。レポートでは、Amazon・Facebook・Google・Microsoft・Twitterといった大企業が政府機関と締結する契約が、同時多発テロ事件以降急増していることが報告されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-big-tech-war-on-terror/",
+          "publishedOn": "2021-09-12T23:00:00.000Z",
+          "wordCount": 206,
+          "title": "巨大ハイテク企業が戦争から多大な利益を上げているとの主張"
+        },
+        {
+          "id": "https://gigazine.net/news/20210913-blockchain-explained/",
+          "author": null,
+          "description": "端的に言うと「データの改変に強い取引台帳」である技術が「ブロックチェーン」。暗号資産の登場によって広く世間に知られることとなったブロックチェーンについて、海外メディアのThe Vergeが解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210913-blockchain-explained/",
+          "publishedOn": "2021-09-12T22:00:00.000Z",
+          "wordCount": 188,
+          "title": "ブロックチェーンとはどのようなものなのか？"
+        },
+        {
+          "id": "https://gigazine.net/news/20210912-legend/",
+          "author": null,
+          "description": "階層化や優先付け、タブ分け表示などでメモを見やすく管理し、GmailやGoogleカレンダーなどのサービスとも連携可能なメモ・タスク管理サービス「Legend」を使ってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210912-legend/",
+          "publishedOn": "2021-09-12T14:00:00.000Z",
+          "wordCount": 214,
+          "title": "タブ分け表示で見やすくできる無料ドキュメントエディター「Legend」"
+        },
+        {
+          "id": "https://gigazine.net/news/20210912-longest-living-animals/",
+          "author": null,
+          "description": "175年生きたと推定されているゾウガメのハリエットは、その長寿っぷりから「地球上で最も長生きしている生物」と呼ばれたこともあります。しかし、そんなカメでさえトップ10入りすらできないほど長生きな動物が名を連ねる「寿命の長い生物ランキング」を、科学系ニュースサイトのLive Scienceが公開しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210912-longest-living-animals/",
+          "publishedOn": "2021-09-12T11:00:00.000Z",
+          "wordCount": 225,
+          "title": "1万歳超えや驚異の不老不死までいる「長寿な動物」トップ10"
+        },
+        {
+          "id": "https://gigazine.net/news/20210912-zoroastrian-treasures/",
+          "author": null,
+          "description": "火を神聖視することで知られるゾロアスター教は日本では馴染みの薄い宗教ですが、現代でもイランやインドを中心に多くの地域で信仰されています。そんなゾロアスター教にまつわる歴史的な書物について、大英図書館の公式ブログが解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20210912-zoroastrian-treasures/",
+          "publishedOn": "2021-09-12T10:00:00.000Z",
+          "wordCount": 190,
+          "title": "ゾロアスター教の歴史を彩る知られざる重要書物3選"
+        },
         {
           "id": "https://gigazine.net/news/20210912-afghanistan-flag-over-years/",
           "author": null,
@@ -16953,60 +17169,6 @@
           "publishedOn": "2021-08-15T00:00:00.000Z",
           "wordCount": 193,
           "title": "片頭痛には青魚に含まれる「オメガ3脂肪酸」が効果アリという研究結果"
-        },
-        {
-          "id": "https://gigazine.net/news/20210814-dell-precision-5560-workstation-review/",
-          "author": null,
-          "description": "世界最薄の15インチモバイルワークステーションだという「Dell Precision 5560 ワークステーション」を実際に触ってみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20210814-dell-precision-5560-workstation-review/",
-          "publishedOn": "2021-08-14T14:30:00.000Z",
-          "wordCount": 284,
-          "title": "高い性能をどんな場所でも発揮するモバイルワークステーション「Dell Precision 5560」レビュー"
-        },
-        {
-          "id": "https://gigazine.net/news/20210814-post-pandemic-overcrowding-national-parks/",
-          "author": null,
-          "description": "新型コロナウイルス感染症(COVID-19)のパンデミックに伴って密閉・密集・密接の3密を避けることが推奨された結果、日本では自然の中に開放的な空間を求めてアウトドア人気が高まっています。アメリカでも同様にアウトドア熱が高まった結果、自然あふれる国立公園への訪問者数が急増しており、人間の過密状態によって引き起こされた環境への被害が新たな問題になっています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20210814-post-pandemic-overcrowding-national-parks/",
-          "publishedOn": "2021-08-14T14:00:00.000Z",
-          "wordCount": 191,
-          "title": "パンデミック後にアウトドア熱が高まったことで国立公園が過密状態に、環境被害を抑えるにはどうすればいいのか？"
-        },
-        {
-          "id": "https://gigazine.net/news/20210814-media-reports-vaccine-hesitancy/",
-          "author": null,
-          "description": "自分や自分の子どもに対するワクチン接種に反対したり、接種をためらったりする「ワクチン忌避(反ワクチン)」は、WHOが2019年1月に「世界的な健康に対する脅威トップ10」に選ぶなど、かねてから世界的な脅威でした。さらに、新型コロナウイルス感染症のパンデミック対策としてワクチンの接種が世界的に進められるようになったことで、反ワクチンは一層重大な問題となっています。反ワクチンがこれほど深刻化したのは、メディアによる報道が原因の一端ではないかと、オーストラリア・グリフィス大学の専門家らが指摘しています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20210814-media-reports-vaccine-hesitancy/",
-          "publishedOn": "2021-08-14T11:00:00.000Z",
-          "wordCount": 170,
-          "title": "反ワクチンの拡大は「メディア報道が原因の1つ」との指摘"
-        },
-        {
-          "id": "https://gigazine.net/news/20210814-facebook-messenger-end-to-end-encrypted/",
-          "author": null,
-          "description": "Facebookのメッセージアプリである「Messenger」が、音声・ビデオ通話機能のエンドツーエンド暗号化に対応したと発表しました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20210814-facebook-messenger-end-to-end-encrypted/",
-          "publishedOn": "2021-08-14T06:30:00.000Z",
-          "wordCount": 191,
-          "title": "Facebookのメッセージアプリ「Messenger」が音声・ビデオ通話のエンドツーエンド暗号化に対応"
-        },
-        {
-          "id": "https://gigazine.net/news/20210814-why-some-fishes-are-warm-blooded/",
-          "author": null,
-          "description": "ほとんどの魚は外界の温度によって自身の体温が変化する変温動物ですが、全魚類のわずか0.1％に相当する35種で体温を保つ能力が確認されています。ごくわずかな魚だけが体温を保つ能力を獲得した理由について、ダブリン大学トリニティ・カレッジの魚類学者であるルーシー・ハーディング氏が解説しています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20210814-why-some-fishes-are-warm-blooded/",
-          "publishedOn": "2021-08-14T03:00:00.000Z",
-          "wordCount": 187,
-          "title": "ごく一部の魚だけが体温を保つ能力を獲得した理由とは？"
-        },
-        {
-          "id": "https://gigazine.net/news/20210814-dog-mask-against-foxtail/",
-          "author": null,
-          "description": "道端に生えている野草のうち、穂が実るイネ科の植物には「ノギ」と呼ばれるトゲ状の突起を生やすものがあります。人間にとっては服にひっつく程度でほぼ無害ですが、散歩中の犬にとっては足や目、耳に刺さってしまうことがあり、大変危険です。海外ではFoxtail(キツネの尻尾)と呼ばれ恐れられるノギ対策として、エンジニアのアモス・ダドリーさんが自分の愛犬にぴったりの完全防護マスクを3Dプリンターで作った工程を公開しています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20210814-dog-mask-against-foxtail/",
-          "publishedOn": "2021-08-14T00:00:00.000Z",
-          "wordCount": 183,
-          "title": "愛犬を守るための「完全防護マスク」を3Dプリンターで作る方法"
         }
       ]
     },
@@ -17015,6 +17177,174 @@
       "feedUrl": "https://www.lifehacker.jp/feed/index.xml",
       "siteUrl": "https://www.lifehacker.jp",
       "articles": [
+        {
+          "id": "https://www.lifehacker.jp/2021/09/how-to-fix-the-android-bug-blocking-your-phone-calls.html",
+          "author": "春野ユリ",
+          "description": "Bleeping Computerが報じたところによると、Googleのアプリにバグがあり、特定のAndroidデバイスで電話の発着信ができなくなる可能性があります。Googleのコミュニティマネージャーは、このバグは「AndroidのGoogle検索アプリの直近の更新」に影響を及ぼすとしています。",
+          "link": "https://www.lifehacker.jp/2021/09/how-to-fix-the-android-bug-blocking-your-phone-calls.html",
+          "publishedOn": "2021-09-13T07:00:00.000Z",
+          "wordCount": 172,
+          "title": "Androidで電話機能のバグが発生！ 症状や解決方法は？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/09/05/81199499b40107f2dda35b57168ec2fd.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/09/241294-machi-ya-origamat-review.html",
+          "author": "山田洋路",
+          "description": "「オリガマット（ORIGAMAT）」は折り畳んで携帯できる3WAYマットです。10秒で展開できて約200gと軽いので持ち運びに便利。水洗いもOKです。",
+          "link": "https://www.lifehacker.jp/2021/09/241294-machi-ya-origamat-review.html",
+          "publishedOn": "2021-09-13T05:00:00.000Z",
+          "wordCount": 163,
+          "title": "シートやチェアになる折り畳み式マット「オリガマット」の使いやすさを検証！",
+          "enclosure": {
+            "length": "0",
+            "type": "image/JPG",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/08/29/origamat-0.JPG"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/09/amazon-cuisinart-electricfryer.html",
+          "author": "Qurumu",
+          "description": "Cuisinart（クイジナート）の「電気フライヤー CDF-100JBS」は、ダイヤル操作で温度調節でき、取り外し可能なフタで油はねを防げる調理家電。食材に合わせて90〜190℃まで温度を設定可能で、油が設定温度になると緑のランプが点灯して知らせます。これなら、失敗なく食材をカラッと揚げられそうですね。",
+          "link": "https://www.lifehacker.jp/2021/09/amazon-cuisinart-electricfryer.html",
+          "publishedOn": "2021-09-13T04:00:00.000Z",
+          "wordCount": 182,
+          "title": "揚げ物がもっと身近になる、クイジナートの「コンパクト電気フライヤー」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/06/03/電気フライヤー.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/09/241380blt8report.html",
+          "author": "田邉愛理",
+          "description": "あと払い決済サービス「Paidy」CEO杉江陸さんに、CEOとは、リーダーシップとは、そして一ビジネスパーソンとして大事なことを聞きました。",
+          "link": "https://www.lifehacker.jp/2021/09/241380blt8report.html",
+          "publishedOn": "2021-09-13T03:00:00.000Z",
+          "wordCount": 187,
+          "title": "フラットな議論が鍵。Paidy 杉江陸さんに聞く「ベスト＆ブライテスト」なチームの作り方｜BOOK LAB TALKレポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/09/02/BLT8_top.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/09/machi-ya-geminijacket-end.html",
+          "author": "Haruki Matsumoto",
+          "description": "「GEMINIジャケット」は宇宙服にも使用される高機能断熱材を搭載したベストと撥水性や防風性能に優れたアウターを組み合わせたマルチユースなジャケット。",
+          "link": "https://www.lifehacker.jp/2021/09/machi-ya-geminijacket-end.html",
+          "publishedOn": "2021-09-13T02:15:00.000Z",
+          "wordCount": 184,
+          "title": "宇宙服由来の断熱材で秋から春まで大活躍！ 3Way仕様の高機能アウター",
+          "enclosure": {
+            "length": "0",
+            "type": "image/gif",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/09/01/0fd5c6bf-0aca-45c0-b335-b1ae053a902c.gif"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/09/amazon-timesale-0913-1.html",
+          "author": "メディアジーンメディアコマース",
+          "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2021年9月13日は、1,998円のNintendo Switch無線コントローラーや1,529円のJoy-con修理キットなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
+          "link": "https://www.lifehacker.jp/2021/09/amazon-timesale-0913-1.html",
+          "publishedOn": "2021-09-13T01:30:00.000Z",
+          "wordCount": 458,
+          "title": "【Amazonタイムセール中！】1,998円のNintendo Switch無線コントローラーや1,529円のJoy-con修理キットなど",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/09/13/Top.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/09/241795how-to-change-your-macs-default-save-location-for-scree.html",
+          "author": "伊藤貴之",
+          "description": "Macでスクリーンショットのデフォルトの保存先を変更する方法を紹介します。",
+          "link": "https://www.lifehacker.jp/2021/09/241795how-to-change-your-macs-default-save-location-for-scree.html",
+          "publishedOn": "2021-09-13T01:00:00.000Z",
+          "wordCount": 185,
+          "title": "Macでスクリーンショットの保存先を変更する方法",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/09/06/20210906-scroonshots01.jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/09/241798how-introverts-can-be-productive-in-an-open-office.html",
+          "author": "ぬえよしこ,Fast Company",
+          "description": "内向的な人がオープンオフィス環境でも生産性高く働くための方法を紹介します。",
+          "link": "https://www.lifehacker.jp/2021/09/241798how-introverts-can-be-productive-in-an-open-office.html",
+          "publishedOn": "2021-09-12T23:30:00.000Z",
+          "wordCount": 186,
+          "title": "内向的な人が「オフィスで集中する」ためにできること7つ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/09/08/新規プロジェクト(7).jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/09/242073book_to_read-835.html",
+          "author": "印南敦史",
+          "description": "『毎日がうまくいく　朝のスイッチ』（大嶋信頼 著、あさ出版）より、1日のパフォーマンスをあげる朝3分の「脳」習慣について解説します。",
+          "link": "https://www.lifehacker.jp/2021/09/242073book_to_read-835.html",
+          "publishedOn": "2021-09-12T22:00:00.000Z",
+          "wordCount": 167,
+          "title": "1日のパフォーマンスをあげる、朝3分の「脳」習慣",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/09/10/book_to_read-835.jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/09/242070lht-matome-pen.html",
+          "author": "ライフハッカー編集部",
+          "description": "【今日のライフハックツール】で売れている・注目が集まっている筆記具を一挙ご紹介。あなたのお気に入りがきっと見つかるはず！",
+          "link": "https://www.lifehacker.jp/2021/09/242070lht-matome-pen.html",
+          "publishedOn": "2021-09-12T13:05:00.000Z",
+          "wordCount": 206,
+          "title": "メモが捗る筆記具「神ペン」7選【今日のライフハックツールまとめ】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/09/10/shutterstock_1262081674.jpeg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/09/241980matome-ipad.html",
+          "author": "ライフハッカー編集部",
+          "description": "2021年上半期に公開した記事の中から、iPadの良さを存分に活かす機能・アイテムをまとめて紹介します。",
+          "link": "https://www.lifehacker.jp/2021/09/241980matome-ipad.html",
+          "publishedOn": "2021-09-12T12:00:00.000Z",
+          "wordCount": 198,
+          "title": "そのiPad、もっと活躍できる！ ｜2021年上半期ベスト機能まとめ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/09/09/新規プロジェクト(9).jpg"
+          }
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/09/why-you-should-stop-setting-up-smart-devices-with-multi.html",
+          "author": "春野ユリ",
+          "description": "パートナーと同じスマートデバイスを使用するなら、それに紐づくメールアドレスを1つに統一して、それをパートナーと共有してはいかがでしょうか。",
+          "link": "https://www.lifehacker.jp/2021/09/why-you-should-stop-setting-up-smart-devices-with-multi.html",
+          "publishedOn": "2021-09-12T11:00:00.000Z",
+          "wordCount": 160,
+          "title": "スマートデバイスを管理するとき注意すべき1つのこと",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/09/07/2daa4afca49adba682811ab9b31ef056.jpg"
+          }
+        },
         {
           "id": "https://www.lifehacker.jp/2021/09/machi-ya-fireguard-end.html",
           "author": "kotoha ozawa",
@@ -21984,104 +22314,6 @@
             "type": "image/jpeg",
             "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/08/13/GettyImages-1294092460.jpg"
           }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/08/how-to-tell-if-your-pillow-is-dead.html",
-          "author": "伊藤貴之",
-          "description": "枕は背骨の位置を適切に保つのを助けてくれる、快適な眠りには欠かせない要素です。枕の厚さや硬さの好み、ニーズは人それぞれ違いますが、どんな枕であっても使用期限を超えていると、安眠を妨げる要因となります。",
-          "link": "https://www.lifehacker.jp/2021/08/how-to-tell-if-your-pillow-is-dead.html",
-          "publishedOn": "2021-08-14T13:05:00.000Z",
-          "wordCount": 72,
-          "title": "枕の寿命はどれくらい？ 感触や形状で確かめる方法",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/08/12/GettyImages-1302540296.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/08/240302-machi-ya-enloongelt2102-review.html",
-          "author": "山田洋路",
-          "description": "機械式時計の世界三大複雑機構の1つトゥールビヨンを搭載した腕時計を手の届く価格帯に。「ENLOONG ELT2102」は8パターンで展開しパワーリザーブは72時間。表裏スケルトンデザインでフライングトゥールビヨンが鑑賞しやすいです。",
-          "link": "https://www.lifehacker.jp/2021/08/240302-machi-ya-enloongelt2102-review.html",
-          "publishedOn": "2021-08-14T13:00:00.000Z",
-          "wordCount": 61,
-          "title": "スケルトンデザインで機械式時計の仕掛けが丸見え。憧れのトゥールビヨン腕時計を体感してみた",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/08/12/enloong(6).jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/08/240256summer-goods-matome.html",
-          "author": "ライフハッカー編集部",
-          "description": "自宅で夏を満喫するためのアイテムを紹介します。",
-          "link": "https://www.lifehacker.jp/2021/08/240256summer-goods-matome.html",
-          "publishedOn": "2021-08-14T12:00:00.000Z",
-          "wordCount": 207,
-          "title": "自宅で「夏」を満喫。3つの楽しみ方と必須アイテムリスト",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/08/11/新規プロジェクト(14).jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/08/apple-wallet-vs-physical-wallet.html",
-          "author": "堀込泰三,MakeUseOf",
-          "description": "AppleはWWDC21において、デジタルウォレットの新機能をいくつか発表しました。これにより、リアル財布が持つほぼすべての機能を実装したばかりか、リアル財布にはできない機能も実現しています。",
-          "link": "https://www.lifehacker.jp/2021/08/apple-wallet-vs-physical-wallet.html",
-          "publishedOn": "2021-08-14T11:00:00.000Z",
-          "wordCount": 86,
-          "title": "Apple Walletはリアル財布を置き換えるのか？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/31/online-shopping-credit-card.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/08/amazon_timesale_202108.html",
-          "author": "メディアジーンメディアコマース",
-          "description": "2021年8月17日（火）9:00 ～ 19日（木）23:59の3日間で開催される ｢Amazonタイムセール祭り｣。実は、クレジットカード決済で購入するよりお得に買い物ができる方法があることを知っているでしょうか？ その方法とキャンペーンを紹介します。",
-          "link": "https://www.lifehacker.jp/2021/08/amazon_timesale_202108.html",
-          "publishedOn": "2021-08-14T04:00:00.000Z",
-          "wordCount": 120,
-          "title": "次のAmazonタイムセール祭りは8/17（火）スタート！購入前にやっておきたいこと",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/08/12/image_timesale_2108.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/08/how-to-install-beta-firmware-on-your-airpods-pro.html",
-          "author": "春野ユリ",
-          "description": "Appleは、AirPods Proのベータ版の更新を定期的にリリースする予定です。このベータ版は、Appleの開発者アカウントを使用している人なら誰でもインストールできます。",
-          "link": "https://www.lifehacker.jp/2021/08/how-to-install-beta-firmware-on-your-airpods-pro.html",
-          "publishedOn": "2021-08-14T03:00:00.000Z",
-          "wordCount": 70,
-          "title": "AirPods Proのベータ版を早速インストールする方法",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/26/01a71ab12b706d9a6d584a8d3bff037f.jpg"
-          }
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/08/for-a-healthier-garden-grow-native-plants.html",
-          "author": "春野ユリ",
-          "description": "在来植物は、自力で常に自然環境に適応してきました。つまり、庭で繁殖するのにそれほど助けは必要ありません。土壌の既存のPHバランスでうまくいき、地面に含まれる自然の栄養素で元気に成長します。",
-          "link": "https://www.lifehacker.jp/2021/08/for-a-healthier-garden-grow-native-plants.html",
-          "publishedOn": "2021-08-14T01:00:00.000Z",
-          "wordCount": 55,
-          "title": "庭に在来植物を植えるメリット",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://assets.media-platform.com/lifehacker/dist/images/2021/07/28/0f48aa9f3ebea2afda2a0b2648b719d3.jpg"
-          }
         }
       ]
     },
@@ -22096,6 +22328,160 @@
       "feedUrl": "https://zenn.dev/feed",
       "siteUrl": "https://zenn.dev",
       "articles": [
+        {
+          "id": "https://zenn.dev/satoru_takeuchi/articles/46174f69de3b3d",
+          "author": "sat",
+          "description": "はじめに\n本記事は最近Rookで顕在化したデータ破壊問題について解説します。根本原因は思わぬところにあってRook以外でも起こりうること、および、かなり昔から根本原因は存在していたものの偶然に偶然が重なって最近Rookがとばっちりを受けたという事実が興味深かったので、世の中こういうこともあるというのを共有するために書きました。あとAtariという言葉を2021年にもなって歴史的文脈以外で見たのが面白かったというのも理由です。\n本記事はRookの公式情報に書かれていることに加えて、Rookについて知識が無い人に向けた情報を付け加えて再構成しました。\n\n 用語集\n\n\nCeph: OSSの...",
+          "link": "https://zenn.dev/satoru_takeuchi/articles/46174f69de3b3d",
+          "publishedOn": "2021-09-12T21:11:13.000Z",
+          "wordCount": 319,
+          "title": "恐怖のphantom Atari partition",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--NyF-Jt1u--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:sat%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E6%2581%2590%25E6%2580%2596%25E3%2581%25AEphantom%2520Atari%2520partition%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hjeVUzdFlLV3RJeXdsdjJhYm1ac2VpczZrUnp1ODc5ZFNwT0Vub3c9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/takepepe/articles/nextjs-error-handling",
+          "author": "Takepepe",
+          "description": "Next.js には組み込みのエラーフォールバック機構が存在します。Unhandled Error を捉え、pages/404.tsx・pages/500.tsx・pages/_error.tsxの順に適した Component にフォールバックされます。\nhttps://nextjs.org/docs/advanced-features/custom-error-page\n実アプリケーションにおいてはこれだけでは不十分なケースが多く、きちんとハンドリングしログ収集に繋げるなどのエラー設計をしたいところです。\n\n TypeScript 4.4 で try catch の推論が変更になった...",
+          "link": "https://zenn.dev/takepepe/articles/nextjs-error-handling",
+          "publishedOn": "2021-09-12T16:39:51.000Z",
+          "wordCount": 566,
+          "title": "Next.js の Error を丁寧に扱う",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--hq9pZrJB--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Takepepe%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Next.js%2520%25E3%2581%25AE%2520Error%2520%25E3%2582%2592%25E4%25B8%2581%25E5%25AF%25A7%25E3%2581%25AB%25E6%2589%25B1%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dpejh1QmdoVHJXUHhiRlRFdm9IVHJ5WDNhRkdmdlJCLUtVVTl6SUE9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kotaproj/articles/1d1524368a2b4c",
+          "author": "kotaproj",
+          "description": "💡やること\nモータドライブモジュール（BTS7960）を使って、DC775モータを制御します。\n3Dプリンタで印刷したギアボックスと連動させて、蛇口のハンドルを回します。\n\n3Dプリンタの部分は割愛しています\n\n\n 📌作ったもの\n\n\n 🏁デモ\n\n\n 🔧パーツ一覧\n\n\n\nno\n部品名\n個数\n備考\n\n\n\n\n1\nラズベリーパイ\n1\n今回は4Bで確認\n\n\n2\nDC775モータ\n1\nAmazon\n\n\n3\nBTS7960 43A HブリッジPWM駆動ドライブモジュール\n1\nAmazon\n\n\n4\nACアダプタ - 12V 10A\n1\nAmazon\n\n\n5\nジャンパー線\n適量\n-\n\n\n6\nギアボック...",
+          "link": "https://zenn.dev/kotaproj/articles/1d1524368a2b4c",
+          "publishedOn": "2021-09-12T14:03:33.000Z",
+          "wordCount": 418,
+          "title": "ラズパイ - DC775モータを使って、蛇口を制御する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--LOmv8Ub5--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:kotaproj%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2583%25A9%25E3%2582%25BA%25E3%2583%2591%25E3%2582%25A4%2520-%2520DC775%25E3%2583%25A2%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2580%2581%25E8%259B%2587%25E5%258F%25A3%25E3%2582%2592%25E5%2588%25B6%25E5%25BE%25A1%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNjI1YTExYmZkNS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/matken/articles/git-workflow-in-waterfall-for-startups",
+          "author": "Ken Matsui",
+          "description": "最初期のスタートアップとして新しいプロダクトを作る場合、初めはウォーターフォールで開発することが多いと思います。その時、特に複数人で開発する場合は、Git のブランチワークフローをどう規定するのかは悩みどころです。そういった悩みのいち解決案として、こちらの記事をご覧いただけたらと思います。\n\nこちらの記事は、スタートアップで Tech Lead や CTO 等として働くことになった or 現在働いている方に役立つかも、という思いで公開しています。ご自身の働かれている会社様のフェーズによっては、この記事とは相性が悪いかもしれません。予めご了承いただけると幸いです。\n\n\n Gitブランチワー...",
+          "link": "https://zenn.dev/matken/articles/git-workflow-in-waterfall-for-startups",
+          "publishedOn": "2021-09-12T11:29:27.000Z",
+          "wordCount": 254,
+          "title": "スタートアップでのウォーターフォール開発におけるGitワークフロー",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--q1-ZiyUB--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Ken%2520Matsui%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2581%25A7%25E3%2581%25AE%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25AB%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BGit%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fM2JjNmQ4ZjFkNC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/ryo_kawamata/articles/9ef3a030cb51de",
+          "author": "ryo_kawamata",
+          "description": "何を作った？\nFirestore のデータ内容を確認したり修正したりするときに、いちいち Firebase のコンソール上でぽちぽちやるのが面倒でした。\nだからといって、Node.js の REPL で Firebase Admin SDK を使うと、Admin SDK の初期化が手間だったり Node.js の REPL が標準で Top-level await に対応していなかったりとこちらも準備が大変です。\nそこで、Node.js の REPL を拡張して、Firestore のデータ操作を簡単に行えるカスタム REPL を作りました。\n名前は Firepl（Firebase ...",
+          "link": "https://zenn.dev/ryo_kawamata/articles/9ef3a030cb51de",
+          "publishedOn": "2021-09-12T11:25:34.000Z",
+          "wordCount": 479,
+          "title": "REPL上でのFirestoreのデータ操作をちょっと便利にするOSSを作った",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--FsIzaQWN--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:ryo_kawamata%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:REPL%25E4%25B8%258A%25E3%2581%25A7%25E3%2581%25AEFirestore%25E3%2581%25AE%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E6%2593%258D%25E4%25BD%259C%25E3%2582%2592%25E3%2581%25A1%25E3%2582%2587%25E3%2581%25A3%25E3%2581%25A8%25E4%25BE%25BF%25E5%2588%25A9%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258BOSS%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNTY3Y2IxMjRlZi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/ryoskate/articles/7d4ff3f6274aff",
+          "author": "RYOSKATE",
+          "description": "AWS SQSを初めて使った際、意外と重要な概念や検討することがありました。\nそれらをまとめた備忘録です。\nメッセージキューイングサービスとは何か、から始めます。\n\n メッセージキューイングサービス\n\nメッセージキューイングとは、異なるソフトウェア間でデータを送受信する手法の一つで、直接データを渡すのではなく一旦第三者のソフトウェアに預けることで、送信側も受信側も好きなタイミングで送受信処理をおこなうことができるようにする方式。\nhttps://e-words.jp/w/メッセージキューイング.html\n\nとのことです。\n通常、データの送受信は送信側と受信側が同期的にやり取りする必要があ...",
+          "link": "https://zenn.dev/ryoskate/articles/7d4ff3f6274aff",
+          "publishedOn": "2021-09-12T08:19:30.000Z",
+          "wordCount": 207,
+          "title": "AWS SQSのまとめ",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--GN1zO8i_--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:RYOSKATE%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:AWS%2520SQS%25E3%2581%25AE%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fY2Y4ZGY2M2FjZi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kurun/articles/f7949c8bfd1c17",
+          "author": "Kurun",
+          "description": "1. 概要\nC++11 から導入されているスマートポインタ（unique_ptr, shared_ptrなど) のメモリ管理の仕組みについて調べたことをまとめています。スマートポインタでは、new/deleteの関係ように自分で意図的に delete をしなくても、その変数の生存範囲（スコープ）が終わったタイミングで自動で破棄されるため、動的に確保されたメモリのメモリリークを防ぐことが出来ます。\nここではスマートポインタ自体の前提知識について説明しませんが、C++11スマートポインタ入門が非常に良くまとまっているため、必要があればこれを読むことをお勧めします。\nまた、ソフトウェアデザ...",
+          "link": "https://zenn.dev/kurun/articles/f7949c8bfd1c17",
+          "publishedOn": "2021-09-12T07:57:14.000Z",
+          "wordCount": 664,
+          "title": "C++ スマートポインタのメモリ管理の仕組み",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--gjXMQmh6--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Kurun%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:C%252B%252B%2520%25E3%2582%25B9%25E3%2583%259E%25E3%2583%25BC%25E3%2583%2588%25E3%2583%259D%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25BF%25E3%2581%25AE%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%25E7%25AE%25A1%25E7%2590%2586%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lMN3JBdWxOZks4OHRBajlQV0hjNW1OcDItclBBellsd290MWdzPXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/inari_sushio/articles/0f4c606c8340ee",
+          "author": "inari_sushio",
+          "description": "VSCodeでFlutterの開発をする際に時間節約になる公式機能や設定をまとめました（サードパーティの拡張以外）。\n他におすすめがあればコメントで教えてください。\n\n ツリー構造のガイドを表示する\nAndroid Studio/IntellliJ ではおなじみのエディタ上に表示されるガイドです。\nコード構造を把握しやすくするための拡張は色々ありますが、この表示が個人的には一番わかりやすいです。\n\nツリー構造のガイド\n\n 設定方法\n\nコマンドパレット（Ctrl/Cmd+Shift+P）から「Preferences: Open Settings (JSON)」を呼び出す\nJSONに以下のエ...",
+          "link": "https://zenn.dev/inari_sushio/articles/0f4c606c8340ee",
+          "publishedOn": "2021-09-12T05:58:51.000Z",
+          "wordCount": 216,
+          "title": "【Flutter】VSCodeでの開発が便利👍になる機能、設定まとめ",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--uA2vBPqE--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:inari_sushio%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2580%2590Flutter%25E3%2580%2591VSCode%25E3%2581%25A7%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E3%2581%258C%25E4%25BE%25BF%25E5%2588%25A9%2520%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E6%25A9%259F%25E8%2583%25BD%25E3%2580%2581%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fN2ZjM2VjYTU0OS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/ushinji/articles/b20b8e9cd8430d",
+          "author": "shinji.uyama",
+          "description": "概要\nGraphQLリクエストを伴うコンポーネントテストについて試行錯誤した内容を記事に残したいと思います。\n今回の記事では、Queryのテストについて説明します。Mutationのテストはスコープ外です。\n\n 今回のサンプルアプリケーション\n今回説明するサンプルアプリケーションは以下のリポジトリで共有しております。\nhttps://github.com/Ushinji/rails-react-graphql\n利用スタックは以下の通りです。\n\nServerSide\n\nRuby: 3.0\nRuby on Rails: 6.1\ngraphql-ruby\n\n\nFrontend\n\nTypeS...",
+          "link": "https://zenn.dev/ushinji/articles/b20b8e9cd8430d",
+          "publishedOn": "2021-09-12T05:52:57.000Z",
+          "wordCount": 517,
+          "title": "【React.js/Apollo】MockProviderを使ったGraphQL Queryを伴うコンポーネントテストの実装",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--B8z6n_hy--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:shinji.uyama%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_57_bold:%25E3%2580%2590React.js%252FApollo%25E3%2580%2591MockProvider%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259FGraphQL%2520Query%25E3%2582%2592%25E4%25BC%25B4%25E3%2581%2586%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25B3%25E3%2583%2588%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fYTU0MTkxMGNiZi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kanasugi/articles/4dbca26e1c4753",
+          "author": "Kanasugi",
+          "description": "Prismaでtransactionとrollbackをする3つの方法をまとめました。\nprismaのversionが2.29.0以前だとtransactionが少し厳しかったのですが、2.29.0以上のバージョンにすると、Long-running transactionが可能になり、非常に扱いやすくなった印象です。本稿では、Prismaの公式ドキュメントを内容を引用し、日本語訳にして説明しています。\n\n transaction APIその1\nLong-running transactionで可能となったトランザクションの書き方です。具体例で把握したほうが理解しやすいはずなので、以下のシ...",
+          "link": "https://zenn.dev/kanasugi/articles/4dbca26e1c4753",
+          "publishedOn": "2021-09-12T02:55:53.000Z",
+          "wordCount": 275,
+          "title": "Prismaでのトランザクションとロールバック",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--Ht0DAlhM--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Kanasugi%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Prisma%25E3%2581%25A7%25E3%2581%25AE%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25B3%25E3%2582%25B6%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25A8%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2590%25E3%2583%2583%25E3%2582%25AF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZDMwZjhjZDhmOC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/rgbkids/articles/8b33add15fb641",
+          "author": "vteacher",
+          "description": "はじめに\nコロナ禍ということもあり、若い人でもフルリモートのフリーランス（業務委託）を目指す人が多いそうです。そこで、2000年代からフルリモートのチャレンジを開始し、ここ5年間はほぼほぼフルリモートワーカーな自分の実績をまとめてみました。コロナ前からリモートで行っていたので、そのあたりの変化も含めて書いていきます。\n\n あのメルカリも新しい取り組み\n多様な働き方を尊重した 「メルカリ・ニューノーマル・ワークスタイル “YOUR CHOICE”」の導入を開始。リモート/出社の有無、働く場所などパフォーマンス・バリュー発揮がもっとも高まるワークスタイルを社員が自由に選択可能に。\nhtt...",
+          "link": "https://zenn.dev/rgbkids/articles/8b33add15fb641",
+          "publishedOn": "2021-09-12T00:01:37.000Z",
+          "wordCount": 406,
+          "title": "リモートワークを探せるおすすめ5サイトと受注実績公開",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--HkX-5fJ6--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:vteacher%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2583%25AA%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%2592%25E6%258E%25A2%25E3%2581%259B%25E3%2582%258B%25E3%2581%258A%25E3%2581%2599%25E3%2581%2599%25E3%2582%25815%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2581%25A8%25E5%258F%2597%25E6%25B3%25A8%25E5%25AE%259F%25E7%25B8%25BE%25E5%2585%25AC%25E9%2596%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dZZXAwYXhYZ084ZHlWVVJsbndsanVacFlaRmF4ZU14YV92Z3JDSHc9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://zenn.dev/_kazuya/articles/11b656457754a7",
           "author": "Kazuya Yuda",
@@ -22176,6 +22562,20 @@
           "title": "TypeScriptの全てのasを撲滅するas-safelyというOSSを作ったゾォォ〜",
           "enclosure": {
             "url": "https://res.cloudinary.com/zenn/image/upload/s--mG3T6XoH--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Yuito%2520Sato%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:TypeScript%25E3%2581%25AE%25E5%2585%25A8%25E3%2581%25A6%25E3%2581%25AEas%25E3%2582%2592%25E6%2592%25B2%25E6%25BB%2585%25E3%2581%2599%25E3%2582%258Bas-safely%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586OSS%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E3%2582%25BE%25E3%2582%25A9%25E3%2582%25A9%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZDk1YjBmYTViNS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/rpf_nob/articles/vscode-extension-js-console",
+          "author": "のふのふ🀄",
+          "description": "はじめに\nこの記事は以下を目的としています。\n\nVSCodeの拡張機能を作って公開する方法の簡単な説明\n作った拡張機能の宣伝\n\n\n どういうものを作ったのか❓\nJavaScript(TypeScript)でconsole.logなどの構文を簡単に挿入できるものを作りました。今まで使用していたほぼ同じような拡張機能があり、ちょっと機能追加したかったのですが、しばらく更新されていないようだったので自身で作り直して公開してみることにしました。\nここからインストールできますのでよかったらインストールして試してみてください🙇‍♂️\nhttps://marketplace.visualstudi...",
+          "link": "https://zenn.dev/rpf_nob/articles/vscode-extension-js-console",
+          "publishedOn": "2021-09-11T06:41:27.000Z",
+          "wordCount": 262,
+          "title": "【VSCode Extension】JavaScriptのconsoleを簡単に挿入できる拡張機能を作って公開してみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--ATKpl1pd--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%25AE%25E3%2581%25B5%25E3%2581%25AE%25E3%2581%25B5%2520%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:%25E3%2580%2590VSCode%2520Extension%25E3%2580%2591JavaScript%25E3%2581%25AEconsole%25E3%2582%2592%25E7%25B0%25A1%25E5%258D%2598%25E3%2581%25AB%25E6%258C%25BF%25E5%2585%25A5%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E6%258B%25A1%25E5%25BC%25B5%25E6%25A9%259F%25E8%2583%25BD%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E5%2585%25AC%25E9%2596%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2ljOVRTTU5ma1RXM2dfTTdFWFFwQ2kteFlLT2ZhcEVJZjhHazJmSWc9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
             "length": "0",
             "type": "image/png"
           }
@@ -22276,6 +22676,20 @@
             "url": "https://res.cloudinary.com/zenn/image/upload/s--p6q_SUpF--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:ichigo%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Next.js%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BSPA%25E7%259A%2584%25E9%2581%25B7%25E7%25A7%25BB%25E3%2581%25AE%25E8%2580%2583%25E3%2581%2588%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dJbjVqVFhfRGlKc2tiUjVzUkxXVnNUby03dFRWTkpCcUFvMWlLPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
             "length": "0",
             "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/rgbkids/books/dccbf9d3c0b206",
+          "author": "vteacher",
+          "description": "パラダイムチェンジが起き、ここ5年ほどでSSR（Server Side Rendering：PHPやRuby on Railsなど）からSPA（Single Page Application：ReactやVueなど）に変わっていきました。今後はさらに、SPAとSSRの良いとこ取りに移行しようとしています。今からReactを始めるなら、React Server Components がおすすめです。この本ではFacebookが2020年12月に公開した React Server Components Demo をコードを書きながら、丁寧に説明していきます。",
+          "link": "https://zenn.dev/rgbkids/books/dccbf9d3c0b206",
+          "publishedOn": "2021-09-10T09:55:10.000Z",
+          "wordCount": 63,
+          "title": "2021年からReactを始めるなら React Server Components 一択ではないか？（入門編）",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--hr5LYeSV--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci83NmQ3NjY4ZTg3LmpwZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg",
+            "length": "0",
+            "type": "image/jpeg"
           }
         },
         {
@@ -26404,132 +26818,6 @@
           "title": "Firebase + React で Todoist のクローンを作る",
           "enclosure": {
             "url": "https://res.cloudinary.com/zenn/image/upload/s--PYEr3HS6--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Altech%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Firebase%2520%252B%2520React%2520%25E3%2581%25A7%2520Todoist%2520%25E3%2581%25AE%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lwM1lJX0QtdzRRWVpUamg0WHhFV2FNaE01SHgzcHdjRXhucG15PXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/ysmtegsr/articles/bc00386d731bb3ab70bc",
-          "author": "ysmtegsr",
-          "description": "はじめに\nフロントエンドが SPA のプロジェクトで OGP 対応した際に、割と大変だったので備忘録としてまとめます。結論から言うと、Lambda@Edge を使って User-Agent で bot かどうか判断し、HTML を返すというお決まりの手法で行いました。\nその中でも、今回は REST API から画像 URL を取得する必要があったので Lambda@Edge 内で API へアクセスする処理も実装しました。\n\n 前提\n今回は、AWS 環境上で S3 + CloudFront によって構成されています。\n\n\n今回は S3, CloudFront は作成されている前提で行...",
-          "link": "https://zenn.dev/ysmtegsr/articles/bc00386d731bb3ab70bc",
-          "publishedOn": "2021-08-14T14:08:34.000Z",
-          "wordCount": 534,
-          "title": "AWS 環境の SPA で動的 OGP を実現する",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--1lpXFGKE--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:ysmtegsr%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:AWS%2520%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25AE%2520SPA%2520%25E3%2581%25A7%25E5%258B%2595%25E7%259A%2584%2520OGP%2520%25E3%2582%2592%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fYTMxZDc3MGI1Ny5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/kawarimidoll/articles/4ea4219cf69225",
-          "author": "kawarimidoll",
-          "description": "先日、Deno標準ライブラリのバージョン0.104.0が公開されました。\nhttps://github.com/denoland/deno_std/releases/tag/0.104.0\nこちらで増強されたcollectionsというモジュールを紹介します。\nhttps://deno.land/std@0.104.0/collections\nその名の通り、集合の扱いを支援してくれるモジュールです。\n本記事では0.104.0のリリースで追加された関数を紹介します。\n既存のものはバージョン0.102.0の時点での記事で解説していますので、あわせてご覧ください。\nhttps://zenn.d...",
-          "link": "https://zenn.dev/kawarimidoll/articles/4ea4219cf69225",
-          "publishedOn": "2021-08-14T12:59:52.000Z",
-          "wordCount": 660,
-          "title": "Deno標準ライブラリ0.104.0で増強されたcollectionsの紹介",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--KFwAFqVd--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:kawarimidoll%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Deno%25E6%25A8%2599%25E6%25BA%2596%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA0.104.0%25E3%2581%25A7%25E5%25A2%2597%25E5%25BC%25B7%25E3%2581%2595%25E3%2582%258C%25E3%2581%259Fcollections%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMjM3OWFjOGQ4Ni5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/umatoma/articles/e6c4051f4c882d",
-          "author": "umatoma",
-          "description": "Flexboxはレイアウト組む上でとても便利だが、justifyだとかalignだとか名前と意味の対応が曖昧で毎回調べていた。\n仕組み・使い方を理解しようと思い、図を使って整理してみた。\n\n Flexbox\nFlexboxは縦・横に要素を並べられるレイアウト方法です。\nFlexboxを使うことにより、縦・横に並べるだけでなく、並べた要素の中央寄せ・上寄せなど細かな位置も調整できます。\n\n コンテナ・アイテム\nFlexboxを使う上で必要となる要素が「Flexコンテナ」と「Flexアイテム」です。\nFlexコンテナの中にFlexアイテムを複数並べてレイアウトします。\n\n      \n   ...",
-          "link": "https://zenn.dev/umatoma/articles/e6c4051f4c882d",
-          "publishedOn": "2021-08-14T12:16:28.000Z",
-          "wordCount": 246,
-          "title": "図で理解するFlexbox",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--Zwb6W2ew--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:umatoma%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:%25E5%259B%25B3%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258BFlexbox%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lNVVdLY3dwaGFRMV91eUlQWWEwcy1udE1qeFVYQTNZYWFlLW5XPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/sterashima78/articles/e403fc0fe0e96a",
-          "author": "sterashima78",
-          "description": "はじめに\nソフトウェアアーキテクチャについて考えたり、話したりするときに、具体的に何のアーキテクチャを使うか？みたいな話になりがちな気がしている。\nそれは、ソフトウェアアーキテクチャについての情報が多く提供され、多くの人が認知した結果だと思っており、基本的にはいいことだと思う。\nただ、例えば『クリーンアーキテクチャ』で作る。と言ったときに、今作っているソフトウェアは本当に『クリーンアーキテクチャ』なのか？というような話に遭遇することがあり、それはなんだか不毛じゃないか？と思う。\n『クリーンアーキテクチャ』みたいな一つのまとまった提案は、とても参考になるし参考にすべきだと思うが、そもそ...",
-          "link": "https://zenn.dev/sterashima78/articles/e403fc0fe0e96a",
-          "publishedOn": "2021-08-14T12:04:05.000Z",
-          "wordCount": 269,
-          "title": "なぜソフトウェアアーキテクチャを考えるか",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--zJbQpSl5--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:sterashima78%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2581%25AA%25E3%2581%259C%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fN2ZlMzc4OGYxNS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/eagle/articles/ts-coproduct-introduction",
-          "author": "eagle",
-          "description": "代数的データ型とはなにか\n代数的データ型とは、要素の個数の足し算と掛け算のアナロジーで語ることができる型のことを指すというふわっとしたコンセンサスがありますが、\n厳密に「これが代数的データ型である」という定義はおそらくありません[1]。\nまた、代数的データ型はいわゆる関数型言語で実装されることが多い言語機能であり、\n代数的データ型を重用するプログラミングスタイルは関数型の一派としてみなされる傾向がある[2]と思っています。\n本記事では数学的な説明やアナロジーは用いず、なるべく具体的なコードを提示します。\nそして、代数的データ型という言葉を「かつ」と「または」を表すことができる型として...",
-          "link": "https://zenn.dev/eagle/articles/ts-coproduct-introduction",
-          "publishedOn": "2021-08-14T11:38:08.000Z",
-          "wordCount": 1719,
-          "title": "TypeScriptで学ぶ代数的データ型",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--KpEjgwH5--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:eagle%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:TypeScript%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%25E4%25BB%25A3%25E6%2595%25B0%25E7%259A%2584%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E5%259E%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZTFmZjAxNGQyZi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/koki_tech/articles/4d7aeaa9908040",
-          "author": "Koki Nagai",
-          "description": "こんにちは、株式会社スタメンでフロントエンドエンジニアをしている@0906kokiです。\n今回の記事ではReactを使用する際に、なぜメモ化をする必要があるかについて書きたいと思います。\nこの記事を書こうかなと思った背景としては、普段Reactでコーディングをしている中で、「ここはレンダリングが不要だからメモ化する必要がある」とか「関数が再生成されてしまうからuseCallbackを使おう」みたいにメモ化していたのですが、そもそもメモ化をすることでどんなメリットがあるのか実感をしていなかったからです。\n「たしかにメモ化をすることでレンダリングが抑えられるが、DBによるボトルネックやN+1...",
-          "link": "https://zenn.dev/koki_tech/articles/4d7aeaa9908040",
-          "publishedOn": "2021-08-14T10:21:51.000Z",
-          "wordCount": 393,
-          "title": "なぜメモ化を行う必要があるのか？メモ化の意義について考える。",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--ualqSYnG--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Koki%2520Nagai%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2581%25AA%25E3%2581%259C%25E3%2583%25A1%25E3%2583%25A2%25E5%258C%2596%25E3%2582%2592%25E8%25A1%258C%25E3%2581%2586%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%258C%25E3%2581%2582%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%25E3%2583%25A1%25E3%2583%25A2%25E5%258C%2596%25E3%2581%25AE%25E6%2584%258F%25E7%25BE%25A9%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2h2X19mQldpYWVVeFVsZjVxaHZPSGpfMk1uZTIwdGpBdW9rV2hnPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/ryoatsuta/articles/7881d632f725dc",
-          "author": "R",
-          "description": "はじめに\n文化というものはとても強力で、侮れない。それこそ企業の長期的成長には絶対に欠かすことができません。頻繁に聞く概念にカルチャーフィットという言葉もあるくらいで、多くの企業から「企業文化は戦略と同じぐらい重要である」「文化なき企業は並の業績しかあげられない」と言われるほどに企業文化との一致は重要視されているようです。では、そもそも文化がなぜ大切だと言われているのか。いざ聞かれてみると中々言語化することができません。言語化が出来ないということは、自分の中で「文化」というものを理解していない、本当の大切さを理解していないということです。理解をしていないということは物事を判断する際に...",
-          "link": "https://zenn.dev/ryoatsuta/articles/7881d632f725dc",
-          "publishedOn": "2021-08-14T08:52:08.000Z",
-          "wordCount": 78,
-          "title": "なぜ「文化」が大切なのか",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--nsUqgWsq--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:R%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:%25E3%2581%25AA%25E3%2581%259C%25E3%2580%258C%25E6%2596%2587%25E5%258C%2596%25E3%2580%258D%25E3%2581%258C%25E5%25A4%25A7%25E5%2588%2587%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNmI4ZGZkN2JlNi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/hayata_yamamoto/articles/github-access-key",
-          "author": "hayata-yamamoto",
-          "description": "初めに\n8/13 に、GitHub の HTTPS 認証時にベーシック認証が使用できなくなりました. git push origin <branch> した際に、ベーシック認証を使用している場合は、以下のようなエラーが出るようになっています。Mac 上での解決方法を本記事では解説します。\n\n      \n        \n        remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead....",
-          "link": "https://zenn.dev/hayata_yamamoto/articles/github-access-key",
-          "publishedOn": "2021-08-14T05:46:36.000Z",
-          "wordCount": 93,
-          "title": "GitHubのHTTPS認証方法を、ベーシック認証用のパスワードからパーソナルアクセストークンに置き換える方法",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--DMdkE71f--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:hayata-yamamoto%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:GitHub%25E3%2581%25AEHTTPS%25E8%25AA%258D%25E8%25A8%25BC%25E6%2596%25B9%25E6%25B3%2595%25E3%2582%2592%25E3%2580%2581%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF%25E8%25AA%258D%25E8%25A8%25BC%25E7%2594%25A8%25E3%2581%25AE%25E3%2583%2591%25E3%2582%25B9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E3%2581%258B%25E3%2582%2589%25E3%2583%2591%25E3%2583%25BC%25E3%2582%25BD%25E3%2583%258A%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%25AB%25E7%25BD%25AE%25E3%2581%258D%25E6%258F%259B%25E3%2581%2588%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fYzI1OTc0ZTg2MS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/suzuki_hoge/articles/2021-08-github-access-f732e5b9868137",
-          "author": "ほげさん",
-          "description": "2021/08/13 ( 時間不明 ) に GitHub はパスワードで push / pull ができなくなったんですね？\n全然知りませんでした、すげービビりました。\n\n      \n        \n        $ git push origin foo\nSupport for password authentication was removed on August 13, 2021. Please use a personal access token instead.\nremote: Please see https://github.blog/2020-12-15-tok...",
-          "link": "https://zenn.dev/suzuki_hoge/articles/2021-08-github-access-f732e5b9868137",
-          "publishedOn": "2021-08-14T02:06:20.000Z",
-          "wordCount": 135,
-          "title": "Mac が覚えている GitHub のパスワードをパーソナルアクセストークンに変更する",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--TrMqqy-v--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%25BB%25E3%2581%2592%25E3%2581%2595%25E3%2582%2593%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:Mac%2520%25E3%2581%258C%25E8%25A6%259A%25E3%2581%2588%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%2520GitHub%2520%25E3%2581%25AE%25E3%2583%2591%25E3%2582%25B9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E3%2583%2591%25E3%2583%25BC%25E3%2582%25BD%25E3%2583%258A%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%25AB%25E5%25A4%2589%25E6%259B%25B4%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fM2UwNTYzODhiMC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
             "length": "0",
             "type": "image/png"
           }
